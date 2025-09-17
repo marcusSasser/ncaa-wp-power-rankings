@@ -9,57 +9,97 @@
       font-family: Arial, sans-serif;
       background: #fff;
       color: #000;
-      max-width: 700px;
-      margin: 40px auto;
-      line-height: 1.6;
+      max-width: 1000px;
+      margin: 30px auto;
+      padding: 0 15px;
     }
     h1 {
       text-align: center;
-      margin-bottom: 30px;
+      margin-bottom: 20px;
     }
-    .ranking {
-      margin-bottom: 40px;
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.95em;
     }
-    .ranking h2 {
-      border-bottom: 1px solid #000;
-      padding-bottom: 5px;
-      margin-bottom: 15px;
+    thead {
+      background: #f2f2f2;
     }
-    ol {
-      padding-left: 20px;
+    th, td {
+      padding: 8px 10px;
+      border-bottom: 1px solid #ccc;
+      text-align: left;
+    }
+    tr:hover {
+      background: #fafafa;
+    }
+    th {
+      font-weight: bold;
+    }
+    .rank {
+      text-align: right;
+      width: 50px;
+      color: #555;
     }
     footer {
       text-align: center;
-      margin-top: 50px;
+      margin-top: 30px;
       font-size: 0.9em;
-      color: #555;
+      color: #666;
     }
   </style>
 </head>
 <body>
-  <h1>Power Rankings</h1>
+  <h1>Power Rankings – Week 1</h1>
 
-  <div class="ranking">
-    <h2>Week 1</h2>
-    <ol>
-      <li>Team A</li>
-      <li>Team B</li>
-      <li>Team C</li>
-      <li>Team D</li>
-      <li>Team E</li>
-    </ol>
-  </div>
-
-  <div class="ranking">
-    <h2>Week 2</h2>
-    <ol>
-      <li>Team B</li>
-      <li>Team A</li>
-      <li>Team D</li>
-      <li>Team E</li>
-      <li>Team C</li>
-    </ol>
-  </div>
+  <table>
+    <thead>
+      <tr>
+        <th class="rank">#</th>
+        <th>Team</th>
+        <th>Record</th>
+        <th>Rating</th>
+        <th>Change</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td class="rank">1</td>
+        <td>Team A</td>
+        <td>5–0</td>
+        <td>95.4</td>
+        <td>+2</td>
+      </tr>
+      <tr>
+        <td class="rank">2</td>
+        <td>Team B</td>
+        <td>4–1</td>
+        <td>93.2</td>
+        <td>-1</td>
+      </tr>
+      <tr>
+        <td class="rank">3</td>
+        <td>Team C</td>
+        <td>3–2</td>
+        <td>89.7</td>
+        <td>+0</td>
+      </tr>
+      <tr>
+        <td class="rank">4</td>
+        <td>Team D</td>
+        <td>3–2</td>
+        <td>88.3</td>
+        <td>-1</td>
+      </tr>
+      <tr>
+        <td class="rank">5</td>
+        <td>Team E</td>
+        <td>2–3</td>
+        <td>85.1</td>
+        <td>+1</td>
+      </tr>
+    </tbody>
+  </table>
 
   <footer>
     Last updated: September 17, 2025
