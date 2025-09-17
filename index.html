@@ -7,55 +7,42 @@
   <style>
     body {
       font-family: Calibri, sans-serif;
-      background: #fff;
-      color: #000;
       max-width: 1000px;
       margin: 30px auto;
       padding: 0 15px;
     }
     h1 {
       text-align: center;
-      margin-bottom: 20px;
     }
     table {
       width: 100%;
       border-collapse: collapse;
-      font-size: 0.95em;
-    }
-    thead {
-      background: #f2f2f2;
     }
     th, td {
       padding: 8px 10px;
       border-bottom: 1px solid #ccc;
       text-align: left;
     }
+    thead {
+      background: #f2f2f2;
+    }
     tr:hover {
       background: #fafafa;
-    }
-    th {
-      font-weight: bold;
     }
     .rank {
       text-align: right;
       width: 50px;
       color: #555;
     }
-    footer {
-      text-align: center;
-      margin-top: 30px;
-      font-size: 0.9em;
-      color: #666;
-    }
   </style>
 </head>
 <body>
-  <h1>NCAA Football</h1>
+  <h1>Power Rankings</h1>
 
-  <table>
+  <table id="rankings">
     <thead>
       <tr>
-        <th class="rank">Ranking</th>
+        <th>Rank</th>
         <th>Team</th>
         <th>Record</th>
         <th>Conf</th>
@@ -67,47 +54,47 @@
         <th>Resume</th>
       </tr>
     </thead>
-    <tbody>
-      <tr>
-        <td class="rank">1</td>
-        <td>Team A</td>
-        <td>5–0</td>
-        <td>95.4</td>
-        <td>+2</td>
-      </tr>
-      <tr>
-        <td class="rank">2</td>
-        <td>Team B</td>
-        <td>4–1</td>
-        <td>93.2</td>
-        <td>-1</td>
-      </tr>
-      <tr>
-        <td class="rank">3</td>
-        <td>Team C</td>
-        <td>3–2</td>
-        <td>89.7</td>
-        <td>+0</td>
-      </tr>
-      <tr>
-        <td class="rank">4</td>
-        <td>Team D</td>
-        <td>3–2</td>
-        <td>88.3</td>
-        <td>-1</td>
-      </tr>
-      <tr>
-        <td class="rank">5</td>
-        <td>Team E</td>
-        <td>2–3</td>
-        <td>85.1</td>
-        <td>+1</td>
-      </tr>
-    </tbody>
+    <tbody></tbody>
   </table>
 
-  <footer>
-    Last updated: Through Week 3
-  </footer>
+  <script>
+    async function loadSheet() {
+      const url = "https://spreadsheets.google.com/feeds/list/2PACX-1vQNb2wzYrdN69JIljx2w4SNEtZUnf6gRTTORASJ0FEmVNrFvwfNOO1bCqVyxjvcIaer4FA5p6meqnxo/1/public/values?alt=json";
+      const res = await fetch(url);
+      const data = await res.json();
+
+      let rows = data.feed.entry.map(r => ({
+        rank: r.gsx$ranking.$t,
+        team: r.gsx$team.$t,
+        record: r.gsx$record.$t,
+        conf: r.gsx$conf.$t,
+        subdiv: r.gsx$subdiv.$t,
+        rating: r.gsx$rating.$t,
+        mov: r.gsx$mov.$t,
+        sos: r.gsx$sos.$t,
+        last_year: r.gsx$last_year.$t,
+        resume: r.gsx$resume.$t
+      }));
+
+      let tbody = document.querySelector("#rankings tbody");
+      rows.forEach(row => {
+        let tr = document.createElement("tr");
+        tr.innerHTML = `
+          <td class="rank">${row.ranking}</td>
+          <td>${row.team}</td>
+          <td>${row.record}</td>
+          <td>${row.conf}</td>
+          <td>${row.subdiv}</td>
+          <td>${row.rating}</td>
+          <td>${row.mov}</td>
+          <td>${row.sos}</td>
+          <td>${row.last_year}</td>
+          <td>${row.resume}</td>
+        `;
+        tbody.appendChild(tr);
+      });
+    }
+    loadSheet();
+  </script>
 </body>
 </html>
