@@ -1,0 +1,366 @@
+Ranking    Team       Record     Conf       Rating     MoV        SoS        Last Year
+1          Houston    0-0        B12        0.877      2          7          1
+2          Auburn     0-0        SEC        0.853      6          2          2
+3          Duke       0-0        ACC        0.850      1          38         3
+4          Florida    0-0        SEC        0.789      5          13         4
+5          Alabama    0-0        SEC        0.746      28         1          5
+6          Tennessee  0-0        SEC        0.702      15         10         6
+7          Gonzaga    0-0        WCC        0.664      4          56         7
+8          Texas Tech 0-0        B12        0.621      18         28         8
+9          Arizona    0-0        B12        0.618      47         4          9
+10         Wisconsin  0-0        B10        0.603      22         31         10
+11         Purdue     0-0        B10        0.601      52         5          11
+12         Iowa State 0-0        B12        0.598      20         35         12
+13         Michigan St0-0        B10        0.591      35         20         13
+14         Maryland   0-0        B10        0.586      14         53         14
+15         BYU        0-0        B12        0.566      31         34         15
+16         Illinois   0-0        B10        0.559      54         15         16
+17         Kentucky   0-0        SEC        0.558      83         3          17
+18         Saint Mary'0-0        WCC        0.555      12         66         18
+19         Louisville 0-0        ACC        0.552      27         50         19
+20         St. John's 0-0        BE         0.542      13         58         20
+21         Texas A&M  0-0        SEC        0.536      71         12         21
+22         Clemson    0-0        ACC        0.533      16         62         22
+23         UCLA       0-0        B10        0.527      43         37         23
+24         Ole Miss   0-0        SEC        0.522      80         11         24
+25         Michigan   0-0        B10        0.522      93         8          25
+26         Missouri   0-0        SEC        0.522      38         47         26
+27         Kansas     0-0        B12        0.509      99         9          27
+28         Mississippi0-0        SEC        0.471      92         19         28
+29         Oregon     0-0        B10        0.468      112        16         29
+30         Marquette  0-0        BE         0.461      56         52         30
+31         New Mexico 0-0        MW         0.459      25         77         31
+32         North Carol0-0        ACC        0.456      86         29         32
+33         VCU        0-0        A10        0.452      9          103        33
+34         Georgia    0-0        SEC        0.452      95         27         34
+35         Creighton  0-0        BE         0.443      72         48         35
+36         West Virgin0-0        B12        0.442      105        25         36
+37         Baylor     0-0        B12        0.429      136        14         37
+38         Xavier     0-0        BE         0.426      46         68         38
+39         UConn      0-0        BE         0.423      49         61         39
+40         Utah State 0-0        MW         0.415      33         88         40
+41         Ohio State 0-0        B10        0.403      144        17         41
+42         Colorado St0-0        MW         0.399      48         74         42
+43         Drake      0-0        MVC        0.397      10         126        43
+44         Arkansas   0-0        SEC        0.394      135        24         44
+45         Vanderbilt 0-0        SEC        0.392      116        45         45
+46         Cincinnati 0-0        B12        0.383      113        51         46
+47         Nebraska   0-0        B10        0.382      124        41         47
+48         Indiana    0-0        B10        0.373      159        21         48
+49         UC San Dieg0-0        BW         0.366      3          201        49
+50         Boise State0-0        MW         0.366      55         84         50
+51         Santa Clara0-0        WCC        0.365      53         87         51
+52         SMU        0-0        ACC        0.352      61         85         52
+53         Memphis    0-0        Amer       0.350      75         71         53
+54         Oklahoma   0-0        SEC        0.349      163        30         54
+55         Northwester0-0        B10        0.342      161        33         55
+56         San Francis0-0        WCC        0.342      58         90         56
+57         San Diego S0-0        MW         0.340      85         69         57
+58         Texas      0-0        SEC        0.335      151        43         58
+59         USC        0-0        B10        0.332      172        32         59
+60         McNeese    0-0        Slnd       0.330      11         166        60
+61         Villanova  0-0        BE         0.328      74         86         61
+62         George Maso0-0        A10        0.325      29         114        62
+63         Liberty    0-0        CUSA       0.316      8          195        63
+64         Iowa       0-0        B10        0.310      167        46         64
+65         Penn State 0-0        B10        0.310      122        63         65
+66         Kansas Stat0-0        B12        0.305      180        44         66
+67         Pitt       0-0        ACC        0.287      150        57         67
+68         Utah       0-0        B12        0.281      171        55         68
+69         North Texas0-0        Amer       0.279      40         119        69
+70         Wake Forest0-0        ACC        0.276      138        65         70
+71         Arizona Sta0-0        B12        0.276      281        6          71
+72         Washington 0-0        WCC        0.272      102        89         72
+73         Stanford   0-0        ACC        0.267      128        75         73
+74         Bradley    0-0        MVC        0.267      44         120        74
+75         Grand Canyo0-0        MW         0.266      19         173        75
+76         Dayton     0-0        A10        0.256      106        95         76
+77         Arkansas St0-0        SB         0.253      30         154        77
+78         Rutgers    0-0        B10        0.251      227        36         78
+79         Akron      0-0        MAC        0.248      17         196        79
+80         UCF        0-0        B12        0.247      250        26         80
+81         UC Irvine  0-0        BW         0.246      39         140        81
+82         Saint Josep0-0        A10        0.241      67         108        82
+83         High Point 0-0        BSth       0.238      7          283        83
+84         TCU        0-0        B12        0.231      269        23         84
+85         Oregon Stat0-0        WCC        0.223      87         101        85
+86         South Carol0-0        SEC        0.220      280        22         86
+87         UAB        0-0        Amer       0.220      59         130        87
+88         Yale       0-0        Ivy        0.218      23         202        88
+89         Troy       0-0        SB         0.217      34         176        89
+90         Oklahoma St0-0        B12        0.216      253        40         90
+91         St. Bonaven0-0        A10        0.206      63         133        91
+92         UNLV       0-0        MW         0.201      174        80         92
+93         Minnesota  0-0        B10        0.197      265        39         93
+94         LSU        0-0        SEC        0.196      255        49         94
+95         Loyola Chic0-0        A10        0.194      69         128        95
+96         Florida Sta0-0        ACC        0.193      187        76         96
+97         St. Thomas 0-0        Sum        0.192      24         220        97
+98         Nevada     0-0        MW         0.185      185        82         98
+99         Butler     0-0        BE         0.178      256        54         99
+100        Northern Io0-0        MVC        0.178      117        105        100
+101        UNC Wilming0-0        CAA        0.177      26         235        101
+102        New Mexico 0-0        CUSA       0.175      84         127        102
+103        Northern Co0-0        BSky       0.168      36         212        103
+104        Notre Dame 0-0        ACC        0.158      214        72         104
+105        North Alaba0-0        ASun       0.155      21         264        105
+106        North Dakot0-0        Sum        0.154      45         199        106
+107        Colorado   0-0        B12        0.150      318        18         107
+108        Kent State 0-0        MAC        0.150      66         162        108
+109        Virginia   0-0        ACC        0.149      243        59         109
+110        Lipscomb   0-0        ASun       0.149      32         242        110
+111        South Dakot0-0        Sum        0.138      82         153        111
+112        Georgia Tec0-0        ACC        0.138      211        83         112
+113        Middle Tenn0-0        CUSA       0.136      134        110        113
+114        FAU        0-0        Amer       0.125      139        112        114
+115        Omaha      0-0        Sum        0.123      78         164        115
+116        Utah Valley0-0        WAC        0.120      64         188        116
+117        Chattanooga0-0        SoCon      0.120      57         205        117
+118        UTEP       0-0        CUSA       0.118      131        124        118
+119        Montana    0-0        BSky       0.118      76         172        119
+120        Washington 0-0        B10        0.117      312        42         120
+121        Saint Louis0-0        A10        0.116      178        98         121
+122        Louisiana T0-0        CUSA       0.114      123        137        122
+123        George Wash0-0        A10        0.112      108        150        123
+124        Syracuse   0-0        ACC        0.110      277        60         124
+125        Georgetown 0-0        BE         0.110      209        94         125
+126        NC State   0-0        ACC        0.100      251        81         126
+127        Jax State  0-0        CUSA       0.100      132        136        127
+128        Belmont    0-0        MVC        0.097      145        122        128
+129        Illinois St0-0        MVC        0.094      137        132        129
+130        James Madis0-0        SB         0.092      90         180        130
+131        South Alaba0-0        SB         0.091      70         204        131
+132        Miami OH   0-0        MAC        0.085      42         275        132
+133        Davidson   0-0        A10        0.084      143        135        133
+134        Providence 0-0        BE         0.077      293        67         134
+135        DePaul     0-0        BE         0.075      272        78         135
+136        Samford    0-0        SoCon      0.074      68         233        136
+137        Kennesaw St0-0        CUSA       0.073      147        138        137
+138        Charleston 0-0        CAA        0.066      91         200        138
+139        Cal        0-0        ACC        0.064      292        73         139
+140        LMU        0-0        WCC        0.062      218        97         140
+141        Western Ken0-0        CUSA       0.057      210        100        141
+142        Wichita Sta0-0        Amer       0.055      197        109        142
+143        UC Santa Ba0-0        BW         0.052      96         207        143
+144        Virginia Te0-0        ACC        0.052      291        79         144
+145        Duquesne   0-0        A10        0.046      195        118        145
+146        Marshall   0-0        SB         0.043      111        203        146
+147        Texas A&M-C0-0        Slnd       0.041      62         272        147
+148        Tulane     0-0        Amer       0.040      142        160        148
+149        Wofford    0-0        SoCon      0.039      100        215        149
+150        Murray Stat0-0        MVC        0.035      200        116        150
+151        Cornell    0-0        Ivy        0.035      60         277        151
+152        Robert Morr0-0        Horz       0.032      88         240        152
+153        Milwaukee  0-0        Horz       0.032      94         236        153
+154        Ohio       0-0        MAC        0.031      129        184        154
+155        Furman     0-0        SoCon      0.031      79         247        155
+156        UC Riversid0-0        BW         0.028      179        142        156
+157        UIC        0-0        MVC        0.026      190        134        157
+158        Cleveland S0-0        Horz       0.019      81         254        158
+159        Nicholls   0-0        Slnd       0.019      115        226        159
+160        Temple     0-0        Amer       0.018      173        151        160
+161        Sam Houston0-0        CUSA       0.018      217        113        161
+162        CSUN       0-0        BW         0.017      97         245        162
+163        Seattle    0-0        WCC        0.017      175        152        163
+164        San Jose St0-0        MW         0.016      236        104        164
+165        Rhode Islan0-0        A10        0.014      183        147        165
+166        PFW        0-0        Horz       0.010      77         270        166
+167        Cal Baptist0-0        WAC        0.006      192        144        167
+168        App State  0-0        SB         0.006      121        228        168
+169        Eastern Ken0-0        ASun       -0.002     109        249        169
+170        ETSU       0-0        SoCon      -0.009     103        257        170
+171        Florida Gul0-0        ASun       -0.010     130        224        171
+172        Bryant     0-0        AE         -0.011     50         316        172
+173        Southern Il0-0        MVC        -0.012     262        102        173
+174        Radford    0-0        BSth       -0.017     89         280        174
+175        Wyoming    0-0        MW         -0.018     305        93         175
+176        Drexel     0-0        CAA        -0.022     101        276        176
+177        Boston Coll0-0        ACC        -0.030     314        91         177
+178        SE Missouri0-0        OVC        -0.034     65         310        178
+179        SE Louisian0-0        Slnd       -0.036     140        237        179
+180        Lamar      0-0        Slnd       -0.037     148        219        180
+181        Cal Poly   0-0        BW         -0.039     232        139        181
+182        Oakland    0-0        Horz       -0.040     198        165        182
+183        Pepperdine 0-0        WCC        -0.043     295        99         183
+184        East Caroli0-0        Amer       -0.043     205        158        184
+185        Winthrop   0-0        BSth       -0.045     114        281        185
+186        Abilene Chr0-0        WAC        -0.049     182        194        186
+187        Wright Stat0-0        Horz       -0.052     154        229        187
+188        Towson     0-0        CAA        -0.054     166        214        188
+189        Missouri St0-0        CUSA       -0.054     289        106        189
+190        Montana Sta0-0        BSky       -0.060     191        192        190
+191        Central Mic0-0        MAC        -0.061     160        232        191
+192        Princeton  0-0        Ivy        -0.061     189        197        192
+193        Texas State0-0        SB         -0.063     169        221        193
+194        Northeaster0-0        CAA        -0.065     149        246        194
+195        Indiana Sta0-0        MVC        -0.069     215        169        195
+196        Norfolk Sta0-0        MEAC       -0.070     51         350        196
+197        Rice       0-0        Amer       -0.071     208        179        197
+198        Idaho State0-0        BSky       -0.071     162        241        198
+199        UTSA       0-0        Amer       -0.072     248        148        199
+200        Richmond   0-0        A10        -0.073     294        111        200
+201        Portland St0-0        BSky       -0.073     107        300        201
+202        Jacksonvill0-0        ASun       -0.074     170        234        202
+203        Queens     0-0        ASun       -0.077     146        263        203
+204        Incarnate W0-0        Slnd       -0.078     127        287        204
+205        Miami FL   0-0        ACC        -0.079     333        70         205
+206        Youngstown 0-0        Horz       -0.080     120        296        206
+207        Valparaiso 0-0        MVC        -0.082     257        143        207
+208        UNCG       0-0        SoCon      -0.082     110        304        208
+209        Quinnipiac 0-0        MAAC       -0.083     118        299        209
+210        Merrimack  0-0        MAAC       -0.086     155        256        210
+211        CCSU       0-0        NEC        -0.088     37         360        211
+212        Hawai'i    0-0        BW         -0.088     239        163        212
+213        La Salle   0-0        A10        -0.093     296        121        213
+214        Toledo     0-0        MAC        -0.094     245        161        214
+215        USF        0-0        Amer       -0.095     275        141        215
+216        Southern   0-0        SWAC       -0.095     73         337        216
+217        SC State   0-0        MEAC       -0.098     41         359        217
+218        Northwester0-0        Slnd       -0.101     221        189        218
+219        Brown      0-0        Ivy        -0.101     156        273        219
+220        Tennessee S0-0        OVC        -0.102     98         326        220
+221        Georgia Sou0-0        SB         -0.102     206        210        221
+222        Tulsa      0-0        Amer       -0.108     249        171        222
+223        UNC Ashevil0-0        BSth       -0.109     104        325        223
+224        Delaware   0-0        CUSA       -0.110     196        239        224
+225        UT Arlingto0-0        WAC        -0.112     235        186        225
+226        Northern Ar0-0        BSky       -0.112     158        278        226
+227        Little Rock0-0        OVC        -0.114     153        282        227
+228        Fordham    0-0        A10        -0.118     303        123        228
+229        UMass      0-0        MAC        -0.120     299        131        229
+230        South Dakot0-0        Sum        -0.121     223        209        230
+231        SIUE       0-0        OVC        -0.125     126        312        231
+232        UTRGV      0-0        Slnd       -0.127     152        291        232
+233        UC Davis   0-0        BW         -0.129     259        177        233
+234        Idaho      0-0        BSky       -0.130     224        218        234
+235        North Dakot0-0        Sum        -0.130     284        155        235
+236        William & M0-0        CAA        -0.130     164        284        236
+237        Campbell   0-0        CAA        -0.132     193        262        237
+238        Northern Ke0-0        Horz       -0.133     247        190        238
+239        Vermont    0-0        AE         -0.133     119        330        239
+240        Dartmouth  0-0        Ivy        -0.139     133        315        240
+241        Georgia Sta0-0        SB         -0.146     268        182        241
+242        Bucknell   0-0        PL         -0.152     186        286        242
+243        North Flori0-0        ASun       -0.155     240        223        243
+244        Hofstra    0-0        CAA        -0.156     202        267        244
+245        Hampton    0-0        CAA        -0.160     188        289        245
+246        Evansville 0-0        MVC        -0.163     320        125        246
+247        Elon       0-0        CAA        -0.163     181        297        247
+248        Portland   0-0        WCC        -0.172     323        117        248
+249        UMKC       0-0        Sum        -0.174     204        279        249
+250        Houston Chr0-0        Slnd       -0.175     266        211        250
+251        Eastern Mic0-0        MAC        -0.178     254        231        251
+252        FIU        0-0        CUSA       -0.179     306        156        252
+253        Seton Hall 0-0        BE         -0.181     356        64         253
+254        Longwood   0-0        BSth       -0.186     184        305        254
+255        Jackson Sta0-0        SWAC       -0.189     264        230        255
+256        Maine      0-0        AE         -0.190     125        353        256
+257        UMass Lowel0-0        AE         -0.192     141        338        257
+258        Ball State 0-0        MAC        -0.192     231        266        258
+259        Manhattan  0-0        MAAC       -0.192     176        319        259
+260        American   0-0        PL         -0.192     157        329        260
+261        Bakersfield0-0        BW         -0.193     282        208        261
+262        Bowling Gre0-0        MAC        -0.193     241        255        262
+263        Denver     0-0        Sum        -0.195     313        159        263
+264        Iona       0-0        MAAC       -0.195     203        293        264
+265        Mount St. M0-0        MAAC       -0.203     207        295        265
+266        Sacred Hear0-0        MAAC       -0.205     168        328        266
+267        SF Austin  0-0        Slnd       -0.205     288        217        267
+268        Eastern Was0-0        BSky       -0.210     311        175        268
+269        Tarleton St0-0        WAC        -0.214     310        181        269
+270        Fresno Stat0-0        MW         -0.216     349        92         270
+271        Pacific    0-0        WCC        -0.220     332        115        271
+272        UT Martin  0-0        OVC        -0.222     194        320        272
+273        Monmouth   0-0        CAA        -0.223     307        191        273
+274        Harvard    0-0        Ivy        -0.225     283        243        274
+275        Western Mic0-0        MAC        -0.226     315        185        275
+276        Marist     0-0        MAAC       -0.231     165        342        276
+277        Gardner-Web0-0        BSth       -0.232     300        213        277
+278        Southern Ut0-0        WAC        -0.232     309        198        278
+279        Tennessee T0-0        OVC        -0.233     237        292        279
+280        Alabama Sta0-0        SWAC       -0.238     213        309        280
+281        Old Dominio0-0        SB         -0.239     319        183        281
+282        Weber State0-0        BSky       -0.242     279        260        282
+283        Bethune-Coo0-0        SWAC       -0.242     287        252        283
+284        Charlotte  0-0        Amer       -0.252     327        145        284
+285        Austin Peay0-0        ASun       -0.256     316        206        285
+286        Colgate    0-0        PL         -0.257     244        298        286
+287        Louisiana  0-0        SB         -0.261     328        149        287
+288        Siena      0-0        MAAC       -0.264     273        285        288
+289        Texas South0-0        SWAC       -0.267     221        322        289
+290        Mercer     0-0        SoCon      -0.267     242        307        290
+291        Coastal Car0-0        SB         -0.269     297        261        291
+292        Presbyteria0-0        BSth       -0.270     216        327        292
+293        Utah Tech  0-0        WAC        -0.272     325        167        293
+294        Air Force  0-0        MW         -0.278     358        96         294
+295        Saint Peter0-0        MAAC       -0.283     220        334        295
+296        Albany     0-0        AE         -0.283     199        349        296
+297        Oral Robert0-0        Sum        -0.284     326        170        297
+298        Eastern Ill0-0        OVC        -0.288     267        301        298
+299        Lindenwood 0-0        OVC        -0.289     238        323        299
+300        Penn       0-0        Ivy        -0.290     324        187        300
+301        Lafayette  0-0        PL         -0.294     219        336        301
+302        Morehead St0-0        OVC        -0.299     260        311        302
+303        LIU        0-0        NEC        -0.300     177        358        303
+304        San Diego  0-0        WCC        -0.305     354        107        304
+305        Army       0-0        PL         -0.311     230        339        305
+306        Columbia   0-0        Ivy        -0.311     270        314        306
+307        Grambling  0-0        SWAC       -0.315     276        313        307
+307        Saint Franc0-0        NEC        -0.315     226        348        307
+309        Southern Mi0-0        SB         -0.315     330        178        309
+310        Florida A&M0-0        SWAC       -0.316     286        303        310
+311        IUI        0-0        Horz       -0.319     301        288        311
+312        Navy       0-0        PL         -0.320     233        346        312
+313        Long Beach 0-0        BW         -0.325     336        174        313
+314        Rider      0-0        MAAC       -0.331     302        294        314
+315        Loyola MD  0-0        PL         -0.337     251        345        315
+316        Binghamton 0-0        AE         -0.341     234        354        316
+317        Niagara    0-0        MAAC       -0.342     285        321        317
+318        Lehigh     0-0        PL         -0.346     274        333        318
+319        Alcorn Stat0-0        SWAC       -0.346     321        269        319
+320        FDU        0-0        NEC        -0.346     246        352        320
+321        Howard     0-0        MEAC       -0.348     261        341        321
+322        Stonehill  0-0        NEC        -0.352     229        355        322
+323        UMBC       0-0        AE         -0.356     228        356        323
+324        Mercyhurst 0-0        NEC        -0.360     225        357        324
+325        Southern In0-0        OVC        -0.362     304        308        325
+326        Boston Univ0-0        PL         -0.366     278        340        326
+327        VMI        0-0        SoCon      -0.367     263        351        327
+328        Holy Cross 0-0        PL         -0.368     290        335        328
+329        Western Ill0-0        OVC        -0.369     298        324        329
+330        Green Bay  0-0        Horz       -0.380     351        157        330
+331        Charleston 0-0        BSth       -0.389     338        225        331
+332        Bellarmine 0-0        ASun       -0.394     329        258        332
+333        SC Upstate 0-0        BSth       -0.395     331        253        333
+334        Fairfield  0-0        MAAC       -0.406     322        306        334
+335        East Texas 0-0        Slnd       -0.407     357        146        335
+336        Wagner     0-0        NEC        -0.422     201        364        336
+337        Northern Il0-0        MAC        -0.424     335        268        337
+338        Louisiana-M0-0        SB         -0.426     334        271        338
+339        Alabama A&M0-0        SWAC       -0.428     308        347        339
+340        Delaware St0-0        MEAC       -0.428     212        363        340
+341        Le Moyne   0-0        NEC        -0.428     317        331        341
+342        NC Central 0-0        MEAC       -0.430     258        361        342
+343        Stony Brook0-0        CAA        -0.434     339        251        343
+344        NC A&T     0-0        CAA        -0.435     337        265        344
+345        Western Car0-0        SoCon      -0.438     341        248        345
+346        Detroit    0-0        Horz       -0.439     355        193        346
+347        West Georgi0-0        ASun       -0.441     346        227        347
+348        Sac State  0-0        BSky       -0.442     344        244        348
+349        Fullerton  0-0        BW         -0.448     360        168        349
+350        Morgan Stat0-0        MEAC       -0.449     271        362        350
+351        Buffalo    0-0        MAC        -0.457     353        222        351
+352        New Orleans0-0        Slnd       -0.460     363        129        352
+353        Stetson    0-0        ASun       -0.476     350        250        353
+354        Central Ark0-0        ASun       -0.479     347        259        354
+355        Prairie Vie0-0        SWAC       -0.499     342        290        355
+356        Canisius   0-0        MAAC       -0.521     359        238        356
+357        New Hampshi0-0        AE         -0.550     345        318        357
+358        NJIT       0-0        AE         -0.562     340        332        358
+359        Chicago Sta0-0        NEC        -0.562     362        216        359
+360        The Citadel0-0        SoCon      -0.581     352        317        360
+361        UMES       0-0        MEAC       -0.591     343        343        361
+362        Pine Bluff 0-0        SWAC       -0.613     348        344        362
+363        Coppin Stat0-0        MEAC       -0.669     361        302        363
+364        Mississippi0-0        SWAC       -0.763     364        274        364
+-          New Haven  0-0        NEC        -          -          -          -
