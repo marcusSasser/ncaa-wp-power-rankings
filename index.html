@@ -1,100 +1,54 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Power Rankings</title>
+  <meta charset="utf-8" />
+  <title>ColFB — Plain Text Display</title>
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
   <style>
     body {
-      font-family: Calibri, sans-serif;
-      max-width: 1000px;
+      font-family: "Courier New", monospace;
+      max-width: 960px;
       margin: 30px auto;
-      padding: 0 15px;
+      color: #000;
+      background: #fff;
     }
-    h1 {
-      text-align: center;
-    }
-    table {
-      width: 100%;
-      border-collapse: collapse;
-    }
-    th, td {
-      padding: 8px 10px;
-      border-bottom: 1px solid #ccc;
-      text-align: left;
-    }
-    thead {
-      background: #f2f2f2;
-    }
-    tr:hover {
-      background: #fafafa;
-    }
-    .rank {
-      text-align: right;
-      width: 50px;
-      color: #555;
+    header { text-align: left; margin-bottom: 20px; }
+    h1 { margin: 0 0 6px 0; font-size: 22px; }
+    .meta { margin-bottom: 14px; color: #333; }
+    .rawlink { margin-bottom: 10px; display:block; }
+    pre {
+      white-space: pre-wrap; /* wrap lines */
+      word-wrap: break-word;
+      border-top: 1px solid #ddd;
+      padding-top: 12px;
+      font-size: 13px;
     }
   </style>
 </head>
 <body>
-  <h1>Power Rankings</h1>
+  <header>
+    <h1>ColFB — Current Ratings</h1>
+    <div class="meta">Author name — <a href="currat.txt" class="rawlink">raw .txt file</a></div>
+  </header>
 
-  <table id="rankings">
-    <thead>
-      <tr>
-        <th>Rank</th>
-        <th>Team</th>
-        <th>Record</th>
-        <th>Conf</th>
-        <th>SubDiv</th>
-        <th>Rating</th>
-        <th>MoV</th>
-        <th>SoS</th>
-        <th>Last Year</th>
-        <th>Resume</th>
-      </tr>
-    </thead>
-    <tbody></tbody>
-  </table>
+  <main>
+    <div id="text-content">
+      <pre id="txt">Loading text...</pre>
+    </div>
+  </main>
 
+  <!-- Plain, tiny fetch (works on any static host) -->
   <script>
-    async function loadSheet() {
-      const url = "https://spreadsheets.google.com/feeds/list/2PACX-1vQNb2wzYrdN69JIljx2w4SNEtZUnf6gRTTORASJ0FEmVNrFvwfNOO1bCqVyxjvcIaer4FA5p6meqnxo/1/public/values?alt=json";
-      const res = await fetch(url);
-      const data = await res.json();
-
-      let rows = data.feed.entry.map(r => ({
-        rank: r.gsx$ranking.$t,
-        team: r.gsx$team.$t,
-        record: r.gsx$record.$t,
-        conf: r.gsx$conf.$t,
-        subdiv: r.gsx$subdiv.$t,
-        rating: r.gsx$rating.$t,
-        mov: r.gsx$mov.$t,
-        sos: r.gsx$sos.$t,
-        last_year: r.gsx$last_year.$t,
-        resume: r.gsx$resume.$t
-      }));
-
-      let tbody = document.querySelector("#rankings tbody");
-      rows.forEach(row => {
-        let tr = document.createElement("tr");
-        tr.innerHTML = `
-          <td class="rank">${row.ranking}</td>
-          <td>${row.team}</td>
-          <td>${row.record}</td>
-          <td>${row.conf}</td>
-          <td>${row.subdiv}</td>
-          <td>${row.rating}</td>
-          <td>${row.mov}</td>
-          <td>${row.sos}</td>
-          <td>${row.last_year}</td>
-          <td>${row.resume}</td>
-        `;
-        tbody.appendChild(tr);
-      });
-    }
-    loadSheet();
+    (function(){
+      fetch('currat.txt')
+        .then(function(r){ return r.ok ? r.text() : Promise.reject('Not found'); })
+        .then(function(txt){
+          document.getElementById('txt').textContent = txt;
+        })
+        .catch(function(err){
+          document.getElementById('txt').textContent = 'Could not load currat.txt: ' + err;
+        });
+    })();
   </script>
 </body>
 </html>
