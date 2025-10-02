@@ -1,4 +1,4 @@
-Road Team         Home Team         Predicted    Close        Abs. Error   Median Error
+Road Team         Home Team         Predicted    Close        Game Dif     W/L          Absolute Error
 Sam Houston       New Mexico State  3.58
 Rhode Island      Brown             14.00
 Charlotte         USF               -26.01
