@@ -6,34 +6,55 @@
   <style>
     body {
       font-family: "Times New Roman", Times, serif;
-      text-align: center;
       background-color: #ffffff;
+      color: #000000;
+      text-align: center;
       margin: 40px;
     }
     h1 {
       margin-bottom: 30px;
     }
+    table {
+      margin: 0 auto;
+    }
+    td {
+      padding: 5px 30px;
+      text-align: left;
+      vertical-align: top;
+    }
     a {
       display: block;
-      margin: 10px 0;
+      margin: 6px 0;
       color: #0000EE;
       text-decoration: none;
     }
     a:hover {
       text-decoration: underline;
     }
+    small {
+      display: block;
+      margin-top: 40px;
+      font-size: 0.8em;
+    }
   </style>
 </head>
 <body>
   <h1>My Simple Site</h1>
-  <p>Plain-text style links below:</p>
 
-  <a href="file1.txt">File 1 Ratings</a>
-  <a href="file2.txt">File 2 Standings</a>
-  <a href="file3.txt">File 3 Notes</a>
-  <a href="file4.txt">File 4 Data</a>
-  <a href="https://example.com">External Website</a>
+  <table>
+    <tr>
+      <td>
+        <a href="file1.txt">File 1 Ratings</a>
+        <a href="file2.txt">File 2 Standings</a>
+      </td>
+      <td>
+        <a href="file3.txt">File 3 Notes</a>
+        <a href="file4.txt">File 4 Data</a>
+        <a href="https://example.com">External Website</a>
+      </td>
+    </tr>
+  </table>
 
-  <p style="margin-top:40px; font-size:small;">Last updated: Oct 1, 2025</p>
+  <small>Last updated: Oct 1, 2025</small>
 </body>
 </html>
