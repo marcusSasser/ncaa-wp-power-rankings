@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <title>ColFB — Plain Text Display</title>
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <style>
+    body {
+      font-family: "Courier New", monospace;
+      max-width: 960px;
+      margin: 30px auto;
+      color: #000;
+      background: #fff;
+    }
+    header { text-align: left; margin-bottom: 20px; }
+    h1 { margin: 0 0 6px 0; font-size: 22px; }
+    .meta { margin-bottom: 14px; color: #333; }
+    .rawlink { margin-bottom: 10px; display:block; }
+    pre {
+      white-space: pre-wrap; /* wrap lines */
+      word-wrap: break-word;
+      border-top: 1px solid #ddd;
+      padding-top: 12px;
+      font-size: 13px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>ColFB — Current Ratings</h1>
+    <div class="meta">Author name — <a href="currat.txt" class="rawlink">raw .txt file</a></div>
+  </header>
+
+  <main>
+    <div id="text-content">
+      <pre id="txt">Loading text...</pre>
+    </div>
+  </main>
+
+  <!-- Plain, tiny fetch (works on any static host) -->
+  <script>
+    (function(){
+      fetch('currat.txt')
+        .then(function(r){ return r.ok ? r.text() : Promise.reject('Not found'); })
+        .then(function(txt){
+          document.getElementById('txt').textContent = txt;
+        })
+        .catch(function(err){
+          document.getElementById('txt').textContent = 'Could not load currat.txt: ' + err;
+        });
+    })();
+  </script>
+</body>
+</html>
