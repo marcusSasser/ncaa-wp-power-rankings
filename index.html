@@ -2,56 +2,38 @@
 <html lang="en">
 <head>
   <meta charset="utf-8" />
-  <title>ColFB — Plain Text Display</title>
-  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>My Simple Site</title>
   <style>
     body {
-      font-family: "Courier New", monospace;
-      max-width: 960px;
-      margin: 30px auto;
-      color: #000;
-      background: #fff;
+      font-family: "Times New Roman", Times, serif;
+      text-align: center;
+      background-color: #ffffff;
+      margin: 40px;
     }
-    header { text-align: left; margin-bottom: 20px; }
-    h1 { margin: 0 0 6px 0; font-size: 22px; }
-    .meta { margin-bottom: 14px; color: #333; }
-    .rawlink { margin-bottom: 10px; display:block; }
-    pre {
-      white-space: pre-wrap; /* wrap lines */
-      word-wrap: break-word;
-      border-top: 1px solid #ddd;
-      padding-top: 12px;
-      font-size: 13px;
+    h1 {
+      margin-bottom: 30px;
+    }
+    a {
+      display: block;
+      margin: 10px 0;
+      color: #0000EE;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
     }
   </style>
 </head>
 <body>
-  <header>
-    <h1>Power Raintgs & Spreads</h1>
-    <div class="meta"> <a href="currat.txt" class="rawlink">cfb ratings</a></div>
-    <div class="meta"> <a href="currat.txt" class="rawlink">cfb spreads</a></div>
-    <div class="meta"> <a href="currat.txt" class="rawlink">cbb ratings</a></div>
-    <div class="meta"> <a href="currat.txt" class="rawlink">cfb spreads</a></div>
-  </header>
+  <h1>My Simple Site</h1>
+  <p>Plain-text style links below:</p>
 
-  <main>
-    <div id="text-content">
-      <pre id="txt">Loading text...</pre>
-    </div>
-  </main>
+  <a href="file1.txt">File 1 Ratings</a>
+  <a href="file2.txt">File 2 Standings</a>
+  <a href="file3.txt">File 3 Notes</a>
+  <a href="file4.txt">File 4 Data</a>
+  <a href="https://example.com">External Website</a>
 
-  <!-- Plain, tiny fetch (works on any static host) -->
-  <script>
-    (function(){
-      fetch('currat.txt')
-        .then(function(r){ return r.ok ? r.text() : Promise.reject('Not found'); })
-        .then(function(txt){
-          document.getElementById('txt').textContent = txt;
-        })
-        .catch(function(err){
-          document.getElementById('txt').textContent = 'Methodoligy: ' + err;
-        });
-    })();
-  </script>
+  <p style="margin-top:40px; font-size:small;">Last updated: Oct 1, 2025</p>
 </body>
 </html>
