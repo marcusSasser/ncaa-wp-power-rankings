@@ -48,12 +48,12 @@ Tennessee Tech       Lindenwood           14.53
 Buffalo              UMass                12.51
 Purdue               Northwestern         -3.96
 Eastern Illinois     SE Missouri State    -1.94
-Lincoln CA           Mississippi Valley St-39.35
+Lincoln CA           Mississippi Valley St-42.43
 Grambling            Pine Bluff           7.30
 Youngstown State     Illinois State       -2.67
 Troy                 Louisiana-Monroe     3.10
 North Dakota         Southern Illinois    4.97
-Virginia Lynchburg   Texas Southern       -45.51
+Virginia Lynchburg   Texas Southern       -48.60
 Sacred Heart         Montana              -29.93
 Temple               Charlotte            16.47
 UTSA                 North Texas          -7.82
