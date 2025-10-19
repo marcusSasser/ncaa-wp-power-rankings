@@ -111,3 +111,4 @@ Houston              Arizona State        -6.94
 Incarnate Word       UTRGV                -1.52
 Southern Utah        Utah Tech            8.73
 Montana State        Cal Poly             8.79
+Colorado             Utah                 -15.24
