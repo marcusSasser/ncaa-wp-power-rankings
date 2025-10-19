@@ -1,0 +1,113 @@
+Road Team            Home Team            Predicted    Close        Game Dif     W/L          Absolute Error
+Kennesaw State       FIU                  6.51
+Western Kentucky     Louisiana Tech       -22.17
+Middle Tennessee     Delaware             -14.88
+Missouri State       New Mexico State     5.62
+South Alabama        Georgia State        0.51
+Columbia             Dartmouth            -13.41
+North Texas          Charlotte            40.03
+Cal                  Virginia Tech        -5.04
+Boise State          Nevada               31.89
+Montana              Sac State            8.40
+Ohio                 Eastern Michigan     25.34
+UCLA                 Indiana              -33.31
+Virginia             North Carolina       23.05
+App State            Old Dominion         -20.04
+Presbyterian         Dayton               7.24
+Duquesne             Wagner               18.03
+SMU                  Wake Forest          -1.67
+San Diego            Davidson             29.06
+Kansas State         Kansas               -1.99
+Northwestern         Nebraska             -5.58
+Ole Miss             Oklahoma             -5.28
+Georgetown           Bucknell             -0.85
+Syracuse             Georgia Tech         -22.01
+Bowling Green        Kent State           4.59
+Drake                Marist               11.02
+Stonehill            Mercyhurst           -12.91
+Harvard              Princeton            15.04
+Rutgers              Purdue               0.46
+USF                  Memphis              4.43
+New Haven            LIU                  -6.62
+Penn                 Yale                 -5.00
+Auburn               Arkansas             7.44
+William & Mary       New Hampshire        -4.88
+Brown                Cornell              1.49
+St. Thomas           Stetson              23.63
+Akron                Buffalo              -2.92
+Bryant               Rhode Island         -16.13
+SE Missouri State    Tennessee Tech       -26.38
+Morehead State       Valparaiso           2.69
+Colgate              Holy Cross           3.36
+Delaware State       NC Central           -14.40
+Elon                 Maine                -4.53
+Campbell             NC A&T               6.19
+Lehigh               Fordham              31.76
+SC State             Norfolk State        18.96
+Illinois State       South Dakota         -8.04
+Murray State         Youngstown State     -29.48
+The Citadel          Furman               -1.34
+Eastern Illinois     Charleston Southern  -11.80
+Monmouth             Hampton              29.15
+Central Arkansas     West Georgia         -14.11
+Western Illinois     Tennessee State      4.08
+Pine Bluff           Bethune-Cookman      -14.60
+Mississippi Valley StAlcorn State         -3.06
+San Diego State      Fresno State         12.75
+SE Louisiana         Houston Christian    33.04
+Gardner-Webb         Lindenwood           3.56
+Lincoln CA           Prairie View         -52.67
+UConn                Rice                 14.05
+Northern Iowa        Southern Illinois    -18.83
+Tarleton State       Eastern Kentucky     26.94
+Utah State           New Mexico           3.77
+UC Davis             Northern Colorado    6.67
+VMI                  Mercer               -39.88
+Robert Morris        Saint Francis        5.30
+Eastern Washington   Weber State          -4.73
+Morgan State         Howard               -3.23
+Illinois             Washington           -5.48
+Alabama A&M          Alabama State        -19.62
+Towson               Stony Brook          -3.13
+UMass                Central Michigan     -22.73
+Alabama              South Carolina       15.28
+Minnesota            Iowa                 -9.50
+BYU                  Iowa State           1.80
+Ball State           Northern Illinois    -3.04
+Chattanooga          Samford              9.51
+Louisiana-Monroe     Southern Miss        -21.31
+Wofford              ETSU                 -7.99
+Temple               Tulsa                -0.60
+Missouri             Vanderbilt           -7.94
+Western Michigan     Miami OH             0.86
+FAU                  Navy                 -7.96
+NC State             Pitt                 -8.92
+Toledo               Washington State     -4.08
+Albany               Villanova            -28.68
+Baylor               Cincinnati           -15.18
+North Alabama        Austin Peay          -22.52
+Oklahoma State       Texas Tech           -45.66
+McNeese              Nicholls             -5.98
+Indiana State        North Dakota         -34.81
+Portland State       Idaho                -15.05
+Texas                Mississippi State    -4.39
+Lamar                Northwestern State   22.33
+Florida A&M          Southern             2.02
+TCU                  West Virginia        23.88
+Grambling            Jackson State        -19.69
+Northern Arizona     Idaho State          2.54
+Georgia Southern     Arkansas State       -2.49
+SF Austin            East Texas A&M       11.21
+Louisiana            Troy                 -9.36
+Stanford             Miami FL             -36.86
+Wisconsin            Oregon               -40.21
+Boston College       Louisville           -35.76
+Colorado State       Wyoming              -4.47
+Texas A&M            LSU                  7.39
+Michigan             Michigan State       12.70
+Tennessee            Kentucky             11.24
+North Dakota State   South Dakota State   4.65
+Houston              Arizona State        -6.94
+Incarnate Word       UTRGV                -1.52
+Southern Utah        Utah Tech            8.73
+Montana State        Cal Poly             8.79
