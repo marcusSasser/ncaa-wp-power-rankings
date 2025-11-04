@@ -1,4 +1,453 @@
 Road Team            Home Team            Predicted    Close        Game Dif     W/L          Absolute Error
+Sam Houston          New Mexico State     3.58         1.5          -27          LOSS         30.58
+Rhode Island         Brown                14.00        14.5         -7           WIN          21.00
+Charlotte            USF                  -26.01       -27.5        -28          LOSS         1.99
+Western Kentucky     Delaware             1.49         -2.5         3            WIN          1.51
+Columbia             Princeton            -2.66        -4.5         -7           LOSS         4.34
+New Mexico           San Jose State       -3.49        -1.5         -7           WIN          3.51
+Colorado State       San Diego State      -6.82        -4.5         -21          WIN          14.18
+West Virginia        BYU                  -27.59       -20.5        -14          LOSS         13.59
+Illinois             Purdue               12.09        7.5          16           WIN          3.91
+Army                 UAB                  12.16        6.5          18           WIN          5.84
+Ohio                 Ball State           19.44        14.0         -6           LOSS         25.44
+Richmond             Bucknell             12.95        5.5          -5           LOSS         17.95
+Sacred Heart         CCSU                 -8.79        -6.0         -7           WIN          1.79
+Iowa State           Cincinnati           2.93         -1.5         -8           LOSS         10.93
+Stonehill            Duquesne             -16.47       -7.5         -20          WIN          3.53
+Kentucky             Georgia              -16.00       -20.0        -21          LOSS         5.00
+San Diego            Marist               17.80        10.5         -5           LOSS         22.80
+Wisconsin            Michigan             -20.09       -17.5        -14          LOSS         6.09
+Air Force            Navy                 -22.47       -13.5        -3           LOSS         19.47
+Clemson              North Carolina       4.22         14.5         28           LOSS         23.78
+Boston College       Pitt                 -6.71        -6.5         -41          WIN          34.29
+Kansas State         Baylor               -3.78        -4.5         -1           WIN          2.78
+Yale                 Lehigh               -3.97        -3.5         -18          WIN          14.03
+Fordham              Lafayette            -12.51       -15.5        -14          WIN          1.49
+Dayton               Morehead State       4.74         9.5          7            WIN          2.26
+UTSA                 Temple               13.44        6.5          -6           LOSS         19.44
+Wake Forest          Virginia Tech        -8.44        -5.5         7            LOSS         15.44
+Valparaiso           Drake                -33.16       -22.5        -41          WIN          7.84
+LIU                  Mercyhurst           -5.43        -4.5         -9           WIN          3.57
+Robert Morris        Merrimack            -11.49       -9.5         -17          WIN          5.51
+Dartmouth            Penn                 4.90         2.5          -12          LOSS         16.90
+Davidson             Stetson              11.33        7.5          -3           LOSS         14.33
+Delaware State       Monmouth             -17.02       -20.5        -11          WIN          6.02
+Western Illinois     Tennessee Tech       -27.64       -35.5        -46          LOSS         18.36
+Morgan State         Georgetown           8.01         2.5          -3           LOSS         11.01
+Villanova            New Hampshire        -8.94        3.0          30           LOSS         38.94
+Pace                 New Haven            -24.64                    -14                       10.64
+Chattanooga          VMI                  8.68         9.5          7            WIN          1.68
+Charleston Southern  Gardner-Webb         -16.75       -12.5        -3           LOSS         13.75
+Western Carolina     Wofford              2.84         10.5         2            WIN          0.84
+Savannah State       SC State             -33.41       -35.5        -43          LOSS         9.59
+Colgate              Cornell              -8.32        1.5          20           LOSS         28.32
+ETSU                 Furman               9.74         -1.5         -9           LOSS         18.74
+Harvard              Holy Cross           7.95         -15.5        35           WIN          27.05
+Campbell             NC State             -40.42       -42.5        -46          LOSS         5.58
+UT Martin            Lindenwood           -4.19        2.5          -16          WIN          11.81
+Butler               St. Thomas           -7.36        -8.5         7            WIN          14.36
+Maine                Bryant               1.53         -2.5         20           WIN          18.47
+Western Michigan     UMass                16.66        12.5         18           WIN          1.34
+North Alabama        Abilene Christian    -13.41       -12.5        -29          WIN          15.59
+Murray State         South Dakota         -26.68       -27.5        -25          WIN          1.68
+Bethune-Cookman      Alabama State        -19.81       -14.5        -17          WIN          2.81
+Tennessee State      Eastern Illinois     0.57         -6.5         -24          LOSS         24.57
+Oklahoma State       Arizona              -16.36       -21.0        -28          LOSS         11.64
+Eastern Michigan     Buffalo              -17.65       -8.5         -1           LOSS         16.65
+Texas                Florida              12.41        5.5          -8           LOSS         20.41
+Boise State          Notre Dame           -21.11       -21.5        -21          WIN          0.11
+Miami OH             Northern Illinois    1.10         4.5          11           LOSS         9.90
+Stony Brook          Albany               2.98         7.0          35           LOSS         32.02
+NC A&T               William & Mary       -20.96       -20.5        -4           LOSS         16.96
+Central Michigan     Akron                0.78         7.5          -6           WIN          6.78
+Oregon State         App State            0.88         -1.5         -4           LOSS         4.88
+FIU                  UConn                -12.54       -7.0         -41          WIN          28.46
+James Madison        Georgia State        16.51        20.5         7            WIN          9.51
+Washington           Maryland             -0.93        5.5          4            WIN          4.93
+Virginia             Louisville           -9.25        -6.5         3            LOSS         12.25
+Syracuse             SMU                  -9.27        -17.5        -13          WIN          3.73
+Vanderbilt           Alabama              -9.30        -12.5        -16          LOSS         6.70
+Penn State           UCLA                 27.21        24.5         -5           LOSS         32.21
+Louisiana-Monroe     Northwestern         -12.56       -12.5        -35          WIN          22.44
+Prairie View         Alcorn State         5.94         3.5          1            LOSS         4.94
+Norfolk State        Hampton              -0.29        -6.0         -7           LOSS         6.71
+Nicholls             Lamar                -8.60        -4.5         -7           WIN          1.60
+Samford              Mercer               -25.06       -23.5        -24          WIN          1.06
+Michigan State       Nebraska             -9.80        -12.5        -11          WIN          1.20
+Texas State          Arkansas State       14.17        13.5         -1           LOSS         15.17
+West Georgia         Austin Peay          -4.69        -6.5         -14          LOSS         9.31
+Elon                 Towson               -4.31        -1.5         14           LOSS         18.31
+Kent State           Oklahoma             -49.45       -46.5        -44          LOSS         5.45
+Montana State        Northern Arizona     13.24        9.5          24           WIN          10.76
+North Dakota         Northern Iowa        16.17        15.5         28           WIN          11.83
+Utah Tech            Central Arkansas     -1.93        -4.5         -6           LOSS         4.07
+South Dakota State   Youngstown State     17.42        14.5         5            LOSS         12.42
+Coastal Carolina     Old Dominion         -23.64       -19.5        -40          WIN          16.36
+Jackson State        Alabama A&M          11.84        14.0         33           LOSS         21.16
+South Alabama        Troy                 0.95         2.5          -7           WIN          7.95
+UNLV                 Wyoming              15.13        4.5          14           WIN          1.13
+North Dakota State   Illinois State       23.40        24.5         17           WIN          6.40
+SE Louisiana         McNeese              19.17        8.5          38           WIN          18.83
+Indiana State        Southern Illinois    -17.47       -23.5        -28          LOSS         10.53
+Southern Utah        Tarleton State       -20.22       -20.5        -10          WIN          10.22
+Pine Bluff           Texas Southern       -12.26       -5.5         -44          WIN          31.74
+SF Austin            Incarnate Word       -3.03        -4.0         14           WIN          17.03
+Portland State       Eastern Washington   -7.98        -10.5        -8           WIN          0.02
+Texas Tech           Houston              5.14         13.5         24           LOSS         18.86
+East Texas A&M       Northwestern State   6.14         7.5          30           LOSS         23.86
+FAU                  Rice                 -7.02        -4.0         6            LOSS         13.02
+Kansas               UCF                  8.40         3.5          7            WIN          1.40
+Mississippi State    Texas A&M            -17.98       -17.5        -22          WIN          4.02
+Miami FL             Florida State        13.69        3.5          6            WIN          7.69
+Minnesota            Ohio State           -24.56       -23.5        -39          WIN          14.44
+Colorado             TCU                  -11.22       -13.5        -14          LOSS         2.78
+Montana              Idaho State          16.45        13.5         4            LOSS         12.45
+Tulsa                Memphis              -21.77       -21.0        -38          WIN          16.23
+Houston Christian    UTRGV                -9.82        -3.5         -20          WIN          10.18
+UC Davis             Cal Poly             2.99         8.5          7            WIN          4.01
+Duke                 Cal                  0.50         3.0          24           LOSS         23.50
+Nevada               Fresno State         -14.29       -13.0        -3           LOSS         11.29
+
+Missouri State       Middle Tennessee     16.88        3.0          2            LOSS         14.88
+Liberty              UTEP                 0.65         1.5          11           LOSS         10.35
+Louisiana Tech       Kennesaw State       7.53         5.5          -28          LOSS         35.53
+East Carolina        Tulane               -13.18       -7.0         -7           PUSH         6.18
+Southern Miss        Georgia Southern     -4.28        3.0          3            PUSH         7.28
+Jax State            Sam Houston          5.37         7.0          2            WIN          3.37
+Cornell              Harvard              -24.98       -32.5        -24          WIN          0.98
+Marist               Penn                 -26.41       -16.5        -19          WIN          7.41
+Brown                Bryant               3.77         4.5          10           LOSS         6.23
+USF                  North Texas          -4.07        -2.5         27           LOSS         31.07
+Fresno State         Colorado State       10.42        5.5          -28          LOSS         38.42
+Rutgers              Washington           -10.49       -9.5         -19          WIN          8.51
+Charlotte            Army                 -31.09       -17.5        -17          LOSS         14.09
+Pitt                 Florida State        -2.03        -10.5        3            WIN          5.03
+Louisiana            James Madison        -25.80       -18.5        -10          LOSS         15.80
+Houston              Oklahoma State       15.27        14.5         22           WIN          6.73
+Miami OH             Akron                9.18         11.5         13           LOSS         3.82
+Toledo               Bowling Green        8.19         10.5         -5           WIN          13.19
+UCF                  Cincinnati           -13.71       -10.5        -9           LOSS         4.71
+Lehigh               Columbia             14.12        12.5         24           WIN          9.88
+SCSU                 Delaware State       -32.66                    -47                       14.34
+Mercer               Princeton            10.26        9.5          24           WIN          13.74
+Alabama              Missouri             6.06         3.5          3            LOSS         3.06
+UCLA                 Michigan State       -15.20       -7.5         25           LOSS         40.20
+Mercyhurst           Wagner               13.19        6.5          12           WIN          1.19
+Ohio State           Illinois             9.50         14.5         18           LOSS         8.50
+Stanford             SMU                  -22.86       -19.5        -24          WIN          1.14
+Bucknell             Lafayette            -12.53       -8.5         -38          WIN          25.47
+Washington State     Ole Miss             -29.68       -32.5        -3           WIN          26.68
+Presbyterian         Butler               3.59         10.5         6            WIN          2.41
+South Dakota         Indiana State        12.62        14.5         5            WIN          7.62
+Richmond             Colgate              -3.36        -1.5         5            LOSS         8.36
+Maine                Merrimack            4.27         2.5          7            WIN          2.73
+Saint Francis        Duquesne             -20.67       -17.0        -45          WIN          24.33
+Northern Illinois    Eastern Michigan     16.34        1.0          -6           LOSS         22.34
+Virginia Lynchburg   Morgan State         -54.21                    -38                       16.21
+Morehead State       Stetson              13.32        7.0          -7           LOSS         20.32
+St. Thomas           Davidson             21.56        19.5         44           WIN          22.44
+SC State             NC A&T               19.95        9.5          6            LOSS         13.95
+New Hampshire        Rhode Island         0.76         -9.5         -11          LOSS         11.76
+Howard               Sacred Heart         -0.83        1.5          -18          WIN          17.17
+WestConn             New Haven            -20.27                    -69                       48.73
+Norfolk State        Wofford              -21.02       -10.0        -17          WIN          4.02
+Yale                 Dartmouth            -2.16        -2.5         -1           WIN          1.16
+Villanova            Elon                 -1.05        4.0          8            LOSS         9.05
+Campbell             Hampton              4.02         3.5          17           WIN          12.98
+Valdosta State       The Citadel          -3.09                     -24                       20.91
+CCSU                 Robert Morris        2.59         9.5          12           LOSS         9.41
+Monmouth             Towson               4.04         7.0          11           LOSS         6.96
+Dayton               Valparaiso           15.76        15.5         31           WIN          15.24
+Abilene Christian    West Georgia         -3.54        -1.5         17           LOSS         20.54
+UMass                Kent State           -1.38        -1.5         -36          LOSS         34.62
+Furman               Western Carolina     -8.60        -3.5         -45          WIN          36.40
+Mississippi Valley StAlabama A&M          -14.21       -21.5        -20          WIN          5.79
+Lincoln CA           Alcorn State         -59.64                    -42                       17.64
+Northern Iowa        South Dakota State   -35.03       -28.5        -28          LOSS         7.03
+Idaho State          Montana State        -29.84       -22.5        -34          WIN          4.16
+Western Illinois     UT Martin            -4.09        -14.5        -1           WIN          3.09
+NC Central           Florida A&M          16.38        12.5         38           WIN          21.62
+Southern             Bethune-Cookman      -3.29        1.5          -31          WIN          27.71
+Gardner-Webb         Eastern Illinois     9.82         4.5          11           WIN          1.18
+Virginia Tech        Georgia Tech         -12.50       -14.0        -15          LOSS         2.50
+Southern Illinois    North Dakota State   -23.08       -20.5        -28          WIN          4.92
+Oklahoma             Texas                2.09         -2.5         -17          LOSS         19.09
+Air Force            UNLV                 -22.57       -7.0         -3           LOSS         19.57
+App State            Georgia State        -6.68        3.0          21           LOSS         27.68
+Old Dominion         Marshall             13.70        14.5         -24          WIN          37.70
+Nebraska             Maryland             -2.71        6.5          3            WIN          5.71
+NC State             Notre Dame           -28.25       -24.5        -29          WIN          0.75
+Northwestern         Penn State           -15.80       -20.5        1            WIN          16.80
+Alabama State        Jackson State        -1.50        -8.5         -4           WIN          2.50
+TCU                  Kansas State         8.55         2.5          -13          LOSS         21.55
+Iowa State           Colorado             1.53         3.0          -7           WIN          8.53
+VMI                  ETSU                 -29.73       -16.5        -35          WIN          5.27
+Ball State           Western Michigan     -13.73       -9.5         -42          WIN          28.27
+Indiana              Oregon               -5.36        -7.0         10           WIN          15.36
+Wake Forest          Oregon State         9.60         2.5          25           WIN          15.40
+Tennessee State      SE Missouri State    -8.25        -16.5        -16          WIN          7.75
+Cal Poly             Montana              -11.82       -17.5        -19          LOSS         7.18
+Tennessee Tech       Charleston Southern  14.49        31.5         14           WIN          0.49
+Navy                 Temple               12.05        10.0         1            LOSS         11.05
+Central Arkansas     North Alabama        -5.83        5.5          28           LOSS         33.83
+Youngstown State     North Dakota         -8.78        -8.5         -18          WIN          9.22
+Arkansas             Tennessee            -17.67       -10.5        -3           LOSS         14.67
+Northern Colorado    Idaho                -20.75       -19.5        16           LOSS         36.75
+Drake                San Diego            1.54         -1.5         3            WIN          1.46
+UAB                  FAU                  -8.17        -5.5         -20          WIN          11.83
+Austin Peay          Eastern Kentucky     13.79        8.5          -14          LOSS         27.79
+Northern Arizona     UC Davis             -4.94        -7.0         -21          LOSS         16.06
+Louisiana-Monroe     Coastal Carolina     -1.92        3.0          -15          WIN          13.08
+Illinois State       Murray State         21.03        23.5         14           WIN          7.03
+Lamar                East Texas A&M       7.68         7.5          10           WIN          2.32
+Texas Southern       Grambling            -5.31        -3.5         1            LOSS         6.31
+Northwestern State   Houston Christian    -12.56       -12.5        -3           LOSS         9.56
+Florida              Texas A&M            -14.31       -7.0         -17          WIN          2.69
+Iowa                 Wisconsin            5.23         5.5          37           LOSS         31.77
+San Jose State       Wyoming              2.85         1.5          -7           LOSS         9.85
+Clemson              Boston College       8.85         14.0         31           LOSS         22.15
+Georgia              Auburn               6.26         4.5          10           WIN          3.74
+Michigan             USC                  -6.75        -3.0         -18          WIN          11.25
+Purdue               Minnesota            -8.17        -7.5         -7           LOSS         1.17
+Kansas               Texas Tech           -7.66        -13.5        -25          LOSS         17.34
+Rice                 UTSA                 -13.88       -9.5         -48          WIN          34.12
+South Carolina       LSU                  -11.63       -8.5         -10          WIN          1.63
+Troy                 Texas State          -13.92       -7.0         7            LOSS         20.92
+BYU                  Arizona              9.05         2.5          6            WIN          3.05
+Tarleton State       Utah Tech            23.79        28.0         18           WIN          5.79
+Sac State            Weber State          7.80         9.5          28           LOSS         20.20
+New Mexico           Boise State          -22.43       -14.5        -16          WIN          6.43
+Arizona State        Utah                 -1.86        -9.5         -32          LOSS         30.14
+San Diego State      Nevada               10.13        6.5          34           WIN          23.87
+Utah State           Hawai'i              -0.83        1.5          -18          WIN          17.17
+
+New Mexico State     Liberty              -8.94        -10.5        -3           WIN          5.94
+Arkansas State       South Alabama        -5.65        -8.0         1            WIN          6.65
+FIU                  Western Kentucky     -6.55        -10.0        19           WIN          25.55
+Delaware             Jax State            1.46         3.0          -13          WIN          14.46
+UTEP                 Sam Houston          -3.23        3.5          18           LOSS         21.23
+Tulsa                East Carolina        -19.41       -16.5        -14          LOSS         5.41
+Louisville           Miami FL             -14.77       -10.5        3            LOSS         17.77
+Nebraska             Minnesota            6.96         7.0          -18          WIN          24.96
+San Jose State       Utah State           -8.02        -3.5         -5           WIN          3.02
+North Carolina       Cal                  -10.33       -7.5         -3           LOSS         7.33
+Central Michigan     Bowling Green        -13.80       -3.0         21           LOSS         34.80
+Butler               Dayton               -5.67        -3.5         6            LOSS         11.67
+Washington           Michigan             0.53         -4.5         -17          LOSS         17.53
+UConn                Boston College       7.55         2.5          15           WIN          7.45
+Georgia Tech         Duke                 7.52         -3.5         9            WIN          1.48
+Merrimack            Harvard              -25.33       -26.5        -24          WIN          1.33
+Stonehill            Yale                 -24.89       -22.5        -40          WIN          15.11
+Robert Morris        LIU                  -8.23        -8.5         -10          LOSS         1.77
+Eastern Michigan     Miami OH             -26.10       -12.5        -14          WIN          12.10
+Furman               Wofford              -2.75        -1.5         -18          WIN          15.25
+Princeton            Brown                -2.40        -3.5         19           WIN          21.40
+Arizona              Houston              0.02         1.5          -3           WIN          3.02
+Baylor               TCU                  -11.19       -3.0         -6           WIN          5.19
+Army                 Tulane               -16.57       -10.0        -7           LOSS         9.57
+LSU                  Vanderbilt           1.34         -1.5         -7           LOSS         8.34
+Oklahoma             South Carolina       6.07         4.0          19           WIN          12.93
+North Dakota State   Indiana State        33.46        33.5         31           WIN          2.46
+West Virginia        UCF                  -10.95       -6.5         -32          WIN          21.05
+Colgate              Georgetown           13.27        6.5          -4           LOSS         17.27
+Bucknell             Cornell              -8.53        -4.0         -10          WIN          1.47
+Dartmouth            Fordham              17.17        12.5         17           WIN          0.17
+Davidson             Drake                -34.58       -33.5        -45          WIN          10.42
+Stony Brook          Monmouth             -12.05       -9.5         -28          WIN          15.95
+Stetson              Presbyterian         -31.85       -33.5        -35          LOSS         3.15
+Hampton              Villanova            -30.52       -24.5        -42          WIN          11.48
+Samford              VMI                  3.77         3.5          2            LOSS         1.77
+ETSU                 Chattanooga          10.38        4.5          -4           LOSS         14.38
+Penn                 Columbia             6.75         7.5          14           LOSS         7.25
+UT Martin            Gardner-Webb         -31.23       -7.5         30           LOSS         61.23
+Marist               Morehead State       9.73         8.5          -2           LOSS         11.73
+Valparaiso           St. Thomas           -29.32       -29.5        -38          LOSS         8.68
+South Dakota         Northern Iowa        8.43         5.5          3            LOSS         5.43
+Holy Cross           Richmond             -9.10        -5.5         6            LOSS         15.10
+Kent State           Toledo               -27.72       -25.5        -35          WIN          7.28
+Western Carolina     The Citadel          4.64         10.5         7            WIN          2.36
+Tennessee Tech       Lindenwood           14.53        16.5         24           LOSS         9.47
+Buffalo              UMass                12.51        15.5         7            WIN          5.51
+Purdue               Northwestern         -3.96        -3.0         -19          WIN          15.04
+Eastern Illinois     SE Missouri State    -1.94        -7.5         -29          LOSS         27.06
+Lincoln CA           Mississippi Valley St-42.43                    -49                       6.57
+Grambling            Pine Bluff           7.30         8.5          4            WIN          3.30
+Youngstown State     Illinois State       -2.67        -2.5         5            LOSS         7.67
+Troy                 Louisiana-Monroe     3.10         4.5          23           LOSS         19.90
+North Dakota         Southern Illinois    4.97         3.5          19           WIN          14.03
+Virginia Lynchburg   Texas Southern       -48.60                    -51                       2.40
+Sacred Heart         Montana              -29.93       -26.5        -22          LOSS         7.93
+Temple               Charlotte            16.47        9.5          35           WIN          18.53
+UTSA                 North Texas          -7.82        -4.0         -38          WIN          30.18
+Coastal Carolina     App State            -4.86        -10.5        8            WIN          12.86
+Akron                Ball State           -1.20        2.5          -14          WIN          12.80
+Michigan State       Indiana              -30.81       -26.5        -25          LOSS         5.81
+Northern Illinois    Ohio                 -16.48       -10.5        -27          WIN          10.52
+Texas A&M            Arkansas             15.27        7.5          3            LOSS         12.27
+SMU                  Clemson              -2.66        -3.5         11           WIN          13.66
+Ole Miss             Georgia              -4.00        -7.0         -8           LOSS         4.00
+Old Dominion         James Madison        2.90         -3.0         -36          LOSS         38.90
+Texas State          Marshall             -6.56        3.0          -3           WIN          3.56
+Ohio State           Wisconsin            31.48        24.5         34           WIN          2.52
+Wyoming              Air Force            -2.71        -4.0         -3           WIN          0.29
+UNLV                 Boise State          -8.82        -13.5        -25          LOSS         16.18
+Rhode Island         Albany               8.95         14.0         41           LOSS         32.05
+New Hampshire        Campbell             6.69         3.5          14           WIN          7.31
+Elon                 William & Mary       4.15         1.5          -5           LOSS         9.15
+Alcorn State         Florida A&M          -10.99       -4.5         -5           WIN          5.99
+Texas Tech           Arizona State        7.99         7.5          -4           LOSS         11.99
+UTRGV                Lamar                -15.07       -4.5         -2           LOSS         13.07
+Memphis              UAB                  28.32        23.5         -7           LOSS         35.32
+Charleston Southern  Western Illinois     7.78         1.5          5            WIN          2.78
+Mississippi State    Florida              -4.97        -9.5         -2           WIN          2.97
+Weber State          Portland State       0.01         5.5          16           LOSS         15.99
+Southern Miss        Louisiana            9.46         5.5          12           WIN          2.54
+CCSU                 Wagner               10.85        9.5          7            LOSS         3.85
+Northwestern State   SE Louisiana         -39.32       -30.5        -49          WIN          9.68
+Prairie View         Southern             2.39         6.0          21           LOSS         18.61
+Howard               Tennessee State      6.34         2.5          -17          LOSS         23.34
+East Texas A&M       Incarnate Word       -6.12        -18.5        7            WIN          13.12
+Duquesne             Mercyhurst           -7.04        3.0          37           LOSS         44.04
+Oregon               Rutgers              14.41        17.5         46           LOSS         31.59
+Washington State     Virginia             -13.61       -15.5        -2           WIN          11.61
+Eastern Kentucky     North Alabama        7.57         11.5         -21          WIN          28.57
+Nicholls             SF Austin            -13.86       -14.0        -27          LOSS         13.14
+Idaho                Eastern Washington   5.30         8.5          -7           WIN          12.30
+Maryland             UCLA                 13.25        -3.5         -3           WIN          16.25
+Texas                Kentucky             6.65         11.5         3            WIN          3.65
+Houston Christian    McNeese              -2.60        -6.5         -27          LOSS         24.40
+Georgia State        Georgia Southern     -4.03        -6.5         -17          LOSS         12.97
+Penn State           Iowa                 -6.04        -3.0         -1           LOSS         5.04
+South Dakota State   Murray State         40.81        37.5         21           LOSS         19.81
+West Georgia         Tarleton State       -10.99       -20.5        -35          LOSS         24.01
+Hawai'i              Colorado State       0.89         -2.5         12           WIN          11.11
+FAU                  USF                  -17.65       -20.5        -35          LOSS         17.35
+USC                  Notre Dame           -10.89       -10.5        -10          LOSS         0.89
+Pitt                 Syracuse             5.30         9.5          17           LOSS         11.70
+Tennessee            Alabama              -3.82        -9.5         -17          LOSS         13.18
+Missouri             Auburn               -5.92        1.5          6            LOSS         11.92
+Utah                 BYU                  3.14         4.5          -3           WIN          6.14
+Cincinnati           Oklahoma State       30.24        23.5         32           WIN          1.76
+Abilene Christian    Southern Utah        4.71         3.5          -7           LOSS         11.71
+Northern Colorado    Sac State            -11.54       -14.5        -5           WIN          6.54
+Nevada               New Mexico           -15.97       -13.5        -2           LOSS         13.97
+Lafayette            Oregon State         -9.15        -21.5        -32          LOSS         22.85
+Florida State        Stanford             18.03        17.5         -7           LOSS         25.03
+
+Kennesaw State       FIU                  6.51         3.0          19           WIN          12.49
+Western Kentucky     Louisiana Tech       -22.17       -5.5         1            LOSS         23.17
+Middle Tennessee     Delaware             -14.88       -8.5         -3           LOSS         11.88
+Missouri State       New Mexico State     5.62         2.5          7            WIN          1.38
+South Alabama        Georgia State        0.51         6.0          7            LOSS         6.49
+Columbia             Dartmouth            -13.41       -11.5        -46          WIN          32.59
+North Texas          Charlotte            40.03        26.0         34           WIN          6.03
+Cal                  Virginia Tech        -5.04        -6.5         -8           LOSS         2.96
+Boise State          Nevada               31.89        21.0         21           PUSH         10.89
+Montana              Sac State            8.40         6.0          14           WIN          5.60
+Ohio                 Eastern Michigan     25.34        11.5         7            LOSS         18.34
+UCLA                 Indiana              -33.31       -26.5        -50          WIN          16.69
+Virginia             North Carolina       23.05        11.5         1            LOSS         22.05
+App State            Old Dominion         -20.04       -13.5        -3           LOSS         17.04
+Presbyterian         Dayton               7.24         9.5          -16          WIN          23.24
+Duquesne             Wagner               18.03        26.5         -11          WIN          29.03
+SMU                  Wake Forest          -1.67        3.5          -1           WIN          0.67
+San Diego            Davidson             29.06        28.5         12           LOSS         17.06
+Kansas State         Kansas               -1.99        -3.5         25           WIN          26.99
+Northwestern         Nebraska             -5.58        -7.0         -7           PUSH         1.42
+Ole Miss             Oklahoma             -5.28        -5.5         8            WIN          13.28
+Georgetown           Bucknell             -0.85        -1.5         7            WIN          7.85
+Syracuse             Georgia Tech         -22.01       -16.5        -25          WIN          2.99
+Bowling Green        Kent State           4.59         8.5          -3           WIN          7.59
+Drake                Marist               11.02        12.5         14           LOSS         2.98
+Stonehill            Mercyhurst           -12.91       -7.0         7            LOSS         19.91
+Harvard              Princeton            15.04        18.5         21           LOSS         5.96
+Rutgers              Purdue               0.46         -2.5         3            WIN          2.54
+USF                  Memphis              4.43         3.5          -3           LOSS         7.43
+New Haven            LIU                  -6.62        -7.5         -22          LOSS         15.38
+Penn                 Yale                 -5.00        -7.0         -22          LOSS         17.00
+Auburn               Arkansas             7.44         -2.5         9            WIN          1.56
+William & Mary       New Hampshire        -4.88        -1.5         -10          WIN          5.12
+Brown                Cornell              1.49         2.5          -6           WIN          7.49
+St. Thomas           Stetson              23.63        26.5         42           LOSS         18.37
+Akron                Buffalo              -2.92        -10.0        8            WIN          10.92
+Bryant               Rhode Island         -16.13       -19.5        -21          LOSS         4.87
+SE Missouri State    Tennessee Tech       -26.38       -21.5        -19          LOSS         7.38
+Morehead State       Valparaiso           2.69         6.5          4            WIN          1.31
+Colgate              Holy Cross           3.36         -3.5         1            WIN          2.36
+Delaware State       NC Central           -14.40       -15.5        9            WIN          23.40
+Elon                 Maine                -4.53        4.5          -21          WIN          16.47
+Campbell             NC A&T               6.19         3.0          -4           LOSS         10.19
+Lehigh               Fordham              31.76        24.5         21           LOSS         10.76
+SC State             Norfolk State        18.96        14.0         31           WIN          12.04
+Illinois State       South Dakota         -8.04        -4.5         8            LOSS         16.04
+Murray State         Youngstown State     -29.48       -23.5        -34          WIN          4.52
+The Citadel          Furman               -1.34        -3.0         -10          LOSS         8.66
+Eastern Illinois     Charleston Southern  -11.80       -3.0         -1           LOSS         10.80
+Monmouth             Hampton              29.15        24.5         18           LOSS         11.15
+Central Arkansas     West Georgia         -14.11       -5.5         -1           LOSS         13.11
+Western Illinois     Tennessee State      4.08         -3.0         1            WIN          3.08
+Pine Bluff           Bethune-Cookman      -14.60       -12.5        -17          WIN          2.40
+Mississippi Valley StAlcorn State         -3.06        -11.5        -22          LOSS         18.94
+San Diego State      Fresno State         12.75        3.0          23           WIN          10.25
+SE Louisiana         Houston Christian    33.04        23.0         24           WIN          9.04
+Gardner-Webb         Lindenwood           3.56         1.5          28           WIN          24.44
+Lincoln CA           Prairie View         -52.67                    -38                       14.67
+UConn                Rice                 14.05        10.5         -3           LOSS         17.05
+Northern Iowa        Southern Illinois    -18.83       -14.5        -14          LOSS         4.83
+Tarleton State       Eastern Kentucky     26.94        23.5         24           WIN          2.94
+Utah State           New Mexico           3.77         -3.0         -19          LOSS         22.77
+UC Davis             Northern Colorado    6.67         10.0         11           LOSS         4.33
+VMI                  Mercer               -39.88       -26.5        -62          WIN          22.12
+Robert Morris        Saint Francis        5.30         1.5          10           WIN          4.70
+Eastern Washington   Weber State          -4.73        2.5          3            LOSS         7.73
+Morgan State         Howard               -3.23        1.5          -6           WIN          2.77
+Illinois             Washington           -5.48        -3.5         -17          WIN          11.52
+Alabama A&M          Alabama State        -19.62       -11.5        -43          WIN          23.38
+Towson               Stony Brook          -3.13        -3.0         -8           WIN          4.87
+UMass                Central Michigan     -22.73       -16.5        -25          WIN          2.27
+Alabama              South Carolina       15.28        12.5         7            LOSS         8.28
+Minnesota            Iowa                 -9.50        -7.5         -38          WIN          28.50
+BYU                  Iowa State           1.80         -2.5         14           WIN          12.20
+Ball State           Northern Illinois    -3.04        -6.5         -14          LOSS         10.96
+Chattanooga          Samford              9.51         11.5         36           LOSS         26.49
+Louisiana-Monroe     Southern Miss        -21.31       -14.0        -28          WIN          6.69
+Wofford              ETSU                 -7.99        -8.5         -4           WIN          3.99
+Temple               Tulsa                -0.60        4.5          1            WIN          1.60
+Missouri             Vanderbilt           -7.94        -3.0         -7           WIN          0.94
+Western Michigan     Miami OH             0.86         -2.5         -9           LOSS         9.86
+FAU                  Navy                 -7.96        -14.0        -10          WIN          2.04
+NC State             Pitt                 -8.92        -5.5         -19          WIN          10.08
+Toledo               Washington State     -4.08        1.5          -21          WIN          16.92
+Albany               Villanova            -28.68       -30.5        -13          WIN          15.68
+Baylor               Cincinnati           -15.18       -3.5         -21          WIN          5.82
+North Alabama        Austin Peay          -22.52       -18.5        -28          WIN          5.48
+Oklahoma State       Texas Tech           -45.66       -38.5        -42          WIN          3.66
+McNeese              Nicholls             -5.98        -4.0         -24          WIN          18.02
+Indiana State        North Dakota         -34.81       -30.5        -29          LOSS         5.81
+Portland State       Idaho                -15.05       -23.5        -39          LOSS         23.95
+Texas                Mississippi State    -4.39        7.5          7            WIN          11.39
+Lamar                Northwestern State   22.33        24.5         27           LOSS         4.67
+Florida A&M          Southern             2.02         3.0          8            LOSS         5.98
+TCU                  West Virginia        23.88        16.5         6            LOSS         17.88
+Grambling            Jackson State        -19.69       -20.5        2            WIN          21.69
+Northern Arizona     Idaho State          2.54         3.0          13           LOSS         10.46
+Georgia Southern     Arkansas State       -2.49        -1.0         -10          WIN          7.51
+SF Austin            East Texas A&M       11.21        14.5         10           WIN          1.21
+Louisiana            Troy                 -9.36        -7.0         -12          WIN          2.64
+Stanford             Miami FL             -36.86       -28.5        -35          WIN          1.86
+Wisconsin            Oregon               -40.21       -31.5        -14          LOSS         26.21
+Boston College       Louisville           -35.76       -25.5        -14          LOSS         21.76
+Colorado State       Wyoming              -4.47        -5.5         -28          LOSS         23.53
+Texas A&M            LSU                  7.39         1.5          24           WIN          16.61
+Michigan             Michigan State       12.70        13.5         11           WIN          1.70
+Tennessee            Kentucky             11.24        7.5          22           WIN          10.76
+North Dakota State   South Dakota State   4.65         7.0          31           LOSS         26.35
+Houston              Arizona State        -6.94        -7.5         8            WIN          14.94
+Incarnate Word       UTRGV                -1.52        4.5          -28          WIN          26.48
+Southern Utah        Utah Tech            8.73         10.0         21           LOSS         12.27
+Montana State        Cal Poly             8.79         21.5         17           WIN          8.21
+Colorado             Utah                 -15.24       -14.0        -46          WIN          30.76
+
 James Madison        Texas State          8.00         7.0          32           WIN          24.00
 UTEP                 Kennesaw State       -30.74       -11.5        -13          WIN          17.74
 Jax State            Middle Tennessee     9.21         4.0          3            LOSS         6.21
