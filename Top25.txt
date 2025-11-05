@@ -1,4 +1,4 @@
-Ranking    Team                 Record     Conf       Trend                 Ranking    Team                 Record     Conf       Trend
+Ranking    Team                 Record     Conf       Change                Ranking    Team                 Record     Conf       Change
 1          Texas A&M            8-0        SEC        -                     1          North Dakota State   9-0        MVC        -
 2          Indiana              9-0        B10        -                     2          Montana              9-0        BSky       -
 3          BYU                  8-0        B12        -                     3          Tarleton State       9-1        UAC        -
