@@ -260,7 +260,7 @@ Ranking    Team                  Record     Conf       SubDiv     Rating     MoV
 259        Northwestern State    1-9        SL         FCS        -0.830     264        183        261
 260        Saint Francis         0-9        NEC        FCS        -0.850     258        223        247
 261        Southern              1-9        SWAC       FCS        -0.882     252        239        241
-262        Mississippi Valley    1-8        SWAC       FCS        -0.942     247        253        258
+262        Mississippi Valley Sta1-8        SWAC       FCS        -0.942     247        253        258
 263        Davidson              2-8        PFL        FCS        -0.950     249        251        249
 264        Valparaiso            1-9        PFL        FCS        -0.964     255        246        259
 265        Stetson               3-7        PFL        FCS        -1.015     246        259        263
