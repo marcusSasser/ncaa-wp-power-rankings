@@ -1,4 +1,4 @@
-Team                 R16        R8         QF         SF         W
+Team                        R16         R8         QF         SF          W
 North Dakota State       100.00%     91.02%     81.70%     66.75%     41.78%
 Montana State            100.00%     88.32%     79.58%     64.84%     36.17%
 Montana                  100.00%     83.20%     58.54%     19.30%      6.76%
