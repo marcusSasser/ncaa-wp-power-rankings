@@ -1,26 +1,26 @@
 Ranking    Team                 Record     Conf       Change                Ranking    Team                 Record     Conf       Change
-1          Texas A&M            10-0       SEC        -                     1          North Dakota State   11-0       MVC        -
-2          Indiana              11-0       B10        -                     2          Montana              11-0       BSky       -
-3          Georgia              9-1        SEC        +1                    3          Montana State        9-2        BSky       -
-4          Ohio State           10-0       B10        -1                    4          Tarleton State       10-1       UAC        -
-5          BYU                  9-1        B12        +2                    5          Harvard              9-0        Ivy        -
-6          Ole Miss             10-1       SEC        +2                    6          Lehigh               11-0       PL         +1
-7          Texas Tech           10-1       B12        -1                    7          UC Davis             7-3        BSky       -1
-8          Oregon               9-1        B10        +1                    8          North Dakota         7-4        MVC        -
-9          Alabama              8-2        SEC        -4                    9          Mercer               9-1        SoCon      +1
-10         Oklahoma             8-2        SEC        +1                    10         South Dakota         8-4        MVC        +1
-11         Notre Dame           8-2        -          -1                    11         Tennessee Tech       10-1       BSth-OVC   -2
-12         USC                  8-2        B10        +1                    12         Illinois State       8-3        MVC        +2
-13         Utah                 8-2        B12        +1                    13         Abilene Christian    7-4        UAC        -
-14         Miami FL             8-2        ACC        +2                    14         SF Austin            9-2        SL         +1
-15         Michigan             8-2        B10        -                     15         Northern Arizona     7-4        BSky       +1
-16         Texas                7-3        SEC        -4                    16         Rhode Island         9-2        CAA        +5
-17         Vanderbilt           8-2        SEC        -                     17         Dartmouth            7-2        Ivy        +2
-18         Tennessee            7-3        SEC        +1                    18         Youngstown State     7-4        MVC        -1
-19         Georgia Tech         9-1        ACC        -1                    19         Villanova            8-2        CAA        -1
-20         Illinois             7-3        B10        +2                    20         Yale                 7-2        Ivy        +2
-21         North Texas          9-1        Amer       +3                    21         South Dakota State   7-4        MVC        -9
-22         James Madison        9-1        SB         +4                    22         West Georgia         8-3        UAC        +1
-23         Tulane               8-2        Amer       +4                    23         SE Louisiana         8-3        SL         +3
-24         Arizona State        7-3        B12        -1                    24         Lamar                8-3        SL         -4
-25         Virginia             9-2        ACC        +4                    25         Idaho State          5-6        BSky       +2
+1          Indiana              11-0       B10        +1                    1          North Dakota State   12-0       MVC        -
+2          Texas A&M            11-0       SEC        -1                    2          Montana State        10-2       BSky       +1
+3          Ohio State           11-0       B10        +1                    3          Montana              11-1       BSky       -1
+4          BYU                  10-1       B12        +1                    4          Lehigh               12-0       PL         +2
+5          Oregon               10-1       B10        +3                    5          Tarleton State       11-1       UAC        -1
+6          Georgia              10-1       SEC        -3                    6          UC Davis             8-3        BSky       +1
+7          Texas Tech           10-1       B12        -                     7          Harvard              9-1        Ivy        -2
+8          Ole Miss             10-1       SEC        -2                    8          Mercer               9-2        SoCon      +1
+9          Oklahoma             9-2        SEC        +1                    9          Yale                 8-2        Ivy        +11
+10         Notre Dame           9-2        -          +1                    10         South Dakota         8-4        MVC        -
+11         Alabama              9-2        SEC        -2                    11         Tennessee Tech       11-1       BSth-OVC   -
+12         Michigan             9-2        B10        +3                    12         Abilene Christian    8-4        UAC        +1
+13         Utah                 9-2        B12        -                     13         South Dakota State   8-4        MVC        +8
+14         Miami FL             9-2        ACC        -                     14         North Dakota         7-5        MVC        -6
+15         USC                  8-3        B10        -3                    15         SF Austin            10-2       SL         -1
+16         Vanderbilt           9-2        SEC        +1                    16         Illinois State       8-4        MVC        -4
+17         Texas                8-3        SEC        -1                    17         Rhode Island         10-2       CAA        -1
+18         Tennessee            8-3        SEC        -                     18         Youngstown State     8-4        MVC        -
+19         North Texas          10-1       Amer       +2                    19         Villanova            9-2        CAA        -
+20         James Madison        10-1       SB         +2                    20         Southern Illinois    7-5        MVC        +9
+21         Tulane               9-2        Amer       +2                    21         Idaho State          6-6        BSky       +4
+22         Arizona State        8-3        B12        +2                    22         West Georgia         8-3        UAC        -
+23         Washington           8-3        B10        +5                    23         Dartmouth            7-3        Ivy        -6
+24         Virginia             9-2        ACC        +1                    24         SE Louisiana         9-3        SL         -1
+25         Arizona              8-3        B12        +4                    25         Northern Arizona     7-5        BSky       -10
