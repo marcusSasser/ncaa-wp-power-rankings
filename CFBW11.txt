@@ -27,9 +27,17 @@ Miami FL             Pitt                 3.35
 Texas Tech           West Virginia        32.96
 Houston              Baylor               2.23
 Iowa State           Oklahoma State       25.25
+CCSU                 Rhode Island         -18.63
+Harvard              Villanova            8.44
+Yale                 Youngstown State     3.04
 FIU                  Sam Houston          12.07
 UTEP                 Delaware             -6.63
 UCF                  BYU                  -27.74
+Drake                South Dakota         -19.01
+New Hampshire        South Dakota State   -3.57
+Illinois State       SE Louisiana         -0.56
+North Dakota         Tennessee Tech       7.15
+Lamar                Abilene Christian    -14.15
 Georgia Southern     Marshall             -11.78
 Georgia State        Old Dominion         -34.82
 Louisiana Tech       Missouri State       -1.58
@@ -69,11 +77,3 @@ UNLV                 Nevada               14.54
 Fresno State         San Jose State       2.00
 Notre Dame           Stanford             31.47
 Wyoming              Hawai'i              -14.39
-CCSU                 Rhode Island         -18.63
-Harvard              Villanova            8.44
-Yale                 Youngstown State     3.04
-Illinois State       SE Louisiana         -0.56
-Lamar                Abilene Christian    -14.15
-New Hampshire        South Dakota State   -3.57
-North Dakota         Tennessee Tech       7.15
-Drake                South Dakota         -19.01
