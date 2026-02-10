@@ -1,46 +1,46 @@
 Seed       Team                 Record     Conf                  Seed       Team                 Record     Conf
-1          Michigan             20-1       B10                   11*        Tulsa                19-3       Amer
-1          Arizona              22-0       B12                   12*        Miami OH             22-0       MAC
-1          UConn                21-1       BE                    12*        Belmont              20-3       MVC
-1          Duke                 20-1       ACC                   12*        Liberty              18-3       CUSA
-2          Illinois             19-3       B10                   12*        McNeese              18-4       Slnd
-2          Purdue               18-4       B10                   13*        Yale                 16-4       Ivy
-2          Nebraska             20-2       B10                   13*        Utah Valley          16-6       WAC
-2          Houston              19-2       B12                   13*        Hawai'i              16-5       BW
-3          Gonzaga              22-1       WCC                   13*        High Point           20-4       BSth
-3          Iowa State           20-2       B12                   14*        UNC Wilmington       19-3       CAA
-3          Vanderbilt           19-3       SEC                   14*        North Dakota State   19-5       Sum
-3          Michigan State       19-3       B10                   14*        Oakland              14-10      Horz
-4          Kansas               16-5       B12                   14*        Austin Peay          15-6       ASun
-4          Florida              16-6       SEC                   15*        Mercer               15-8       SoCon
-4          Texas Tech           16-5       B12                   15*        Portland State       14-6       BSky
-4          Alabama              14-7       SEC                   15*        Troy                 15-8       SB
-5          BYU                  17-4       B12                   15*        UT Martin            17-5       OVC
-5          Virginia             18-3       ACC                   16*        LIU                  14-8       NEC
-5          Clemson              18-4       ACC                   16*        Merrimack            14-9       MAAC
-5          Tennessee            15-6       SEC                   16*        Navy                 17-6       PL
-6          St. John's           16-5       BE                    16*        Bethune-Cookman      10-11      SWAC
-6          Arkansas             16-6       SEC                   16*        UMBC                 13-8       AE
-6          UCF                  17-4       B12                   16*        Howard               13-9       MEAC
-6          Saint Louis          21-1       A10
-7          North Carolina       17-4       ACC                   FFO        Virginia Tech        16-7       ACC
-7          Villanova            16-5       BE                    FFO        Ohio State           14-7       B10
-7          Auburn               14-8       SEC                   FFO        Seton Hall           16-6       BE
-7          Louisville           15-6       ACC                   FFO        Cal                  16-6       ACC
-8          Iowa                 16-5       B10
-8          Utah State           18-3       MW
-8          Saint Mary's         19-4       WCC
-8          NC State             16-6       ACC
-9          SMU                  15-6       ACC
-9          Texas A&M            17-4       SEC
-9          Kentucky             15-7       SEC
-9          Wisconsin            16-6       B10
-10         Santa Clara          19-5       WCC
-10         New Mexico           18-4       MW
-10         Indiana              15-7       B10
-10         USC                  16-6       B10
-11         Georgia              16-6       SEC
-11         UCLA                 15-7       B10
-11         San Diego State      15-6       MW
-11         Miami FL             17-5       ACC
-11         Nevada               16-6       MW
+1          Michigan             22-1       B10                   11*        Miami OH             24-0       MAC
+1          Arizona              23-0       B12                   12*        Tulsa                20-4       Amer
+1          UConn                22-2       BE                    12*        Belmont              22-3       MVC
+1          Duke                 21-2       ACC                   12*        Liberty              20-3       CUSA
+2          Houston              21-2       B12                   12*        SF Austin            21-3       Slnd
+2          Illinois             20-4       B10                   13*        Yale                 17-4       Ivy
+2          Purdue               19-4       B10                   13*        Utah Valley          18-6       WAC
+2          Nebraska             21-2       B10                   13*        Hawai'i              17-5       BW
+3          Iowa State           21-2       B12                   13*        High Point           22-4       BSth
+3          Kansas               18-5       B12                   14*        St. Thomas           20-6       Sum
+3          Michigan State       20-4       B10                   14*        UNC Wilmington       19-4       CAA
+3          Florida              17-6       SEC                   14*        Austin Peay          17-6       ASun
+4          Gonzaga              23-2       WCC                   14*        Troy                 17-8       SB
+4          Alabama              16-7       SEC                   15*        Portland State       16-6       BSky
+4          Vanderbilt           19-4       SEC                   15*        Oakland              14-11      Horz
+4          Texas Tech           17-6       B12                   15*        ETSU                 18-7       SoCon
+5          Virginia             20-3       ACC                   15*        Merrimack            16-9       MAAC
+5          St. John's           18-5       BE                    16*        Navy                 19-6       PL
+5          Clemson              20-4       ACC                   16*        UT Martin            19-6       OVC
+5          North Carolina       19-4       ACC                   16*        LIU                  16-8       NEC
+6          Arkansas             17-6       SEC                   16*        Bethune-Cookman      12-11      SWAC
+6          Villanova            18-5       BE                    16*        UMBC                 14-8       AE
+6          BYU                  17-6       B12                   16*        Howard               15-9       MEAC
+6          Utah State           20-3       MW
+7          Tennessee            16-7       SEC                   FFO        Missouri             16-7       SEC
+7          Louisville           17-6       ACC                   FFO        Oklahoma State       16-7       B12
+7          Saint Louis          23-1       A10                   FFO        Texas                15-9       SEC
+7          Iowa                 18-5       B10                   FFO        Nevada               17-7       MW
+8          NC State             18-6       ACC
+8          Kentucky             17-7       SEC
+8          Saint Mary's         21-4       WCC
+8          Auburn               14-9       SEC
+9          UCF                  17-6       B12
+9          SMU                  16-7       ACC
+9          Santa Clara          21-5       WCC
+9          USC                  18-6       B10
+10         Texas A&M            17-6       SEC
+10         Wisconsin            16-7       B10
+10         Georgia              17-6       SEC
+10         Indiana              16-8       B10
+11         UCLA                 17-7       B10
+11         San Diego State      17-6       MW
+11         Miami FL             18-5       ACC
+11         New Mexico           18-6       MW
+11         Ohio State           15-8       B10
