@@ -1,19 +1,45 @@
-Road Team            Home Team            Predicted    Close        Game Dif     W/L          Absolute Error
-Kennesaw State       Jax State            5.34
-Troy                 James Madison        -28.00
-North Texas          Tulane               -2.04
-UNLV                 Boise State          -4.84
-BYU                  Texas Tech           -9.52
-Villanova            Lehigh               -11.55
-South Dakota         Mercer               -6.57
-Miami OH             Western Michigan     -0.30
-Illinois State       North Dakota State   -18.72
-Abilene Christian    SF Austin            -3.89
-North Dakota         Tarleton State       1.21
-Prairie View         Jackson State        -7.25
-Yale                 Montana State        -19.45
-South Dakota State   Montana              -11.71
-Georgia              Alabama              1.68
-Indiana              Ohio State           -1.61
-Duke                 Virginia             -10.86
-Rhode Island         UC Davis             -9.00
+           Sun Belt                                  Summit                                    NEC                                    Patriot
+        Troy ~ 31.17%                     North Dakota State ~ 40.41%                      LIU ~ 45.34%                            Navy ~ 49.41%
+      Marshall ~ 20.67%                       St. Thomas ~ 34.12%                      Mercyhurst ~ 18.21%                        Colgate ~ 20.80%
+      App State ~ 10.93%                         Denver ~ 8.39%                           CCSU ~ 14.32%                      Boston University ~ 8.87%
+   Arkansas State ~ 10.57%                       Omaha ~ 5.61%                          Le Moyne ~ 11.56%                         American ~ 8.56%
+    South Alabama ~ 8.79%                  South Dakota State ~ 4.84%                     Wagner ~ 4.25%                           Lehigh ~ 7.44%
+   Coastal Carolina ~ 8.44%                   North Dakota ~ 3.16%                         FDU ~ 2.48%                           Lafayette ~ 1.77%
+     Texas State ~ 5.02%                      South Dakota ~ 2.95%                      Stonehill ~ 2.27%                         Bucknell ~ 1.39%
+    Southern Miss ~ 2.34%                     Oral Roberts ~ 0.51%                    Chicago State ~ 1.56%                      Loyola MD ~ 1.06%
+    James Madison ~ 1.52%                         UMKC ~ 0.02%                                                                   Holy Cross ~ 0.42%
+   Georgia Southern ~ 0.27%                                                                                                         Army ~ 0.28%
+     Old Dominion ~ 0.19%
+      Louisiana ~ 0.06%
+    Georgia State ~ 0.03%
+  Louisiana-Monroe ~ <0.01%
+
+
+            A-Sun                                    SoCon                                  Big South                               Ohio Valley
+     Austin Peay ~ 34.87%                        ETSU ~ 32.44%                         High Point ~ 57.40%                    Tennessee State ~ 29.50%
+  Central Arkansas ~ 26.28%                     Furman ~ 18.53%                         Winthrop ~ 19.37%                     Morehead State ~ 21.80%
+       Queens ~ 15.53%                          Mercer ~ 16.70%                          Radford ~ 6.10%                     SE Missouri State ~ 18.71%
+      Lipscomb ~ 11.63%                         Wofford ~ 14.13%                      UNC Asheville ~ 4.18%                      UT Martin ~ 14.35%
+  Florida Gulf Coast ~ 4.82%                    Samford ~ 8.48%                          Longwood ~ 4.15%                        Lindenwood ~ 7.76%
+     West Georgia ~ 2.33%                   Western Carolina ~ 5.33%               Charleston Southern ~ 4.07%                      SIUE ~ 5.94%
+   Eastern Kentucky ~ 1.56%                       UNCG ~ 2.22%                         Presbyterian ~ 3.04%                   Eastern Illinois ~ 1.13%
+      Bellarmine ~ 1.10%                      Chattanooga ~ 1.95%                       SC Upstate ~ 1.68%                      Little Rock ~ 0.81%
+     Jacksonville ~ 0.74%                     The Citadel ~ 0.19%                     Gardner-Webb ~ <0.01%
+       Stetson ~ 0.58%                            VMI ~ 0.03%
+    North Florida ~ 0.31%
+    North Alabama ~ 0.25%
+
+
+           Horizon                                 West Coast                                  MAAC                               Missouri Valley
+    Wright State ~ 40.19%                       Gonzaga ~ 57.98%                        Merrimack ~ 22.87%                        Belmont ~ 34.09%
+    Robert Morris ~ 16.11%                   Saint Mary's ~ 23.22%                        Siena ~ 19.14%                       Northern Iowa ~ 18.75%
+       Detroit ~ 12.32%                       Santa Clara ~ 17.28%                       Marist ~ 13.57%                      Illinois State ~ 13.68%
+       Oakland ~ 12.18%                      San Francisco ~ 0.61%                     Quinnipiac ~ 13.33%                      Murray State ~ 9.87%
+      Green Bay ~ 7.91%                         Seattle ~ 0.25%                       Saint Peter's ~ 13.06%                      Bradley ~ 9.39%
+  Northern Kentucky ~ 6.40%                   Oregon State ~ 0.23%                         Iona ~ 7.77%                             UIC ~ 6.19%
+   Youngstown State ~ 2.43%                     Pacific ~ 0.21%                      Mount St. Mary's ~ 5.13%                Southern Illinois ~ 4.94%
+         PFW ~ 1.52%                        Washington State ~ 0.19%                    Fairfield ~ 4.11%                        Valparaiso ~ 2.27%
+      Milwaukee ~ 0.82%                         Portland ~ 0.02%                       Sacred Heart ~ 0.69%                    Indiana State ~ 0.50%
+         IUI ~ 0.08%                              LMU ~ 0.01%                           Manhattan ~ 0.33%                          Drake ~ 0.29%
+   Cleveland State ~ 0.04%                    Pepperdine ~ <0.01%                                                                Evansville ~ 0.03%
+                                               San Diego ~ <0.01%
