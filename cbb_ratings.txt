@@ -1,366 +1,366 @@
 Ranking    Team                  Record     Conf       Rating     MoV        SoS        Last Year
-1          Michigan              25-2       B10        0.868      1          4          25
-2          Arizona               25-2       B12        0.824      3          12         9
-3          Florida               21-6       SEC        0.770      10         9          4
-4          Duke                  25-2       ACC        0.751      11         16         3
-5          Illinois              22-6       B10        0.746      15         7          16
-6          Houston               23-4       B12        0.744      6          30         1
-7          UConn                 25-3       BE         0.726      12         24         39
-8          Purdue                22-5       B10        0.714      19         6          11
-9          Vanderbilt            21-6       SEC        0.678      16         34         45
-10         Iowa State            23-4       B12        0.654      13         66         12
-11         Kansas                20-7       B12        0.646      39         3          27
-12         Alabama               20-7       SEC        0.646      50         2          5
-13         Texas Tech            20-7       B12        0.635      37         5          8
-14         Gonzaga               27-2       WCC        0.630      5          84         7
-15         Michigan State        22-5       B10        0.619      28         14         13
-16         St. John's            22-5       BE         0.617      21         41         20
-17         Virginia              24-3       ACC        0.617      8          79         109
-18         Arkansas              20-7       SEC        0.610      38         8          44
-19         Tennessee             20-7       SEC        0.608      25         22         6
-20         Louisville            20-7       ACC        0.604      23         38         19
-21         Nebraska              23-4       B10        0.581      26         39         47
-22         Utah State            23-4       MW         0.532      18         85         40
-23         North Carolina        21-6       ACC        0.529      40         50         32
-24         Santa Clara           23-6       WCC        0.524      17         89         51
-25         Wisconsin             19-8       B10        0.520      56         19         10
-26         BYU                   20-7       B12        0.515      64         10         15
-27         Villanova             21-6       BE         0.512      52         33         61
-28         NC State              19-8       ACC        0.510      51         42         126
-29         Iowa                  19-8       B10        0.505      42         60         64
-30         Saint Louis           25-2       A10        0.504      2          140        121
-31         Clemson               20-8       ACC        0.494      36         71         22
-32         Indiana               17-10      B10        0.484      61         31         48
-33         Saint Mary's          25-4       WCC        0.483      20         93         18
-34         Texas A&M             19-8       SEC        0.460      41         75         21
-35         Auburn                15-12      SEC        0.460      154        1          2
-36         SMU                   19-8       ACC        0.457      79         23         52
-37         Ohio State            17-10      B10        0.455      73         28         41
-38         UCLA                  18-9       B10        0.454      78         26         23
-39         Georgia               19-8       SEC        0.434      58         65         34
-40         Cincinnati            15-12      B12        0.425      81         46         46
-41         New Mexico            21-6       MW         0.413      32         94         31
-42         Miami FL              21-6       ACC        0.409      49         87         205
-43         San Diego State       18-8       MW         0.399      54         81         57
-44         Missouri              18-9       SEC        0.398      66         69         26
-45         Kentucky              17-10      SEC        0.395      132        13         17
-46         Texas                 17-10      SEC        0.377      90         62         58
-47         USF                   19-8       Amer       0.360      46         100        215
-48         VCU                   21-7       A10        0.353      44         102        33
-49         UCF                   19-7       B12        0.335      143        40         80
-50         USC                   18-9       B10        0.329      127        54         59
-51         Cal                   19-8       ACC        0.328      85         78         139
-52         Akron                 22-5       MAC        0.326      14         218        79
-53         Virginia Tech         18-10      ACC        0.323      128        58         144
-54         Boise State           16-11      MW         0.321      119        67         50
-55         Washington            13-14      B10        0.318      184        21         120
-56         Grand Canyon          17-10      MW         0.313      70         91         75
-57         Butler                15-13      BE         0.311      152        49         99
-58         Belmont               25-4       MVC        0.299      24         151        128
-59         Seton Hall            19-9       BE         0.298      124        72         253
-60         Arizona State         14-13      B12        0.298      211        15         71
-61         Wake Forest           14-13      ACC        0.297      193        27         70
-62         Miami OH              27-0       MAC        0.294      4          298        132
-63         Minnesota             13-14      B10        0.292      136        68         93
-64         Tulsa                 22-6       Amer       0.292      34         133        222
-65         Syracuse              15-13      ACC        0.290      157        55         124
-66         Nevada                18-9       MW         0.290      126        73         98
-67         SF Austin             25-3       Slnd       0.290      9          275        267
-68         TCU                   17-10      B12        0.288      148        63         84
-69         LSU                   14-13      SEC        0.281      189        43         94
-70         Stanford              16-11      ACC        0.280      166        56         73
-71         Baylor                14-13      B12        0.272      191        47         37
-72         Northwestern          11-16      B10        0.263      226        18         55
-73         Providence            12-15      BE         0.262      204        44         134
-74         Florida State         14-13      ACC        0.261      181        59         96
-75         Oklahoma              13-14      SEC        0.259      178        61         54
-76         Georgetown            13-14      BE         0.254      163        70         125
-77         Xavier                13-14      BE         0.251      218        32         38
-78         Colorado State        17-10      MW         0.247      92         97         42
-79         West Virginia         16-11      B12        0.240      159        74         36
-80         Creighton             14-14      BE         0.237      243        17         35
-81         Oklahoma State        16-11      B12        0.237      208        52         90
-82         McNeese               23-5       Slnd       0.231      22         230        60
-83         High Point            26-4       BSth       0.228      7          325        83
-84         Northern Iowa         18-11      MVC        0.225      65         111        100
-85         Dayton                18-9       A10        0.222      101        101        76
-86         Wyoming               15-12      MW         0.216      145        88         175
-87         Liberty               23-4       CUSA       0.209      29         210        63
-88         Yale                  21-4       Ivy        0.201      33         205        88
-89         Notre Dame            12-15      ACC        0.198      235        53         104
-90         Mississippi State     13-14      SEC        0.197      252        37         28
-91         Memphis               12-15      Amer       0.195      192        76         53
-92         South Carolina        12-15      SEC        0.195      224        64         86
-93         Colorado              15-12      B12        0.193      248        48         107
-94         George Washington     15-12      A10        0.191      77         118        123
-95         Mississippi           11-16      SEC        0.189      266        25         24
-96         Utah Valley           20-7       WAC        0.184      31         223        116
-97         Hawai'i               19-7       BW         0.178      47         193        212
-98         Kansas State          11-16      B12        0.177      265        35         66
-99         Davidson              16-11      A10        0.174      84         124        133
-100        Wichita State         18-10      Amer       0.174      103        108        142
-101        FAU                   15-13      Amer       0.174      96         112        114
-102        Oregon                10-17      B10        0.173      293        11         29
-103        Seattle               17-12      WCC        0.168      109        106        163
-104        North Dakota State    23-6       Sum        0.166      27         262        106
-105        Illinois State        18-11      MVC        0.159      75         143        129
-106        Pacific               17-13      WCC        0.157      98         117        271
-107        Hofstra               19-10      CAA        0.157      48         217        244
-108        Marquette             9-18       BE         0.156      283        29         30
-109        DePaul                14-13      BE         0.148      225        77         135
-110        Cal Baptist           19-8       WAC        0.145      69         154        167
-111        Utah                  10-17      B12        0.141      285        36         68
-112        St. Thomas            21-8       Sum        0.138      30         285        97
-113        UC Irvine             18-10      BW         0.134      53         219        81
-114        Sam Houston           19-8       CUSA       0.130      63         172        161
-115        Murray State          20-10      MVC        0.127      115        116        150
-116        Pitt                  10-17      ACC        0.123      287        45         67
-117        George Mason          21-6       A10        0.116      120        121        62
-118        Wright State          18-11      Horz       0.107      59         221        187
-119        UNC Wilmington        24-4       CAA        0.107      45         273        101
-120        Saint Joseph's        17-10      A10        0.105      87         160        82
-121        Fresno State          12-15      MW         0.104      220        92         270
-122        Austin Peay           21-6       ASun       0.104      35         301        285
-123        Duquesne              16-11      A10        0.102      108        141        145
-124        UC San Diego          19-9       BW         0.099      67         197        49
-125        Southern Illinois     14-15      MVC        0.099      172        105        173
-126        San Francisco         15-15      WCC        0.097      216        95         56
-127        UAB                   18-10      Amer       0.096      137        120        87
-128        Washington State      12-17      WCC        0.095      253        80         72
-129        Kent State            20-7       MAC        0.089      82         189        108
-130        UIC                   16-13      MVC        0.084      107        149        157
-131        UC Santa Barbara      17-11      BW         0.080      71         216        143
-132        Maryland              11-16      B10        0.077      323        20         14
-133        Arkansas State        18-11      SB         0.074      105        159        77
-134        Bradley               19-10      MVC        0.073      139        135        74
-135        New Mexico State      13-13      CUSA       0.072      112        150        102
-136        UNLV                  14-13      MW         0.069      227        98         92
-137        ETSU                  21-8       SoCon      0.069      57         271        170
-138        William & Mary        16-11      CAA        0.068      76         220        236
-139        Temple                15-12      Amer       0.064      123        153        160
-140        UTRGV                 16-12      Slnd       0.058      72         232        232
-141        Toledo                14-13      MAC        0.056      133        146        214
-142        Boston College        9-18       ACC        0.055      275        83         177
-143        Northern Colorado     18-10      BSky       0.051      89         215        103
-144        North Texas           16-12      Amer       0.048      167        129        69
-145        Winthrop              20-9       BSth       0.047      62         277        185
-146        Penn State            11-17      B10        0.047      315        51         65
-147        Merrimack             20-9       MAAC       0.036      102        206        210
-148        UC Davis              17-11      BW         0.029      118        182        233
-149        Middle Tennessee      13-14      CUSA       0.027      196        122        113
-150        Kennesaw State        16-11      CUSA       0.025      117        187        137
-151        St. Bonaventure       14-13      A10        0.024      198        125        91
-152        LMU                   14-15      WCC        0.023      219        109        140
-153        Missouri State        13-14      CUSA       0.023      185        139        189
-154        South Alabama         20-9       SB         0.020      86         250        131
-155        UMass                 15-13      MAC        0.019      130        177        229
-156        Montana State         15-13      BSky       0.018      93         247        190
-157        Richmond              15-13      A10        0.016      190        138        200
-158        Western Kentucky      16-11      CUSA       0.012      203        128        141
-159        Central Arkansas      18-11      ASun       0.012      74         280        354
-160        Rhode Island          15-12      A10        0.012      207        123        165
-161        Troy                  18-11      SB         0.010      122        204        89
-162        Bowling Green         16-12      MAC        0.007      99         244        262
-163        Tarleton State        14-14      WAC        0.006      149        169        269
-164        Rutgers               11-16      B10        0.005      329        57         78
-165        Valparaiso            16-13      MVC        -0.001     206        137        207
-166        Oregon State          15-14      WCC        -0.005     276        96         85
-167        Siena                 19-10      MAAC       -0.005     68         303        288
-168        Penn                  13-11      Ivy        -0.007     182        152        300
-169        Tulane                17-10      Amer       -0.009     231        115        148
-170        CSUN                  18-10      BW         -0.009     142        191        162
-171        Furman                18-11      SoCon      -0.009     83         289        155
-172        Oakland               15-14      Horz       -0.012     230        119        182
-173        Idaho                 15-13      BSky       -0.012     121        225        234
-174        UT Arlington          15-12      WAC        -0.014     160        175        225
-175        Robert Morris         19-10      Horz       -0.019     106        249        152
-176        Denver                15-15      Sum        -0.022     209        144        263
-177        Charleston            19-10      CAA        -0.026     187        161        138
-178        Charlotte             14-13      Amer       -0.028     223        136        284
-179        Eastern Washington    11-17      BSky       -0.030     236        126        268
-180        FIU                   13-14      CUSA       -0.030     164        188        252
-181        Marist                18-10      MAAC       -0.031     80         314        276
-182        Portland              12-17      WCC        -0.031     273        104        248
-183        Quinnipiac            18-11      MAAC       -0.034     100        282        209
-184        Queens                17-12      ASun       -0.041     155        213        203
-185        Northern Kentucky     17-12      Horz       -0.042     114        263        238
-186        Mercer                18-11      SoCon      -0.042     88         307        290
-187        Columbia              15-10      Ivy        -0.043     104        286        306
-188        Harvard               15-10      Ivy        -0.044     131        246        274
-189        Cornell               12-12      Ivy        -0.046     113        268        151
-190        App State             19-11      SB         -0.046     97         296        168
-191        Portland State        18-8       BSky       -0.046     95         302        201
-192        New Orleans           13-15      Slnd       -0.050     240        131        352
-193        Georgia Tech          11-17      ACC        -0.052     324        82         112
-194        Bethune-Cookman       15-13      SWAC       -0.054     173        202        283
-195        Jax State             13-14      CUSA       -0.055     176        199        127
-196        Monmouth              14-14      CAA        -0.058     186        195        273
-197        Texas A&M-CC          14-14      Slnd       -0.058     165        222        147
-198        Marshall              18-11      SB         -0.059     213        162        146
-199        Navy                  23-6       PL         -0.064     43         363        312
-200        Texas State           18-12      SB         -0.066     116        284        193
-201        James Madison         16-13      SB         -0.067     197        190        130
-202        Howard                18-10      MEAC       -0.068     55         355        321
-203        Lipscomb              18-11      ASun       -0.069     158        236        110
-204        Iona                  16-13      MAAC       -0.074     150        255        264
-205        Fordham               16-12      A10        -0.074     144        259        228
-206        La Salle              8-19       A10        -0.076     306        99         213
-207        Coastal Carolina      17-12      SB         -0.078     153        256        291
-208        Youngstown State      15-14      Horz       -0.080     94         326        206
-209        Weber State           15-14      BSky       -0.081     168        238        282
-210        Ohio                  15-13      MAC        -0.082     214        178        154
-211        Buffalo               16-11      MAC        -0.082     151        260        351
-212        South Dakota State    13-16      Sum        -0.087     232        166        111
-213        Detroit               14-13      Horz       -0.090     179        233        346
-214        Utah Tech             17-12      WAC        -0.090     201        214        293
-215        Towson                14-14      CAA        -0.093     228        174        188
-216        Green Bay             16-14      Horz       -0.093     205        207        330
-217        Southern Miss         15-14      SB         -0.094     217        186        309
-218        Wofford               18-11      SoCon      -0.096     110        315        149
-219        Drexel                15-14      CAA        -0.096     177        245        176
-220        Omaha                 15-14      Sum        -0.098     183        242        115
-221        Eastern Michigan      10-18      MAC        -0.100     254        147        251
-222        SE Missouri State     18-11      OVC        -0.102     111        317        178
-223        Rice                  11-16      Amer       -0.104     244        158        197
-224        Stony Brook           17-11      CAA        -0.107     174        258        343
-225        Drake                 12-17      MVC        -0.111     270        142        43
-226        Montana               14-14      BSky       -0.114     171        270        119
-227        Florida Gulf Coast    14-15      ASun       -0.114     199        240        171
-228        UTEP                  10-17      CUSA       -0.116     297        110        118
-229        Cal Poly              12-16      BW         -0.118     279        130        181
-230        Colgate               17-12      PL         -0.118     138        308        286
-231        UMBC                  18-8       AE         -0.119     60         362        323
-232        Samford               16-13      SoCon      -0.122     194        253        136
-233        Fullerton             15-14      BW         -0.122     241        179        349
-234        San Jose State        7-20       MW         -0.127     339        90         164
-235        LIU                   19-10      NEC        -0.131     169        288        303
-236        Radford               15-14      BSth       -0.131     156        300        174
-237        Louisiana Tech        15-12      CUSA       -0.132     195        261        122
-238        UT Martin             20-9       OVC        -0.132     91         352        272
-239        Campbell              13-15      CAA        -0.132     246        184        237
-240        Elon                  14-14      CAA        -0.133     210        241        247
-241        Indiana State         10-19      MVC        -0.137     255        170        195
-242        Lamar                 12-16      Slnd       -0.140     237        209        180
-243        Saint Peter's         15-11      MAAC       -0.141     180        287        295
-244        UNC Asheville         13-15      BSth       -0.144     212        251        223
-245        Southern              13-14      SWAC       -0.145     162        310        216
-246        North Dakota          16-15      Sum        -0.158     234        231        235
-247        Old Dominion          10-19      SB         -0.160     269        173        281
-248        Lindenwood            16-13      OVC        -0.162     125        340        299
-249        Abilene Christian     13-14      WAC        -0.164     259        192        186
-250        San Diego             11-18      WCC        -0.166     312        114        304
-251        Idaho State           12-17      BSky       -0.168     278        163        198
-252        Longwood              15-15      BSth       -0.171     147        333        254
-253        Georgia Southern      15-14      SB         -0.172     215        274        221
-254        Tennessee State       19-9       OVC        -0.172     135        338        220
-255        Charleston Southern   13-16      BSth       -0.179     140        337        331
-256        Vermont               18-11      AE         -0.179     141        335        239
-257        American              16-13      PL         -0.181     134        343        260
-258        Delaware              9-18       CUSA       -0.191     301        148        224
-259        Northern Arizona      10-18      BSky       -0.192     277        185        226
-260        Morehead State        17-12      OVC        -0.193     175        329        302
-261        Fairfield             18-11      MAAC       -0.193     170        332        334
-262        Western Carolina      12-15      SoCon      -0.196     238        269        345
-263        Sac State             9-18       BSky       -0.199     317        134        348
-264        PFW                   16-13      Horz       -0.204     247        264        166
-265        Louisiana             10-19      SB         -0.205     290        176        287
-266        Central Michigan      9-18       MAC        -0.207     282        194        191
-267        Pepperdine            8-21       WCC        -0.208     341        107        183
-268        Presbyterian          14-15      BSth       -0.214     221        304        292
-269        Nicholls              11-17      Slnd       -0.217     291        183        159
-270        Dartmouth             11-13      Ivy        -0.218     251        267        240
-271        UC Riverside          9-20       BW         -0.221     304        167        156
-272        South Dakota          14-15      Sum        -0.221     250        279        230
-273        Chattanooga           12-17      SoCon      -0.221     239        292        117
-274        SIUE                  17-12      OVC        -0.224     129        359        231
-275        SC Upstate            12-17      BSth       -0.224     262        257        333
-276        Long Beach State      8-20       BW         -0.227     310        156        313
-277        Alabama A&M           16-12      SWAC       -0.233     202        334        339
-278        Eastern Kentucky      11-18      ASun       -0.234     288        212        169
-279        Mount St. Mary's      14-15      MAAC       -0.234     249        291        265
-280        Princeton             8-18       Ivy        -0.234     300        180        192
-281        Grambling             11-15      SWAC       -0.234     242        295        307
-282        Mercyhurst            14-15      NEC        -0.240     146        356        324
-283        West Georgia          12-16      ASun       -0.240     263        266        347
-284        East Carolina         9-18       Amer       -0.241     336        127        184
-285        Incarnate Word        11-17      Slnd       -0.247     284        234        204
-286        Milwaukee             11-19      Horz       -0.247     311        168        153
-287        Pine Bluff            12-16      SWAC       -0.249     271        265        362
-288        East Texas A&M        11-18      Slnd       -0.250     299        200        335
-289        Georgia State         10-19      SB         -0.253     303        198        241
-290        NJIT                  15-14      AE         -0.256     229        327        358
-291        Hampton               12-16      CAA        -0.264     264        290        245
-292        Boston University     13-16      PL         -0.264     188        353        326
-293        SE Louisiana          8-20       Slnd       -0.265     318        171        179
-294        UNCG                  12-17      SoCon      -0.265     260        297        208
-295        Florida A&M           11-15      SWAC       -0.268     272        281        310
-296        Sacred Heart          12-18      MAAC       -0.273     256        311        266
-297        Brown                 9-15       Ivy        -0.276     245        324        219
-298        Bellarmine            11-17      ASun       -0.279     302        226        332
-299        Western Michigan      9-18       MAC        -0.279     331        155        275
-300        Evansville            6-22       MVC        -0.287     350        113        246
-301        UMass Lowell          13-15      AE         -0.288     222        344        257
-302        CCSU                  16-11      NEC        -0.295     161        364        211
-303        Texas Southern        10-16      SWAC       -0.297     289        276        289
-304        Le Moyne              14-15      NEC        -0.298     233        345        341
-305        NC A&T                11-15      CAA        -0.298     280        293        344
-306        Northeastern          6-20       CAA        -0.307     340        157        194
-307        Stetson               10-19      ASun       -0.314     316        227        353
-308        IUI                   7-22       Horz       -0.315     295        278        311
-309        Norfolk State         14-14      MEAC       -0.316     200        361        196
-310        Northwestern State    9-19       Slnd       -0.317     326        208        218
-311        Southern Utah         9-19       WAC        -0.319     319        224        278
-312        Alabama State         9-19       SWAC       -0.319     294        283        280
-313        Loyola Chicago        6-22       A10        -0.328     358        103        95
-314        Houston Christian     10-18      Slnd       -0.332     320        239        250
-315        Eastern Illinois      11-18      OVC        -0.332     281        319        298
-316        Jackson State         9-18       SWAC       -0.337     351        145        255
-317        Northern Illinois     9-17       MAC        -0.339     325        235        337
-318        North Florida         6-23       ASun       -0.342     338        203        243
-319        Lehigh                13-16      PL         -0.345     258        346        318
-320        Ball State            8-19       MAC        -0.346     327        237        258
-321        Jacksonville          10-19      ASun       -0.351     314        272        202
-322        Tennessee Tech        13-16      OVC        -0.355     261        350        279
-323        New Haven             13-15      NEC        -0.363     274        341        -
-324        Prairie View          11-17      SWAC       -0.365     268        348        355
-325        Albany                10-18      AE         -0.366     267        349        296
-326        Manhattan             12-17      MAAC       -0.368     305        312        259
-327        Wagner                11-16      NEC        -0.371     257        354        336
-328        Little Rock           11-18      OVC        -0.372     307        306        227
-329        North Alabama         8-19       ASun       -0.372     337        229        105
-330        Cleveland State       10-19      Horz       -0.372     335        243        158
-331        Oral Roberts          7-22       Sum        -0.381     346        201        297
-332        Alcorn State          7-19       SWAC       -0.382     354        165        319
-333        New Hampshire         8-18       AE         -0.391     309        316        357
-334        Bakersfield           8-20       BW         -0.396     353        181        261
-335        FDU                   11-18      NEC        -0.408     286        351        320
-336        Air Force             3-24       MW         -0.410     364        86         294
-337        Chicago State         7-22       NEC        -0.411     343        254        359
-338        UTSA                  5-22       Amer       -0.415     359        132        199
-339        Southern Indiana      7-21       OVC        -0.421     313        330        325
-340        Bucknell              8-21       PL         -0.422     345        248        242
-341        The Citadel           9-20       SoCon      -0.422     334        294        360
-342        Lafayette             9-20       PL         -0.424     322        318        301
-343        NC Central            10-16      MEAC       -0.431     308        336        342
-344        Niagara               7-21       MAAC       -0.432     330        313        317
-345        Canisius              9-20       MAAC       -0.434     332        309        356
-346        Holy Cross            10-19      PL         -0.440     321        331        328
-347        Louisiana-Monroe      4-25       SB         -0.453     355        228        338
-348        Loyola MD             11-18      PL         -0.456     292        357        315
-349        UMES                  8-20       MEAC       -0.462     333        323        361
-350        Stonehill             10-19      NEC        -0.471     298        358        322
-351        Saint Francis         6-22       NEC        -0.482     347        299        307
-352        Bryant                8-19       AE         -0.485     342        321        172
-353        Army                  11-18      PL         -0.486     328        342        305
-354        UMKC                  4-24       Sum        -0.501     362        164        249
-355        Maine                 7-21       AE         -0.531     352        320        256
-356        SC State              7-19       MEAC       -0.531     356        305        217
-357        Morgan State          11-14      MEAC       -0.533     296        365        350
-358        Rider                 4-23       MAAC       -0.542     360        211        314
-359        VMI                   6-23       SoCon      -0.565     348        339        327
-360        Western Illinois      5-24       OVC        -0.582     357        322        329
-361        Delaware State        6-20       MEAC       -0.584     349        347        340
-362        Binghamton            6-23       AE         -0.607     344        360        316
-363        Gardner-Webb          3-26       BSth       -0.663     365        196        277
-364        Coppin State          7-21       MEAC       -0.670     361        328        363
-365        Mississippi Valley    2-26       SWAC       -0.687     363        252        364
+1          Michigan              27-2       B10        0.884      1          4          25
+2          Arizona               27-2       B12        0.824      2          12         9
+3          Duke                  27-2       ACC        0.796      3          15         3
+4          Florida               23-6       SEC        0.793      8          9          4
+5          Houston               24-5       B12        0.747      7          23         1
+6          UConn                 27-3       BE         0.738      10         20         39
+7          Illinois              22-7       B10        0.734      15         7          16
+8          Purdue                22-7       B10        0.684      24         6          11
+9          Texas Tech            22-7       B12        0.670      28         5          8
+10         Alabama               22-7       SEC        0.662      44         2          5
+11         Kansas                21-8       B12        0.652      49         1          27
+12         Michigan State        24-5       B10        0.652      26         10         13
+13         Vanderbilt            22-7       SEC        0.645      17         31         45
+14         Iowa State            24-5       B12        0.634      14         65         12
+15         Gonzaga               28-3       WCC        0.628      6          83         7
+16         St. John's            23-6       BE         0.623      22         24         20
+17         Virginia              25-4       ACC        0.619      13         75         109
+18         Tennessee             20-9       SEC        0.605      31         17         6
+19         Arkansas              21-8       SEC        0.599      48         8          44
+20         Nebraska              25-4       B10        0.580      25         48         47
+21         Louisville            20-9       ACC        0.575      33         32         19
+22         North Carolina        23-6       ACC        0.550      36         46         32
+23         Wisconsin             20-9       B10        0.533      51         22         10
+24         Clemson               21-8       ACC        0.515      30         69         22
+25         Utah State            24-5       MW         0.511      20         82         40
+26         Santa Clara           24-7       WCC        0.509      16         89         51
+27         Saint Mary's          27-4       WCC        0.509      18         85         18
+28         Iowa                  20-9       B10        0.505      40         66         64
+29         Villanova             22-7       BE         0.492      63         29         61
+30         NC State              19-10      ACC        0.482      62         42         126
+31         Ohio State            18-11      B10        0.469      79         16         41
+32         Saint Louis           26-3       A10        0.462      5          132        121
+33         BYU                   20-9       B12        0.459      95         11         15
+34         Indiana               17-12      B10        0.459      76         28         48
+35         UCLA                  19-10      B10        0.457      77         26         23
+36         Georgia               20-9       SEC        0.457      59         59         34
+37         Cincinnati            16-13      B12        0.450      71         39         46
+38         Texas A&M             19-10      SEC        0.444      55         72         21
+39         Missouri              20-9       SEC        0.438      61         67         26
+40         Kentucky              19-10      SEC        0.437      109        14         17
+41         Miami FL              23-6       ACC        0.427      42         86         205
+42         SMU                   19-10      ACC        0.420      93         30         52
+43         San Diego State       19-9       MW         0.420      52         77         57
+44         Auburn                15-14      SEC        0.418      183        3          2
+45         New Mexico            22-7       MW         0.405      41         93         31
+46         Texas                 18-11      SEC        0.400      89         55         58
+47         USF                   21-8       Amer       0.385      32         100        215
+48         UCF                   20-8       B12        0.372      123        36         80
+49         VCU                   22-7       A10        0.356      38         103        33
+50         Akron                 24-5       MAC        0.349      12         199        79
+51         Boise State           18-11      MW         0.339      102        73         50
+52         Virginia Tech         18-11      ACC        0.328      133        56         144
+53         Grand Canyon          18-11      MW         0.323      68         90         75
+54         USC                   18-11      B10        0.316      157        50         59
+55         Minnesota             14-15      B10        0.312      149        57         93
+56         Seton Hall            19-10      BE         0.312      124        70         253
+57         Tulsa                 23-6       Amer       0.311      27         137        222
+58         Cal                   20-9       ACC        0.310      99         78         139
+59         TCU                   19-10      B12        0.310      131        68         84
+60         Belmont               26-5       MVC        0.308      21         152        128
+61         Washington            14-15      B10        0.306      191        27         120
+62         Stanford              18-11      ACC        0.305      145        61         73
+63         Oklahoma              15-14      SEC        0.303      143        62         54
+64         Butler                15-14      BE         0.302      170        53         99
+65         Arizona State         15-14      B12        0.294      210        18         71
+66         Miami OH              29-0       MAC        0.294      4          297        132
+67         Syracuse              15-14      ACC        0.293      165        58         124
+68         Baylor                15-14      B12        0.292      192        41         37
+69         Wake Forest           15-14      ACC        0.287      194        37         70
+70         Nevada                19-10      MW         0.286      128        76         98
+71         Providence            14-15      BE         0.285      182        54         134
+72         SF Austin             26-4       Slnd       0.276      11         281        267
+73         Northwestern          13-16      B10        0.272      219        19         55
+74         Florida State         15-14      ACC        0.269      174        63         96
+75         West Virginia         17-12      B12        0.268      155        74         36
+76         Dayton                20-9       A10        0.261      85         97         76
+77         LSU                   15-14      SEC        0.259      203        49         94
+78         Xavier                14-15      BE         0.240      228        40         38
+79         Colorado State        19-10      MW         0.239      87         101        42
+80         Northern Iowa         19-12      MVC        0.235      64         113        100
+81         Georgetown            13-16      BE         0.234      190        71         125
+82         McNeese               25-5       Slnd       0.231      19         227        60
+83         Creighton             14-16      BE         0.231      245        25         35
+84         High Point            27-4       BSth       0.229      9          323        83
+85         Oklahoma State        17-12      B12        0.226      224        52         90
+86         Colorado              16-13      B12        0.210      247        44         107
+87         George Washington     16-13      A10        0.205      70         116        123
+88         Mississippi           12-17      SEC        0.204      260        34         24
+89         Notre Dame            13-16      ACC        0.200      254        43         104
+90         Yale                  22-5       Ivy        0.200      34         197        88
+91         Wyoming               16-13      MW         0.196      152        92         175
+92         Davidson              18-11      A10        0.196      69         125        133
+93         Wichita State         20-10      Amer       0.190      88         108        142
+94         Liberty               24-5       CUSA       0.190      37         200        63
+95         Oregon                11-18      B10        0.187      290        13         29
+96         South Carolina        12-17      SEC        0.184      242        60         86
+97         Utah Valley           22-7       WAC        0.177      35         221        116
+98         Seattle               19-12      WCC        0.175      97         110        163
+99         Hawai'i               21-7       BW         0.175      47         193        212
+100        DePaul                16-13      BE         0.174      206        80         135
+101        Sam Houston           21-8       CUSA       0.169      56         168        161
+102        FAU                   17-13      Amer       0.168      92         114        114
+103        St. Thomas            23-8       Sum        0.168      23         276        97
+104        Cal Baptist           21-8       WAC        0.167      60         157        167
+105        Illinois State        20-11      MVC        0.166      78         134        129
+106        Hofstra               20-10      CAA        0.161      46         213        244
+107        Pitt                  11-18      ACC        0.155      273        47         67
+108        Memphis               12-17      Amer       0.154      212        84         53
+109        Marquette             10-19      BE         0.154      281        38         30
+110        Kansas State          11-18      B12        0.153      277        45         66
+111        Mississippi State     13-16      SEC        0.152      286        33         28
+112        Saint Joseph's        19-10      A10        0.147      67         154        82
+113        UC Irvine             20-10      BW         0.139      54         204        81
+114        North Dakota State    24-7       Sum        0.139      39         252        106
+115        Pacific               17-14      WCC        0.133      113        118        271
+116        Utah                  10-19      B12        0.124      296        35         68
+117        Murray State          20-11      MVC        0.120      125        115        150
+118        UC San Diego          21-9       BW         0.118      57         211        49
+119        UNC Wilmington        25-5       CAA        0.113      43         274        101
+120        George Mason          22-7       A10        0.113      127        117        62
+121        San Francisco         16-15      WCC        0.113      199        98         56
+122        Wright State          20-11      Horz       0.107      58         218        187
+123        Southern Illinois     16-15      MVC        0.102      151        111        173
+124        UAB                   18-11      Amer       0.089      140        121        87
+125        Fresno State          12-17      MW         0.088      235        91         270
+126        Duquesne              16-13      A10        0.087      138        122        145
+127        Austin Peay           21-8       ASun       0.084      45         299        285
+128        Bradley               20-11      MVC        0.082      135        131        74
+129        Arkansas State        20-11      SB         0.081      91         171        77
+130        UC Santa Barbara      18-12      BW         0.076      74         209        143
+131        Toledo                16-13      MAC        0.074      112        153        214
+132        Maryland              11-18      B10        0.069      328        21         14
+133        Kennesaw State        18-11      CUSA       0.069      94         173        137
+134        Penn State            12-17      B10        0.068      313        51         65
+135        UIC                   17-14      MVC        0.067      121        150        157
+136        Western Kentucky      18-11      CUSA       0.066      156        129        141
+137        Washington State      12-19      WCC        0.066      263        87         72
+138        UNLV                  15-14      MW         0.063      241        95         92
+139        Kent State            21-8       MAC        0.061      100        178        108
+140        Boston College        10-19      ACC        0.061      275        81         177
+141        Temple                15-14      Amer       0.058      132        147        160
+142        William & Mary        18-11      CAA        0.055      72         231        236
+143        North Texas           17-13      Amer       0.052      171        127        69
+144        ETSU                  21-10      SoCon      0.051      65         260        170
+145        Middle Tennessee      15-14      CUSA       0.049      173        123        113
+146        Northern Colorado     19-11      BSky       0.048      90         208        103
+147        Montana State         17-13      BSky       0.045      73         243        190
+148        UTRGV                 17-13      Slnd       0.041      80         229        232
+149        New Mexico State      13-15      CUSA       0.033      146        151        102
+150        Winthrop              21-10      BSth       0.032      66         279        185
+151        Central Arkansas      20-11      ASun       0.022      75         265        354
+152        Merrimack             21-10      MAAC       0.020      96         223        210
+153        LMU                   15-16      WCC        0.020      220        106        140
+154        UC Davis              17-12      BW         0.020      129        174        233
+155        St. Bonaventure       15-14      A10        0.019      196        124        91
+156        Troy                  20-11      SB         0.015      106        216        89
+157        South Alabama         21-10      SB         0.012      81         261        131
+158        Rutgers               12-17      B10        0.010      327        64         78
+159        UMass                 15-15      MAC        0.005      134        183        229
+160        Missouri State        13-16      CUSA       -0.001     200        140        189
+161        Charleston            21-10      CAA        -0.002     163        161        138
+162        Oakland               16-15      Horz       -0.004     213        130        182
+163        Richmond              15-14      A10        -0.005     195        144        200
+164        Idaho                 16-14      BSky       -0.006     114        226        234
+165        Eastern Washington    13-17      BSky       -0.007     209        136        268
+166        Bowling Green         17-13      MAC        -0.008     108        240        262
+167        Oregon State          16-15      WCC        -0.009     280        96         85
+168        Valparaiso            17-14      MVC        -0.011     202        142        207
+169        Tarleton State        14-16      WAC        -0.012     180        156        269
+170        Penn                  15-11      Ivy        -0.014     181        158        300
+171        Charlotte             15-14      Amer       -0.015     217        128        284
+172        Rhode Island          15-14      A10        -0.018     230        120        165
+173        Northern Kentucky     18-13      Horz       -0.019     104        262        238
+174        Robert Morris         21-10      Horz       -0.021     107        251        152
+175        Monmouth              16-14      CAA        -0.021     150        195        273
+176        UT Arlington          15-13      WAC        -0.025     179        165        225
+177        Furman                19-12      SoCon      -0.025     82         295        155
+178        CSUN                  18-12      BW         -0.028     162        189        162
+179        Cornell               14-12      Ivy        -0.030     110        257        151
+180        New Orleans           14-16      Slnd       -0.032     234        126        352
+181        Tulane                17-12      Amer       -0.034     258        107        148
+182        Mercer                19-12      SoCon      -0.036     86         300        290
+183        Navy                  25-6       PL         -0.036     29         362        312
+184        Portland              13-18      WCC        -0.037     278        102        248
+185        Siena                 20-11      MAAC       -0.046     83         313        288
+186        Marist                18-11      MAAC       -0.046     84         312        276
+187        Queens                18-13      ASun       -0.047     160        212        203
+188        Quinnipiac            19-12      MAAC       -0.049     103        290        209
+189        App State             19-12      SB         -0.050     98         294        168
+190        Howard                19-10      MEAC       -0.051     50         354        321
+191        Bethune-Cookman       17-13      SWAC       -0.052     169        210        283
+192        Jax State             14-15      CUSA       -0.052     184        191        127
+193        FIU                   14-15      CUSA       -0.053     187        187        252
+194        Harvard               16-11      Ivy        -0.055     136        248        274
+195        Georgia Tech          11-18      ACC        -0.056     331        79         112
+196        Texas A&M-CC          16-14      Slnd       -0.057     141        238        147
+197        Marshall              19-12      SB         -0.059     204        169        146
+198        Denver                15-16      Sum        -0.060     225        148        263
+199        Columbia              16-11      Ivy        -0.061     120        277        306
+200        Iona                  18-13      MAAC       -0.063     126        271        264
+201        Texas State           19-12      SB         -0.064     117        282        193
+202        Weber State           16-14      BSky       -0.065     148        244        282
+203        James Madison         17-14      SB         -0.070     193        194        130
+204        Green Bay             17-14      Horz       -0.073     189        206        330
+205        Southern Miss         16-15      SB         -0.077     205        188        309
+206        Coastal Carolina      19-12      SB         -0.077     147        253        291
+207        Detroit               15-14      Horz       -0.079     177        222        346
+208        Fordham               16-13      A10        -0.080     168        242        228
+209        Portland State        18-10      BSky       -0.082     122        292        201
+210        Lipscomb              19-12      ASun       -0.089     172        241        110
+211        Montana               16-14      BSky       -0.090     141        273        119
+212        Towson                16-14      CAA        -0.090     218        175        188
+213        South Dakota State    14-17      Sum        -0.092     216        186        111
+214        Drexel                16-14      CAA        -0.094     175        246        176
+215        Ohio                  15-14      MAC        -0.095     226        172        154
+216        La Salle              8-21       A10        -0.096     317        99         213
+217        Buffalo               16-13      MAC        -0.098     186        236        351
+218        UMBC                  20-8       AE         -0.098     53         361        323
+219        Wofford               19-12      SoCon      -0.099     116        314        149
+220        Rice                  12-17      Amer       -0.102     256        146        197
+221        Utah Tech             18-13      WAC        -0.105     201        217        293
+222        Saint Peter's         17-11      MAAC       -0.110     144        291        295
+223        SE Missouri State     19-12      OVC        -0.112     118        319        178
+224        Eastern Michigan      10-19      MAC        -0.113     269        143        251
+225        Youngstown State      15-16      Horz       -0.115     119        322        206
+226        Fullerton             15-15      BW         -0.119     238        177        349
+227        Drake                 12-19      MVC        -0.123     276        141        43
+228        Cal Poly              13-17      BW         -0.123     279        138        181
+229        San Jose State        8-21       MW         -0.124     334        94         164
+230        Samford               18-13      SoCon      -0.125     178        272        136
+231        Omaha                 15-16      Sum        -0.127     208        237        115
+232        Campbell              13-17      CAA        -0.128     246        179        237
+233        Indiana State         11-20      MVC        -0.128     259        159        195
+234        Tennessee State       21-9       OVC        -0.129     111        335        220
+235        LIU                   21-10      NEC        -0.130     153        303        303
+236        Stony Brook           17-13      CAA        -0.132     207        245        343
+237        Louisiana Tech        16-13      CUSA       -0.135     198        254        122
+238        Radford               16-15      BSth       -0.137     161        304        174
+239        Florida Gulf Coast    14-17      ASun       -0.142     211        250        171
+240        Colgate               17-14      PL         -0.146     164        309        286
+241        UT Martin             21-10      OVC        -0.152     105        350        272
+242        Elon                  14-16      CAA        -0.152     222        235        247
+243        UTEP                  10-19      CUSA       -0.157     315        112        118
+244        Charleston Southern   15-16      BSth       -0.159     130        336        331
+245        Lindenwood            17-14      OVC        -0.165     115        348        299
+246        San Diego             11-20      WCC        -0.165     310        119        304
+247        North Dakota          16-16      Sum        -0.165     239        224        235
+248        UNC Asheville         14-16      BSth       -0.166     214        266        223
+249        Longwood              16-15      BSth       -0.166     139        332        254
+250        Old Dominion          11-20      SB         -0.167     265        182        281
+251        Abilene Christian     13-16      WAC        -0.167     262        190        186
+252        Georgia Southern      16-15      SB         -0.168     215        268        221
+253        Southern              13-16      SWAC       -0.169     188        305        216
+254        Western Carolina      14-15      SoCon      -0.173     223        255        345
+255        Lamar                 12-18      Slnd       -0.176     251        219        180
+256        Central Michigan      10-19      MAC        -0.177     266        192        191
+257        Vermont               19-11      AE         -0.182     137        340        239
+258        Morehead State        19-12      OVC        -0.183     159        331        302
+259        Idaho State           12-18      BSky       -0.190     289        162        198
+260        Fairfield             19-12      MAAC       -0.190     176        324        334
+261        SIUE                  19-12      OVC        -0.194     101        359        231
+262        South Dakota          16-15      Sum        -0.194     229        278        230
+263        Pepperdine            9-22       WCC        -0.196     339        105        183
+264        Princeton             9-19       Ivy        -0.204     284        185        192
+265        Mount St. Mary's      15-16      MAAC       -0.204     227        289        265
+266        PFW                   17-14      Horz       -0.207     249        259        166
+267        UC Riverside          10-21      BW         -0.207     295        160        156
+268        West Georgia          14-16      ASun       -0.208     243        267        347
+269        East Carolina         11-18      Amer       -0.210     321        133        184
+270        Presbyterian          14-17      BSth       -0.210     231        287        292
+271        Delaware              9-20       CUSA       -0.214     309        149        224
+272        American              16-15      PL         -0.215     166        342        260
+273        Nicholls              13-17      Slnd       -0.217     285        196        159
+274        Florida A&M           13-15      SWAC       -0.222     244        280        310
+275        SC Upstate            13-18      BSth       -0.226     255        269        333
+276        Sac State             9-20       BSky       -0.226     325        139        348
+277        Louisiana             10-21      SB         -0.228     302        170        287
+278        Milwaukee             12-19      Horz       -0.229     305        166        153
+279        Eastern Kentucky      11-20      ASun       -0.231     288        205        169
+280        Northern Arizona      10-20      BSky       -0.234     299        180        226
+281        Alabama A&M           16-13      SWAC       -0.234     197        334        339
+282        Incarnate Word        12-18      Slnd       -0.234     268        249        204
+283        Chattanooga           13-18      SoCon      -0.238     237        302        117
+284        Western Michigan      10-19      MAC        -0.239     323        145        275
+285        Dartmouth             11-15      Ivy        -0.241     264        264        240
+286        Long Beach State      9-21       BW         -0.243     312        164        313
+287        Boston University     15-16      PL         -0.243     167        353        326
+288        Mercyhurst            15-16      NEC        -0.246     154        357        324
+289        Grambling             12-17      SWAC       -0.254     248        306        307
+290        Georgia State         10-21      SB         -0.263     303        201        241
+291        East Texas A&M        11-20      Slnd       -0.264     301        207        335
+292        UNCG                  13-18      SoCon      -0.265     257        301        208
+293        Sacred Heart          13-18      MAAC       -0.272     253        311        266
+294        Pine Bluff            12-17      SWAC       -0.273     270        285        362
+295        Bellarmine            12-18      ASun       -0.274     297        225        332
+296        NJIT                  15-15      AE         -0.275     232        329        358
+297        Hampton               13-17      CAA        -0.278     271        288        245
+298        SE Louisiana          8-22       Slnd       -0.280     319        181        179
+299        Evansville            7-24       MVC        -0.280     352        109        246
+300        Brown                 9-17       Ivy        -0.282     252        317        219
+301        Texas Southern        12-16      SWAC       -0.289     274        293        289
+302        CCSU                  18-11      NEC        -0.292     158        364        211
+303        Le Moyne              15-16      NEC        -0.295     221        344        341
+304        NC A&T                11-17      CAA        -0.303     292        275        344
+305        Jacksonville          12-19      ASun       -0.304     291        283        202
+306        UMass Lowell          13-17      AE         -0.304     236        339        257
+307        Ball State            10-19      MAC        -0.304     307        239        258
+308        Loyola Chicago        7-22       A10        -0.304     357        104        95
+309        Stetson               11-20      ASun       -0.307     311        233        353
+310        Southern Utah         10-19      WAC        -0.309     314        230        278
+311        Alabama State         10-19      SWAC       -0.315     294        286        280
+312        Northeastern          6-22       CAA        -0.316     343        163        194
+313        Norfolk State         15-14      MEAC       -0.318     185        363        196
+314        Northwestern State    10-20      Slnd       -0.319     322        215        218
+315        Lehigh                15-16      PL         -0.320     240        345        318
+316        Oral Roberts          9-22       Sum        -0.327     326        214        297
+317        Houston Christian     11-19      Slnd       -0.331     324        228        250
+318        IUI                   7-24       Horz       -0.332     306        270        311
+319        Eastern Illinois      12-19      OVC        -0.338     283        315        298
+320        Prairie View          13-17      SWAC       -0.341     250        351        355
+321        Wagner                13-16      NEC        -0.344     233        355        336
+322        Tennessee Tech        13-18      OVC        -0.352     267        338        279
+323        Jackson State         9-20       SWAC       -0.358     350        155        255
+324        Little Rock           12-19      OVC        -0.361     300        308        227
+325        North Florida         7-24       ASun       -0.361     345        202        243
+326        Albany                11-19      AE         -0.373     261        352        296
+327        Northern Illinois     9-19       MAC        -0.374     338        234        337
+328        North Alabama         9-20       ASun       -0.377     337        247        105
+329        New Haven             14-17      NEC        -0.378     272        346        -
+330        Cleveland State       10-21      Horz       -0.387     344        232        158
+331        Manhattan             12-19      MAAC       -0.389     316        307        259
+332        Lafayette             11-20      PL         -0.393     308        318        301
+333        Air Force             3-26       MW         -0.399     364        88         294
+334        Bakersfield           8-22       BW         -0.403     354        184        261
+335        Alcorn State          7-21       SWAC       -0.404     355        176        319
+336        The Citadel           10-21      SoCon      -0.409     333        284        360
+337        Bucknell              9-22       PL         -0.411     342        263        242
+338        Canisius              10-21      MAAC       -0.413     329        296        356
+339        UTSA                  5-24       Amer       -0.414     359        135        199
+340        FDU                   11-20      NEC        -0.415     293        347        320
+341        Niagara               8-22       MAAC       -0.418     332        298        317
+342        NC Central            11-16      MEAC       -0.422     298        341        342
+343        New Hampshire         8-20       AE         -0.431     318        325        357
+344        Southern Indiana      7-23       OVC        -0.437     320        327        325
+345        Chicago State         7-24       NEC        -0.440     348        258        359
+346        Loyola MD             12-19      PL         -0.440     287        356        315
+347        Stonehill             11-20      NEC        -0.443     282        358        322
+348        UMES                  9-20       MEAC       -0.458     330        328        361
+349        Bryant                9-20       AE         -0.470     340        320        172
+350        Louisiana-Monroe      4-27       SB         -0.471     356        220        338
+351        Holy Cross            10-21      PL         -0.482     335        333        328
+352        Saint Francis         7-24       NEC        -0.485     347        310        307
+353        Army                  11-20      PL         -0.510     336        343        305
+354        Maine                 8-22       AE         -0.523     346        330        256
+355        UMKC                  4-26       Sum        -0.528     362        167        249
+356        SC State              7-21       MEAC       -0.536     353        316        217
+357        Rider                 4-25       MAAC       -0.540     360        203        314
+358        Morgan State          12-15      MEAC       -0.542     304        365        350
+359        VMI                   6-25       SoCon      -0.555     349        337        327
+360        Binghamton            8-23       AE         -0.587     341        360        316
+361        Delaware State        6-21       MEAC       -0.590     351        349        340
+362        Western Illinois      5-26       OVC        -0.608     358        321        329
+363        Gardner-Webb          3-28       BSth       -0.657     365        198        277
+364        Mississippi Valley    3-27       SWAC       -0.673     363        256        364
+365        Coppin State          7-22       MEAC       -0.674     361        326        363
