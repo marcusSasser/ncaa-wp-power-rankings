@@ -1,4 +1,4 @@
-           Sun Belt                                  Summit                                    NEC                                    Patriot
+           SUN BELT                                  SUMMIT                                    NEC                                    PATRIOT
         Troy ~ 31.17%                     North Dakota State ~ 40.41%                      LIU ~ 45.34%                            Navy ~ 49.41%
       Marshall ~ 20.67%                       St. Thomas ~ 34.12%                      Mercyhurst ~ 18.21%                        Colgate ~ 20.80%
       App State ~ 10.93%                         Denver ~ 8.39%                           CCSU ~ 14.32%                      Boston University ~ 8.87%
@@ -15,7 +15,7 @@
   Louisiana-Monroe ~ <0.01%
 
 
-            A-Sun                                    SoCon                                  Big South                               Ohio Valley
+            A-Sun                                    SoCon                                  BIG SOUTH                               OHIO VALLEY
      Austin Peay ~ 34.87%                        ETSU ~ 32.44%                         High Point ~ 57.40%                    Tennessee State ~ 29.50%
   Central Arkansas ~ 26.28%                     Furman ~ 18.53%                         Winthrop ~ 19.37%                     Morehead State ~ 21.80%
        Queens ~ 15.53%                          Mercer ~ 16.70%                          Radford ~ 6.10%                     SE Missouri State ~ 18.71%
@@ -30,7 +30,7 @@
     North Alabama ~ 0.25%
 
 
-           Horizon                                 West Coast                                  MAAC                               Missouri Valley
+           HORIZON                                 WEST COAST                                  MAAC                               MISSOURI VALLEY
     Wright State ~ 40.19%                       Gonzaga ~ 57.98%                        Merrimack ~ 22.87%                        Belmont ~ 34.09%
     Robert Morris ~ 16.11%                   Saint Mary's ~ 23.22%                        Siena ~ 19.14%                       Northern Iowa ~ 18.75%
        Detroit ~ 12.32%                       Santa Clara ~ 17.28%                       Marist ~ 13.57%                      Illinois State ~ 13.68%
