@@ -1,14 +1,14 @@
            SUN BELT                                  SUMMIT                                    NEC                                    PATRIOT
-        Troy ~ 31.19%                     North Dakota State ~ 40.22%                      LIU ~ 45.31%                            Navy ~ 49.38%
-      Marshall ~ 20.72%                       St. Thomas ~ 34.23%                      Mercyhurst ~ 18.26%                        Colgate ~ 20.84%
-      App State ~ 10.94%                         Denver ~ 8.49%                           CCSU ~ 14.26%                      Boston University ~ 8.87%
-   Arkansas State ~ 10.52%                       Omaha ~ 5.59%                          Le Moyne ~ 11.57%                         American ~ 8.56%
-    South Alabama ~ 8.77%                  South Dakota State ~ 4.84%                     Wagner ~ 4.31%                           Lehigh ~ 7.43%
-   Coastal Carolina ~ 8.44%                   North Dakota ~ 3.11%                         FDU ~ 2.45%                           Lafayette ~ 1.77%
-     Texas State ~ 5.02%                      South Dakota ~ 2.97%                      Stonehill ~ 2.27%                         Bucknell ~ 1.39%
-    Southern Miss ~ 2.33%                     Oral Roberts ~ 0.52%                    Chicago State ~ 1.57%                      Loyola MD ~ 1.06%
-    James Madison ~ 1.51%                         UMKC ~ 0.02%                                                                   Holy Cross ~ 0.42%
-   Georgia Southern ~ 0.28%                                                                                                         Army ~ 0.28%
+        Troy ~ 31.17%                     North Dakota State ~ 40.41%                      LIU ~ 45.34%                            Navy ~ 49.41%
+      Marshall ~ 20.67%                       St. Thomas ~ 34.12%                      Mercyhurst ~ 18.21%                        Colgate ~ 20.80%
+      App State ~ 10.93%                         Denver ~ 8.39%                           CCSU ~ 14.32%                      Boston University ~ 8.87%
+   Arkansas State ~ 10.57%                       Omaha ~ 5.61%                          Le Moyne ~ 11.56%                         American ~ 8.56%
+    South Alabama ~ 8.79%                  South Dakota State ~ 4.84%                     Wagner ~ 4.25%                           Lehigh ~ 7.44%
+   Coastal Carolina ~ 8.44%                   North Dakota ~ 3.16%                         FDU ~ 2.48%                           Lafayette ~ 1.77%
+     Texas State ~ 5.02%                      South Dakota ~ 2.95%                      Stonehill ~ 2.27%                         Bucknell ~ 1.39%
+    Southern Miss ~ 2.34%                     Oral Roberts ~ 0.51%                    Chicago State ~ 1.56%                      Loyola MD ~ 1.06%
+    James Madison ~ 1.52%                         UMKC ~ 0.02%                                                                   Holy Cross ~ 0.42%
+   Georgia Southern ~ 0.27%                                                                                                         Army ~ 0.28%
      Old Dominion ~ 0.19%
       Louisiana ~ 0.06%
     Georgia State ~ 0.03%
@@ -16,45 +16,46 @@
 
 
             A-Sun                                    SoCon                                  BIG SOUTH                               OHIO VALLEY
-     Austin Peay ~ 35.04%                        ETSU ~ 32.44%                         High Point ~ 57.41%                    Tennessee State ~ 29.68%
-  Central Arkansas ~ 26.12%                     Furman ~ 18.53%                         Winthrop ~ 19.28%                     Morehead State ~ 21.75%
-       Queens ~ 15.67%                          Mercer ~ 16.70%                          Radford ~ 6.13%                     SE Missouri State ~ 18.59%
-      Lipscomb ~ 11.69%                         Wofford ~ 14.13%                         Longwood ~ 4.17%                        UT Martin ~ 14.38%
-  Florida Gulf Coast ~ 4.80%                    Samford ~ 8.48%                       UNC Asheville ~ 4.17%                      Lindenwood ~ 7.76%
-     West Georgia ~ 2.10%                   Western Carolina ~ 5.33%               Charleston Southern ~ 4.09%                      SIUE ~ 5.93%
-   Eastern Kentucky ~ 1.55%                       UNCG ~ 2.22%                         Presbyterian ~ 3.06%                   Eastern Illinois ~ 1.11%
-      Bellarmine ~ 1.10%                      Chattanooga ~ 1.95%                       SC Upstate ~ 1.69%                      Little Rock ~ 0.80%
-     Jacksonville ~ 0.73%                     The Citadel ~ 0.19%                     Gardner-Webb ~ <0.01%
+     Austin Peay ~ 34.87%                        ETSU ~ 32.44%                         High Point ~ 57.40%                    Tennessee State ~ 29.50%
+  Central Arkansas ~ 26.28%                     Furman ~ 18.53%                         Winthrop ~ 19.37%                     Morehead State ~ 21.80%
+       Queens ~ 15.53%                          Mercer ~ 16.70%                          Radford ~ 6.10%                     SE Missouri State ~ 18.71%
+      Lipscomb ~ 11.63%                         Wofford ~ 14.13%                      UNC Asheville ~ 4.18%                      UT Martin ~ 14.35%
+  Florida Gulf Coast ~ 4.82%                    Samford ~ 8.48%                          Longwood ~ 4.15%                        Lindenwood ~ 7.76%
+     West Georgia ~ 2.33%                   Western Carolina ~ 5.33%               Charleston Southern ~ 4.07%                      SIUE ~ 5.94%
+   Eastern Kentucky ~ 1.56%                       UNCG ~ 2.22%                         Presbyterian ~ 3.04%                   Eastern Illinois ~ 1.13%
+      Bellarmine ~ 1.10%                      Chattanooga ~ 1.95%                       SC Upstate ~ 1.68%                      Little Rock ~ 0.81%
+     Jacksonville ~ 0.74%                     The Citadel ~ 0.19%                     Gardner-Webb ~ <0.01%
        Stetson ~ 0.58%                            VMI ~ 0.03%
-    North Florida ~ 0.37%
+    North Florida ~ 0.31%
     North Alabama ~ 0.25%
 
 
            HORIZON                                 WEST COAST                                  MAAC                               MISSOURI VALLEY
     Wright State ~ 40.19%                       Gonzaga ~ 57.98%                        Merrimack ~ 22.87%                        Belmont ~ 34.09%
-    Robert Morris ~ 16.10%                   Saint Mary's ~ 23.22%                        Siena ~ 19.14%                       Northern Iowa ~ 18.75%
+    Robert Morris ~ 16.11%                   Saint Mary's ~ 23.22%                        Siena ~ 19.14%                       Northern Iowa ~ 18.75%
        Detroit ~ 12.32%                       Santa Clara ~ 17.28%                       Marist ~ 13.57%                      Illinois State ~ 13.68%
        Oakland ~ 12.18%                      San Francisco ~ 0.61%                     Quinnipiac ~ 13.33%                      Murray State ~ 9.87%
-      Green Bay ~ 7.90%                         Seattle ~ 0.25%                       Saint Peter's ~ 13.06%                      Bradley ~ 9.39%
-  Northern Kentucky ~ 6.39%                   Oregon State ~ 0.23%                         Iona ~ 7.77%                             UIC ~ 6.19%
-   Youngstown State ~ 2.41%                     Pacific ~ 0.21%                      Mount St. Mary's ~ 5.13%                Southern Illinois ~ 4.94%
+      Green Bay ~ 7.91%                         Seattle ~ 0.25%                       Saint Peter's ~ 13.06%                      Bradley ~ 9.39%
+  Northern Kentucky ~ 6.40%                   Oregon State ~ 0.23%                         Iona ~ 7.77%                             UIC ~ 6.19%
+   Youngstown State ~ 2.43%                     Pacific ~ 0.21%                      Mount St. Mary's ~ 5.13%                Southern Illinois ~ 4.94%
          PFW ~ 1.52%                        Washington State ~ 0.19%                    Fairfield ~ 4.11%                        Valparaiso ~ 2.27%
-      Milwaukee ~ 0.81%                         Portland ~ 0.02%                       Sacred Heart ~ 0.69%                    Indiana State ~ 0.50%
-         IUI ~ 0.15%                              LMU ~ 0.01%                           Manhattan ~ 0.33%                          Drake ~ 0.29%
+      Milwaukee ~ 0.82%                         Portland ~ 0.02%                       Sacred Heart ~ 0.69%                    Indiana State ~ 0.50%
+         IUI ~ 0.08%                              LMU ~ 0.01%                           Manhattan ~ 0.33%                          Drake ~ 0.29%
    Cleveland State ~ 0.04%                    Pepperdine ~ <0.01%                                                                Evansville ~ 0.03%
                                                San Diego ~ <0.01%
 
+
            BIG SKY                                 SOUTHLAND                                   CAA                                  AMERICA EAST
-  Northern Colorado ~ 24.38%                    McNeese ~ 46.15%                         Hofstra ~ 28.34%                          UMBC ~ 51.01%
-    Montana State ~ 22.11%                     SF Austin ~ 41.57%                    UNC Wilmington ~ 28.26%                      Vermont ~ 25.61%
- Eastern Washington ~ 13.76%                     UTRGV ~ 7.19%                         Charleston ~ 11.67%                         NJIT ~ 10.41%
-   Portland State ~ 13.01%                    Texas A&M-CC ~ 2.69%                      Monmouth ~ 11.12%                       UMass Lowell ~ 7.82%
-        Idaho ~ 8.72%                         New Orleans ~ 2.09%                     William & Mary ~ 8.72%                       Albany ~ 2.64%
-     Weber State ~ 7.39%                        Nicholls ~ 0.23%                          Drexel ~ 3.73%                       New Hampshire ~ 1.09%
-       Montana ~ 7.05%                     Houston Christian ~ 0.04%                      Towson ~ 3.30%                           Bryant ~ 0.87%
-     Idaho State ~ 1.67%                   Northwestern State ~ 0.04%                    Campbell ~ 2.05%                          Maine ~ 0.56%
-   Northern Arizona ~ 1.02%                                                            Stony Brook ~ 1.61%
-      Sac State ~ 0.89%                                                                    Elon ~ 0.70%
-                                                                                         Hampton ~ 0.29%
-                                                                                          NC A&T ~ 0.10%
-                                                                                       Northeastern ~ 0.09%
+  Northern Colorado ~ 23.53%                   SF Austin ~ 47.74%                        Hofstra ~ 29.12%                          UMBC ~ 47.58%
+    Montana State ~ 20.60%                      McNeese ~ 37.68%                     UNC Wilmington ~ 26.52%                      Vermont ~ 26.37%
+ Eastern Washington ~ 14.35%                     UTRGV ~ 8.32%                         Charleston ~ 11.96%                         NJIT ~ 12.67%
+   Portland State ~ 11.17%                    Texas A&M-CC ~ 3.11%                      Monmouth ~ 11.27%                       UMass Lowell ~ 7.51%
+     Weber State ~ 9.02%                      New Orleans ~ 2.74%                     William & Mary ~ 8.83%                       Albany ~ 3.02%
+        Idaho ~ 8.95%                           Nicholls ~ 0.31%                          Drexel ~ 3.80%                       New Hampshire ~ 1.22%
+       Montana ~ 8.14%                     Northwestern State ~ 0.06%                     Towson ~ 3.41%                           Bryant ~ 0.94%
+     Idaho State ~ 2.21%                   Houston Christian ~ 0.04%                     Campbell ~ 1.89%                          Maine ~ 0.69%
+   Northern Arizona ~ 1.28%                                                            Stony Brook ~ 1.80%
+      Sac State ~ 0.74%                                                                    Elon ~ 0.87%
+                                                                                         Hampton ~ 0.30%
+                                                                                          NC A&T ~ 0.13%
+                                                                                       Northeastern ~ 0.11%
