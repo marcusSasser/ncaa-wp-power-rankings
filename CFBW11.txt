@@ -62,10 +62,10 @@
 
 
              IVY                                      MEAC                                     SWAC                                     MAC
-        Yale ~ 46.45%                           Howard ~ 70.38%                      Bethune-Cookman ~ 34.51%                      Akron ~ 45.43%
-       Cornell ~ 20.13%                      Norfolk State ~ 9.86%                      Southern ~ 17.74%                        Miami OH ~ 29.20%
-        Penn ~ 20.03%                          NC Central ~ 6.40%                      Florida A&M ~ 13.11%                      Kent State ~ 8.01%
-       Harvard ~ 13.39%                           UMES ~ 5.24%                         Alabama A&M ~ 11.26%                        Toledo ~ 7.46%
+        Yale ~ 50.81%                           Howard ~ 70.38%                      Bethune-Cookman ~ 34.51%                      Akron ~ 45.43%
+        Penn ~ 20.64%                        Norfolk State ~ 9.86%                      Southern ~ 17.74%                        Miami OH ~ 29.20%
+       Cornell ~ 14.68%                        NC Central ~ 6.40%                      Florida A&M ~ 13.11%                      Kent State ~ 8.01%
+       Harvard ~ 13.87%                           UMES ~ 5.24%                         Alabama A&M ~ 11.26%                        Toledo ~ 7.46%
                                               Morgan State ~ 4.10%                      Pine Bluff ~ 8.21%                     Bowling Green ~ 3.55%
                                              Delaware State ~ 2.16%                   Texas Southern ~ 5.47%                       UMass ~ 3.21%
                                                 SC State ~ 1.87%                        Grambling ~ 3.86%                           Ohio ~ 1.74%
