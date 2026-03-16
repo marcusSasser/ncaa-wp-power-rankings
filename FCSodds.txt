@@ -1,4 +1,4 @@
-Team                           Win          Champ     Final Four    Elite Eight  Sweet Sixteen    Round of 32
+Team                           Win   Championship     Final Four    Elite Eight  Sweet Sixteen    Round of 32
 Duke                         12.46%         22.17%         36.75%         54.54%         79.44%         98.08%
 Siena                         0.00%          0.00%          0.00%          0.02%          0.24%          1.92%
 Ohio State                    0.23%          0.80%          2.50%          6.43%         15.97%         66.81%
