@@ -1,267 +1,267 @@
 Ranking    Team                Record     Conf       SubDiv     Rating     MoV        SoS        Last Year
-1          Indiana             0-0        B10        FBS        1.083      -          -          1
-2          Oregon              0-0        B10        FBS        1.009      -          -          2
-3          Notre Dame          0-0        -          FBS        0.990      -          -          3
-4          Ohio State          0-0        B10        FBS        0.978      -          -          4
-5          Texas Tech          0-0        B12        FBS        0.931      -          -          5
-6          Miami FL            0-0        ACC        FBS        0.910      -          -          6
-7          Georgia             0-0        SEC        FBS        0.862      -          -          7
-8          Mississippi         0-0        SEC        FBS        0.835      -          -          8
-9          Utah                0-0        B12        FBS        0.827      -          -          9
-10         Texas A&M           0-0        SEC        FBS        0.806      -          -          10
-11         Oklahoma            0-0        SEC        FBS        0.804      -          -          11
-12         USC                 0-0        B10        FBS        0.746      -          -          12
-13         Alabama             0-0        SEC        FBS        0.730      -          -          13
-14         Tennessee           0-0        SEC        FBS        0.713      -          -          14
-15         Iowa                0-0        B10        FBS        0.712      -          -          15
-16         BYU                 0-0        B12        FBS        0.707      -          -          16
-17         Washington          0-0        B10        FBS        0.706      -          -          17
-18         Michigan            0-0        B10        FBS        0.703      -          -          18
-19         SMU                 0-0        ACC        FBS        0.657      -          -          19
-20         Pitt                0-0        ACC        FBS        0.649      -          -          20
-21         Texas               0-0        SEC        FBS        0.646      -          -          21
-22         Penn State          0-0        B10        FBS        0.640      -          -          22
-23         TCU                 0-0        B12        FBS        0.639      -          -          23
-24         Vanderbilt          0-0        SEC        FBS        0.634      -          -          24
-25         Iowa State          0-0        B12        FBS        0.625      -          -          25
-26         Virginia            0-0        ACC        FBS        0.616      -          -          26
-27         Illinois            0-0        B10        FBS        0.616      -          -          27
-28         Louisville          0-0        ACC        FBS        0.605      -          -          28
-29         North Texas         0-0        Amer       FBS        0.588      -          -          29
-30         Tulane              0-0        Amer       FBS        0.588      -          -          30
-31         USF                 0-0        Amer       FBS        0.585      -          -          31
-32         Arizona             0-0        B12        FBS        0.577      -          -          32
-33         NC State            0-0        ACC        FBS        0.559      -          -          33
-34         Auburn              0-0        SEC        FBS        0.554      -          -          34
-35         Kansas State        0-0        B12        FBS        0.553      -          -          35
-36         Old Dominion        0-0        SB         FBS        0.540      -          -          36
-37         Missouri            0-0        SEC        FBS        0.533      -          -          37
-38         LSU                 0-0        SEC        FBS        0.527      -          -          38
-39         East Carolina       0-0        Amer       FBS        0.527      -          -          39
-40         James Madison       0-0        SB         FBS        0.515      -          -          40
-41         Georgia Tech        0-0        ACC        FBS        0.511      -          -          41
-42         Montana State       0-0        BSky       FCS        0.509      -          -          42
-43         Houston             0-0        B12        FBS        0.509      -          -          43
-44         Wake Forest         0-0        ACC        FBS        0.508      -          -          44
-45         North Dakota State  0-0        MW         FBS        0.507      -          -          45
-46         Clemson             0-0        ACC        FBS        0.499      -          -          46
-47         Florida             0-0        SEC        FBS        0.475      -          -          47
-48         Washington State    0-0        P12        FBS        0.473      -          -          48
-49         Northwestern        0-0        B10        FBS        0.470      -          -          49
-50         Arizona State       0-0        B12        FBS        0.467      -          -          50
-51         Florida State       0-0        ACC        FBS        0.466      -          -          51
-52         Nebraska            0-0        B10        FBS        0.464      -          -          52
-53         South Carolina      0-0        SEC        FBS        0.463      -          -          53
-54         Cincinnati          0-0        B12        FBS        0.452      -          -          54
-55         Kentucky            0-0        SEC        FBS        0.441      -          -          55
-56         UTSA                0-0        Amer       FBS        0.433      -          -          56
-57         Navy                0-0        Amer       FBS        0.432      -          -          57
-58         Duke                0-0        ACC        FBS        0.429      -          -          58
-59         San Diego State     0-0        P12        FBS        0.415      -          -          59
-60         Mississippi State   0-0        SEC        FBS        0.410      -          -          60
-61         Boise State         0-0        P12        FBS        0.407      -          -          61
-62         Maryland            0-0        B10        FBS        0.398      -          -          62
-63         Kansas              0-0        B12        FBS        0.393      -          -          63
-64         Rutgers             0-0        B10        FBS        0.391      -          -          64
-65         Toledo              0-0        MAC        FBS        0.372      -          -          65
-66         Michigan State      0-0        B10        FBS        0.366      -          -          66
-67         Arkansas            0-0        SEC        FBS        0.360      -          -          67
-68         Memphis             0-0        Amer       FBS        0.358      -          -          68
-69         Army                0-0        Amer       FBS        0.358      -          -          69
-70         Baylor              0-0        B12        FBS        0.335      -          -          70
-71         Western Michigan    0-0        MAC        FBS        0.321      -          -          71
-72         Minnesota           0-0        B10        FBS        0.316      -          -          72
-73         Montana             0-0        BSky       FCS        0.316      -          -          73
-74         North Dakota        0-0        MVC        FCS        0.306      -          -          74
-75         Wisconsin           0-0        B10        FBS        0.297      -          -          75
-76         Colorado            0-0        B12        FBS        0.295      -          -          76
-77         New Mexico          0-0        MW         FBS        0.284      -          -          77
-78         UNLV                0-0        MW         FBS        0.282      -          -          78
-79         Cal                 0-0        ACC        FBS        0.280      -          -          79
-80         Illinois State      0-0        MVC        FCS        0.275      -          -          80
-81         Ohio                0-0        MAC        FBS        0.270      -          -          81
-82         UConn               0-0        -          FBS        0.266      -          -          82
-83         Tarleton State      0-0        UAC        FCS        0.261      -          -          83
-84         Purdue              0-0        B10        FBS        0.255      -          -          84
-85         Hawai'i             0-0        MW         FBS        0.246      -          -          85
-86         UCF                 0-0        B12        FBS        0.217      -          -          86
-87         Texas State         0-0        P12        FBS        0.215      -          -          87
-88         Utah State          0-0        P12        FBS        0.214      -          -          88
-89         Virginia Tech       0-0        ACC        FBS        0.210      -          -          89
-90         UCLA                0-0        B10        FBS        0.206      -          -          90
-91         Louisiana Tech      0-0        SB         FBS        0.204      -          -          91
-92         Kennesaw State      0-0        CUSA       FBS        0.189      -          -          92
-93         Southern Illinois   0-0        MVC        FCS        0.181      -          -          93
-94         Stanford            0-0        ACC        FBS        0.180      -          -          94
-95         Lehigh              0-0        PL         FCS        0.179      -          -          95
-96         Central Michigan    0-0        MAC        FBS        0.167      -          -          96
-97         Syracuse            0-0        ACC        FBS        0.165      -          -          97
-98         Fresno State        0-0        P12        FBS        0.164      -          -          98
-99         Boston College      0-0        ACC        FBS        0.159      -          -          99
-100        Miami OH            0-0        MAC        FBS        0.155      -          -          100
-101        Tulsa               0-0        Amer       FBS        0.139      -          -          101
-102        UC Davis            0-0        BSky       FCS        0.137      -          -          102
-103        North Carolina      0-0        ACC        FBS        0.131      -          -          103
-104        FAU                 0-0        Amer       FBS        0.119      -          -          104
-105        South Dakota        0-0        MVC        FCS        0.117      -          -          105
-106        West Virginia       0-0        B12        FBS        0.116      -          -          106
-107        Marshall            0-0        SB         FBS        0.113      -          -          107
-108        Arkansas State      0-0        SB         FBS        0.097      -          -          108
-109        Georgia Southern    0-0        SB         FBS        0.095      -          -          109
-110        SF Austin           0-0        SL         FCS        0.092      -          -          110
-111        Yale                0-0        Ivy        FCS        0.088      -          -          111
-112        South Dakota State  0-0        MVC        FCS        0.085      -          -          112
-113        Liberty             0-0        CUSA       FBS        0.077      -          -          113
-114        Tennessee Tech      0-0        SoCon      FCS        0.073      -          -          114
-115        Temple              0-0        Amer       FBS        0.072      -          -          115
-116        Abilene Christian   0-0        UAC        FCS        0.070      -          -          116
-117        Youngstown State    0-0        MVC        FCS        0.066      -          -          117
-118        Air Force           0-0        MW         FBS        0.066      -          -          118
-119        Jax State           0-0        CUSA       FBS        0.060      -          -          119
-120        Mercer              0-0        SoCon      FCS        0.057      -          -          120
-121        Idaho State         0-0        BSky       FCS        0.055      -          -          121
-122        Harvard             0-0        Ivy        FCS        0.052      -          -          122
-123        Southern Miss       0-0        SB         FBS        0.043      -          -          123
-124        Missouri State      0-0        CUSA       FBS        0.043      -          -          124
-125        FIU                 0-0        CUSA       FBS        0.039      -          -          125
-126        SE Louisiana        0-0        SL         FCS        0.034      -          -          126
-127        Villanova           0-0        PL         FCS        0.029      -          -          127
-128        Troy                0-0        SB         FBS        0.028      -          -          128
-129        Northern Arizona    0-0        BSky       FCS        0.023      -          -          129
-130        Austin Peay         0-0        UAC        FCS        0.019      -          -          130
-131        Western Kentucky    0-0        CUSA       FBS        0.014      -          -          131
-132        Rhode Island        0-0        CAA        FCS        0.000      -          -          132
-133        Coastal Carolina    0-0        SB         FBS        0.000      -          -          133
-134        Southern Utah       0-0        BSky       FCS        -0.004     -          -          134
-135        Oklahoma State      0-0        B12        FBS        -0.005     -          -          135
-136        South Alabama       0-0        SB         FBS        -0.009     -          -          136
-137        Sac State           0-0        MAC        FBS        -0.015     -          -          137
-138        Louisiana           0-0        SB         FBS        -0.016     -          -          138
-139        App State           0-0        SB         FBS        -0.042     -          -          139
-140        Wyoming             0-0        MW         FBS        -0.042     -          -          140
-141        Western Carolina    0-0        SoCon      FCS        -0.045     -          -          141
-142        Delaware            0-0        CUSA       FBS        -0.046     -          -          142
-143        Oregon State        0-0        P12        FBS        -0.051     -          -          143
-144        San Jose State      0-0        MW         FBS        -0.059     -          -          144
-145        ETSU                0-0        SoCon      FCS        -0.060     -          -          145
-146        Bowling Green       0-0        MAC        FBS        -0.064     -          -          146
-147        Buffalo             0-0        MAC        FBS        -0.069     -          -          147
-148        Rice                0-0        Amer       FBS        -0.070     -          -          148
-149        West Georgia        0-0        UAC        FCS        -0.075     -          -          149
-150        Northern Illinois   0-0        MW         FBS        -0.083     -          -          150
-151        New Hampshire       0-0        CAA        FCS        -0.086     -          -          151
-152        Gardner-Webb        0-0        OVC        FCS        -0.089     -          -          152
-153        Dartmouth           0-0        Ivy        FCS        -0.090     -          -          153
-154        Cal Poly            0-0        BSky       FCS        -0.091     -          -          154
-155        Akron               0-0        MAC        FBS        -0.104     -          -          155
-156        UAB                 0-0        Amer       FBS        -0.111     -          -          156
-157        Nevada              0-0        MW         FBS        -0.117     -          -          157
-158        Colorado State      0-0        P12        FBS        -0.118     -          -          158
-159        Georgia State       0-0        SB         FBS        -0.123     -          -          159
-160        New Mexico State    0-0        CUSA       FBS        -0.128     -          -          160
-161        SC State            0-0        MEAC       FCS        -0.137     -          -          161
-162        Kent State          0-0        MAC        FBS        -0.147     -          -          162
-163        NC Central          0-0        MEAC       FCS        -0.147     -          -          163
-164        Monmouth            0-0        CAA        FCS        -0.155     -          -          164
-165        Penn                0-0        Ivy        FCS        -0.157     -          -          165
-166        Eastern Michigan    0-0        MAC        FBS        -0.167     -          -          166
-167        Louisiana-Monroe    0-0        SB         FBS        -0.175     -          -          167
-168        Lafayette           0-0        PL         FCS        -0.176     -          -          168
-169        Maine               0-0        CAA        FCS        -0.187     -          -          169
-170        Alabama State       0-0        SWAC       FCS        -0.205     -          -          170
-171        UTEP                0-0        MW         FBS        -0.224     -          -          171
-172        Elon                0-0        CAA        FCS        -0.229     -          -          172
-173        Middle Tennessee    0-0        CUSA       FBS        -0.235     -          -          173
-174        Idaho               0-0        BSky       FCS        -0.240     -          -          174
-175        Eastern Washington  0-0        BSky       FCS        -0.240     -          -          175
-176        Stony Brook         0-0        CAA        FCS        -0.242     -          -          176
-177        Wofford             0-0        SoCon      FCS        -0.243     -          -          177
-178        Lindenwood          0-0        OVC        FCS        -0.254     -          -          178
-179        Lamar               0-0        SL         FCS        -0.257     -          -          179
-180        William & Mary      0-0        PL         FCS        -0.266     -          -          180
-181        Incarnate Word      0-0        SL         FCS        -0.268     -          -          181
-182        Ball State          0-0        MAC        FBS        -0.269     -          -          182
-183        Indiana State       0-0        MVC        FCS        -0.278     -          -          183
-184        St. Thomas          0-0        PFL        FCS        -0.281     -          -          184
-185        Northern Colorado   0-0        BSky       FCS        -0.283     -          -          185
-186        Weber State         0-0        BSky       FCS        -0.285     -          -          186
-187        Drake               0-0        PFL        FCS        -0.288     -          -          187
-188        Princeton           0-0        Ivy        FCS        -0.294     -          -          188
-189        Charlotte           0-0        Amer       FBS        -0.303     -          -          189
-190        UTRGV               0-0        SL         FCS        -0.308     -          -          190
-191        Eastern Kentucky    0-0        UAC        FCS        -0.311     -          -          191
-192        Delaware State      0-0        MEAC       FCS        -0.316     -          -          192
-193        UT Martin           0-0        OVC        FCS        -0.318     -          -          193
-194        Jackson State       0-0        SWAC       FCS        -0.322     -          -          194
-195        Brown               0-0        Ivy        FCS        -0.326     -          -          195
-196        Towson              0-0        CAA        FCS        -0.329     -          -          196
-197        Colgate             0-0        PL         FCS        -0.329     -          -          197
-198        West Florida        0-0        UAC        FCS        -0.330     -          -          -
-199        San Diego           0-0        PFL        FCS        -0.334     -          -          198
-200        Furman              0-0        SoCon      FCS        -0.335     -          -          199
-201        The Citadel         0-0        SoCon      FCS        -0.336     -          -          200
-202        Holy Cross          0-0        PL         FCS        -0.339     -          -          201
-203        Prairie View        0-0        SWAC       FCS        -0.342     -          -          202
-204        Sam Houston         0-0        CUSA       FBS        -0.346     -          -          203
-205        Central Arkansas    0-0        UAC        FCS        -0.348     -          -          204
-206        Charleston Southern 0-0        OVC        FCS        -0.349     -          -          205
-207        CCSU                0-0        NEC        FCS        -0.363     -          -          206
-208        LIU                 0-0        NEC        FCS        -0.366     -          -          207
-209        Presbyterian        0-0        PFL        FCS        -0.367     -          -          208
-210        Duquesne            0-0        NEC        FCS        -0.367     -          -          209
-211        Nicholls            0-0        SL         FCS        -0.368     -          -          210
-212        North Alabama       0-0        UAC        FCS        -0.375     -          -          211
-213        Northern Iowa       0-0        MVC        FCS        -0.376     -          -          212
-214        Richmond            0-0        PL         FCS        -0.386     -          -          213
-215        McNeese             0-0        SL         FCS        -0.418     -          -          214
-216        SE Missouri State   0-0        OVC        FCS        -0.419     -          -          215
-217        Cornell             0-0        Ivy        FCS        -0.422     -          -          216
-218        Chattanooga         0-0        SoCon      FCS        -0.424     -          -          217
-219        Sacred Heart        0-0        CAA        FCS        -0.425     -          -          218
-220        Campbell            0-0        CAA        FCS        -0.431     -          -          219
-221        Western Illinois    0-0        OVC        FCS        -0.437     -          -          220
-222        Dayton              0-0        PFL        FCS        -0.445     -          -          221
-223        Portland State      0-0        BSky       FCS        -0.463     -          -          222
-224        Merrimack           0-0        -          FCS        -0.464     -          -          223
-225        Utah Tech           0-0        BSky       FCS        -0.471     -          -          224
-226        Mercyhurst          0-0        NEC        FCS        -0.471     -          -          225
-227        Butler              0-0        PFL        FCS        -0.472     -          -          226
-228        Eastern Illinois    0-0        OVC        FCS        -0.474     -          -          227
-229        East Texas A&M      0-0        SL         FCS        -0.478     -          -          228
-230        Columbia            0-0        Ivy        FCS        -0.497     -          -          229
-231        Murray State        0-0        MVC        FCS        -0.511     -          -          230
-232        Albany              0-0        CAA        FCS        -0.519     -          -          231
-233        UMass               0-0        MAC        FBS        -0.524     -          -          232
-234        Bryant              0-0        CAA        FCS        -0.538     -          -          233
-235        Georgetown          0-0        PL         FCS        -0.539     -          -          234
-236        Wagner              0-0        NEC        FCS        -0.558     -          -          235
-237        Bethune-Cookman     0-0        SWAC       FCS        -0.576     -          -          236
-238        Morgan State        0-0        MEAC       FCS        -0.577     -          -          237
-239        Bucknell            0-0        PL         FCS        -0.593     -          -          238
-240        Grambling           0-0        SWAC       FCS        -0.605     -          -          239
-241        Stonehill           0-0        NEC        FCS        -0.608     -          -          240
-242        Texas Southern      0-0        SWAC       FCS        -0.611     -          -          241
-243        New Haven           0-0        NEC        FCS        -0.614     -          -          242
-244        Alcorn State        0-0        SWAC       FCS        -0.626     -          -          243
-245        Howard              0-0        MEAC       FCS        -0.638     -          -          244
-246        Robert Morris       0-0        NEC        FCS        -0.640     -          -          245
-247        Marist              0-0        PFL        FCS        -0.640     -          -          246
-248        Samford             0-0        SoCon      FCS        -0.664     -          -          247
-249        Fordham             0-0        PL         FCS        -0.665     -          -          248
-250        Norfolk State       0-0        MEAC       FCS        -0.716     -          -          249
-251        VMI                 0-0        SoCon      FCS        -0.720     -          -          250
-252        Florida A&M         0-0        SWAC       FCS        -0.731     -          -          251
-253        Tennessee State     0-0        OVC        FCS        -0.733     -          -          252
-254        Alabama A&M         0-0        SWAC       FCS        -0.743     -          -          253
-255        Houston Christian   0-0        SL         FCS        -0.745     -          -          254
-256        Pine Bluff          0-0        SWAC       FCS        -0.764     -          -          255
-257        Morehead State      0-0        PFL        FCS        -0.769     -          -          256
-258        NC A&T              0-0        CAA        FCS        -0.814     -          -          257
-259        Northwestern State  0-0        SL         FCS        -0.817     -          -          258
-260        Hampton             0-0        CAA        FCS        -0.829     -          -          259
-261        Southern            0-0        SWAC       FCS        -0.843     -          -          260
-262        Mississippi Valley  0-0        SWAC       FCS        -0.951     -          -          262
-263        Valparaiso          0-0        PFL        FCS        -0.992     -          -          263
-264        Davidson            0-0        PFL        FCS        -0.994     -          -          264
-265        Stetson             0-0        PFL        FCS        -1.066     -          -          265
-266        Chicago State       0-0        -          FCS        -1.713     -          -          -
+1          Indiana             0-0        B10        FBS        1.082      -          -          1
+2          Oregon              0-0        B10        FBS        1.008      -          -          2
+3          Notre Dame          0-0        -          FBS        0.988      -          -          3
+4          Ohio State          0-0        B10        FBS        0.977      -          -          4
+5          Texas Tech          0-0        B12        FBS        0.930      -          -          5
+6          Miami FL            0-0        ACC        FBS        0.909      -          -          6
+7          Georgia             0-0        SEC        FBS        0.861      -          -          7
+8          Mississippi         0-0        SEC        FBS        0.834      -          -          8
+9          Utah                0-0        B12        FBS        0.826      -          -          9
+10         Texas A&M           0-0        SEC        FBS        0.805      -          -          10
+11         Oklahoma            0-0        SEC        FBS        0.803      -          -          11
+12         USC                 1-0        B10        FBS        0.749      -          -          12
+13         Alabama             0-0        SEC        FBS        0.729      -          -          13
+14         Tennessee           0-0        SEC        FBS        0.712      -          -          14
+15         Iowa                0-0        B10        FBS        0.711      -          -          15
+16         BYU                 0-0        B12        FBS        0.706      -          -          16
+17         Virginia            1-0        ACC        FBS        0.705      -          -          26
+18         Washington          0-0        B10        FBS        0.705      -          -          17
+19         Michigan            0-0        B10        FBS        0.702      -          -          18
+20         SMU                 0-0        ACC        FBS        0.656      -          -          19
+21         Pitt                0-0        ACC        FBS        0.648      -          -          20
+22         Texas               0-0        SEC        FBS        0.645      -          -          21
+23         Penn State          0-0        B10        FBS        0.638      -          -          22
+24         Vanderbilt          0-0        SEC        FBS        0.633      -          -          24
+25         Iowa State          0-0        B12        FBS        0.624      -          -          25
+26         Illinois            0-0        B10        FBS        0.615      -          -          27
+27         Louisville          0-0        ACC        FBS        0.603      -          -          28
+28         North Texas         0-0        Amer       FBS        0.587      -          -          29
+29         Tulane              0-0        Amer       FBS        0.587      -          -          30
+30         USF                 0-0        Amer       FBS        0.584      -          -          31
+31         Arizona             0-0        B12        FBS        0.576      -          -          32
+32         TCU                 0-1        B12        FBS        0.556      -          -          23
+33         Auburn              0-0        SEC        FBS        0.552      -          -          34
+34         Kansas State        0-0        B12        FBS        0.552      -          -          35
+35         Old Dominion        0-0        SB         FBS        0.539      -          -          36
+36         Missouri            0-0        SEC        FBS        0.531      -          -          37
+37         LSU                 0-0        SEC        FBS        0.526      -          -          38
+38         East Carolina       0-0        Amer       FBS        0.526      -          -          39
+39         James Madison       0-0        SB         FBS        0.514      -          -          40
+40         Georgia Tech        0-0        ACC        FBS        0.510      -          -          41
+41         North Dakota State  1-0        MW         FBS        0.509      -          -          45
+42         Houston             0-0        B12        FBS        0.508      -          -          43
+43         Wake Forest         0-0        ACC        FBS        0.507      -          -          44
+44         Montana State       1-0        BSky       FCS        0.500      -          -          42
+45         Clemson             0-0        ACC        FBS        0.498      -          -          46
+46         Florida             0-0        SEC        FBS        0.474      -          -          47
+47         Washington State    0-0        P12        FBS        0.472      -          -          48
+48         Northwestern        0-0        B10        FBS        0.469      -          -          49
+49         NC State            0-1        ACC        FBS        0.468      -          -          33
+50         Arizona State       0-0        B12        FBS        0.466      -          -          50
+51         Nebraska            0-0        B10        FBS        0.463      -          -          52
+52         South Carolina      0-0        SEC        FBS        0.462      -          -          53
+53         Cincinnati          0-0        B12        FBS        0.451      -          -          54
+54         Florida State       1-0        ACC        FBS        0.450      -          -          51
+55         Kentucky            0-0        SEC        FBS        0.440      -          -          55
+56         UTSA                0-0        Amer       FBS        0.432      -          -          56
+57         Navy                0-0        Amer       FBS        0.431      -          -          57
+58         Duke                0-0        ACC        FBS        0.428      -          -          58
+59         San Diego State     0-0        P12        FBS        0.414      -          -          59
+60         Mississippi State   0-0        SEC        FBS        0.409      -          -          60
+61         Boise State         0-0        P12        FBS        0.406      -          -          61
+62         Maryland            0-0        B10        FBS        0.397      -          -          62
+63         Kansas              0-0        B12        FBS        0.392      -          -          63
+64         Rutgers             0-0        B10        FBS        0.389      -          -          64
+65         Toledo              0-0        MAC        FBS        0.371      -          -          65
+66         Michigan State      0-0        B10        FBS        0.365      -          -          66
+67         Memphis             1-0        Amer       FBS        0.365      -          -          68
+68         Arkansas            0-0        SEC        FBS        0.359      -          -          67
+69         Army                0-0        Amer       FBS        0.357      -          -          69
+70         North Dakota        1-0        MVC        FCS        0.343      -          -          74
+71         Baylor              0-0        B12        FBS        0.334      -          -          70
+72         Western Michigan    0-0        MAC        FBS        0.320      -          -          71
+73         Minnesota           0-0        B10        FBS        0.315      -          -          72
+74         Montana             1-0        BSky       FCS        0.296      -          -          73
+75         Wisconsin           0-0        B10        FBS        0.295      -          -          75
+76         Colorado            0-0        B12        FBS        0.294      -          -          76
+77         New Mexico          0-0        MW         FBS        0.283      -          -          77
+78         Cal                 0-0        ACC        FBS        0.279      -          -          79
+79         UNLV                0-1        MW         FBS        0.274      -          -          78
+80         Ohio                0-0        MAC        FBS        0.268      -          -          81
+81         UConn               0-0        -          FBS        0.265      -          -          82
+82         Tarleton State      1-0        UAC        FCS        0.256      -          -          83
+83         Purdue              0-0        B10        FBS        0.254      -          -          84
+84         Lehigh              1-0        PL         FCS        0.230      -          -          95
+85         Hawai'i             0-1        MW         FBS        0.220      -          -          85
+86         UCF                 0-0        B12        FBS        0.216      -          -          86
+87         Texas State         0-0        P12        FBS        0.214      -          -          87
+88         Utah State          0-0        P12        FBS        0.213      -          -          88
+89         North Carolina      1-0        ACC        FBS        0.211      -          -          103
+90         Virginia Tech       0-0        ACC        FBS        0.209      -          -          89
+91         UCLA                0-0        B10        FBS        0.205      -          -          90
+92         Stanford            1-0        ACC        FBS        0.204      -          -          94
+93         Louisiana Tech      0-0        SB         FBS        0.202      -          -          91
+94         Illinois State      1-0        MVC        FCS        0.200      -          -          80
+95         Kennesaw State      0-0        CUSA       FBS        0.188      -          -          92
+96         Central Michigan    0-0        MAC        FBS        0.166      -          -          96
+97         Syracuse            0-0        ACC        FBS        0.164      -          -          97
+98         Fresno State        0-0        P12        FBS        0.163      -          -          98
+99         Boston College      0-0        ACC        FBS        0.158      -          -          99
+100        Miami OH            0-0        MAC        FBS        0.154      -          -          100
+101        Tulsa               0-0        Amer       FBS        0.138      -          -          101
+102        South Dakota        1-0        MVC        FCS        0.132      -          -          105
+103        SF Austin           1-0        SL         FCS        0.119      -          -          110
+104        FAU                 0-0        Amer       FBS        0.117      -          -          104
+105        West Virginia       0-0        B12        FBS        0.115      -          -          106
+106        Tennessee Tech      1-0        SoCon      FCS        0.112      -          -          114
+107        Marshall            0-0        SB         FBS        0.111      -          -          107
+108        Arkansas State      0-0        SB         FBS        0.096      -          -          108
+109        Georgia Southern    0-0        SB         FBS        0.094      -          -          109
+110        Southern Illinois   0-1        MVC        FCS        0.091      -          -          93
+111        Yale                0-0        Ivy        FCS        0.087      -          -          111
+112        Youngstown State    1-0        MVC        FCS        0.085      -          -          117
+113        Liberty             0-0        CUSA       FBS        0.076      -          -          113
+114        Temple              0-0        Amer       FBS        0.071      -          -          115
+115        Air Force           0-0        MW         FBS        0.064      -          -          118
+116        UC Davis            1-0        BSky       FCS        0.062      -          -          102
+117        South Dakota State  1-0        MVC        FCS        0.062      -          -          112
+118        Austin Peay         1-0        UAC        FCS        0.057      -          -          130
+119        Jax State           0-1        CUSA       FBS        0.056      -          -          119
+120        Harvard             0-0        Ivy        FCS        0.051      -          -          122
+121        Mercer              1-0        SoCon      FCS        0.051      -          -          120
+122        Southern Miss       0-0        SB         FBS        0.042      -          -          123
+123        Missouri State      0-0        CUSA       FBS        0.042      -          -          124
+124        FIU                 0-0        CUSA       FBS        0.038      -          -          125
+125        Idaho State         1-0        BSky       FCS        0.030      -          -          121
+126        Troy                0-0        SB         FBS        0.027      -          -          128
+127        Rhode Island        1-0        CAA        FCS        0.017      -          -          132
+128        Southern Utah       0-1        BSky       FCS        0.014      -          -          134
+129        Western Kentucky    0-0        CUSA       FBS        0.013      -          -          131
+130        Coastal Carolina    0-0        SB         FBS        -0.001     -          -          133
+131        Northern Arizona    1-0        BSky       FCS        -0.005     -          -          129
+132        Oklahoma State      0-0        B12        FBS        -0.006     -          -          135
+133        South Alabama       0-0        SB         FBS        -0.010     -          -          136
+134        Villanova           0-1        PL         FCS        -0.011     -          -          127
+135        Louisiana           0-0        SB         FBS        -0.017     -          -          138
+136        Abilene Christian   0-1        UAC        FCS        -0.018     -          -          116
+137        App State           0-0        SB         FBS        -0.043     -          -          139
+138        Wyoming             0-0        MW         FBS        -0.044     -          -          140
+139        Delaware            0-0        CUSA       FBS        -0.047     -          -          142
+140        Western Carolina    1-0        SoCon      FCS        -0.050     -          -          141
+141        Oregon State        0-0        P12        FBS        -0.053     -          -          143
+142        San Jose State      0-1        MW         FBS        -0.064     -          -          144
+143        Bowling Green       0-0        MAC        FBS        -0.065     -          -          146
+144        Buffalo             0-0        MAC        FBS        -0.070     -          -          147
+145        Rice                0-0        Amer       FBS        -0.071     -          -          148
+146        Northern Illinois   0-0        MW         FBS        -0.084     -          -          150
+147        Eastern Michigan    1-0        MAC        FBS        -0.091     -          -          166
+148        Dartmouth           0-0        Ivy        FCS        -0.091     -          -          153
+149        Sac State           0-1        MAC        FBS        -0.093     -          -          137
+150        Cal Poly            1-0        BSky       FCS        -0.102     -          -          154
+151        Akron               0-0        MAC        FBS        -0.105     -          -          155
+152        UAB                 0-0        Amer       FBS        -0.112     -          -          156
+153        New Mexico State    0-1        CUSA       FBS        -0.115     -          -          160
+154        Nevada              0-0        MW         FBS        -0.118     -          -          157
+155        SE Louisiana        0-1        SL         FCS        -0.118     -          -          126
+156        Colorado State      0-0        P12        FBS        -0.119     -          -          158
+157        Georgia State       0-0        SB         FBS        -0.124     -          -          159
+158        SC State            1-0        MEAC       FCS        -0.125     -          -          161
+159        Gardner-Webb        0-1        OVC        FCS        -0.129     -          -          152
+160        Kent State          0-0        MAC        FBS        -0.148     -          -          162
+161        ETSU                0-1        SoCon      FCS        -0.156     -          -          145
+162        Penn                0-0        Ivy        FCS        -0.158     -          -          165
+163        West Georgia        0-1        UAC        FCS        -0.166     -          -          149
+164        Maine               1-0        CAA        FCS        -0.169     -          -          169
+165        Lamar               1-0        SL         FCS        -0.171     -          -          179
+166        Louisiana-Monroe    0-0        SB         FBS        -0.176     -          -          167
+167        Wofford             1-0        SoCon      FCS        -0.177     -          -          177
+168        Lafayette           0-0        PL         FCS        -0.177     -          -          168
+169        New Hampshire       0-1        CAA        FCS        -0.188     -          -          151
+170        UTRGV               1-0        SL         FCS        -0.193     -          -          190
+171        Monmouth            0-1        CAA        FCS        -0.196     -          -          164
+172        Elon                1-0        CAA        FCS        -0.202     -          -          172
+173        Eastern Washington  0-1        BSky       FCS        -0.214     -          -          175
+174        NC Central          0-1        MEAC       FCS        -0.219     -          -          163
+175        UTEP                0-0        MW         FBS        -0.226     -          -          171
+176        William & Mary      1-0        PL         FCS        -0.228     -          -          180
+177        Idaho               0-1        BSky       FCS        -0.232     -          -          174
+178        Lindenwood          1-0        OVC        FCS        -0.235     -          -          178
+179        Middle Tennessee    0-0        CUSA       FBS        -0.236     -          -          173
+180        West Florida        1-0        UAC        FCS        -0.242     -          -          -
+181        Weber State         1-0        BSky       FCS        -0.259     -          -          186
+182        Alabama State       1-0        SWAC       FCS        -0.266     -          -          170
+183        Ball State          0-0        MAC        FBS        -0.270     -          -          182
+184        Stony Brook         0-1        CAA        FCS        -0.274     -          -          176
+185        Delaware State      1-0        MEAC       FCS        -0.287     -          -          192
+186        St. Thomas          1-0        PFL        FCS        -0.290     -          -          184
+187        Princeton           0-0        Ivy        FCS        -0.296     -          -          188
+188        Richmond            1-0        PL         FCS        -0.296     -          -          213
+189        Central Arkansas    1-0        UAC        FCS        -0.301     -          -          204
+190        Charlotte           0-0        Amer       FBS        -0.304     -          -          189
+191        Eastern Kentucky    0-1        UAC        FCS        -0.308     -          -          191
+192        Northern Colorado   0-1        BSky       FCS        -0.311     -          -          185
+193        Incarnate Word      1-0        SL         FCS        -0.314     -          -          181
+194        Colgate             1-0        PL         FCS        -0.316     -          -          197
+195        Furman              1-0        SoCon      FCS        -0.322     -          -          199
+196        Indiana State       0-1        MVC        FCS        -0.327     -          -          183
+197        Brown               0-0        Ivy        FCS        -0.327     -          -          195
+198        San Diego           0-0        PFL        FCS        -0.335     -          -          198
+199        Chattanooga         1-0        SoCon      FCS        -0.335     -          -          217
+200        Campbell            1-0        CAA        FCS        -0.338     -          -          219
+201        Prairie View        0-1        SWAC       FCS        -0.339     -          -          202
+202        Nicholls            1-0        SL         FCS        -0.342     -          -          210
+203        Drake               0-1        PFL        FCS        -0.346     -          -          187
+204        Sam Houston         0-0        CUSA       FBS        -0.347     -          -          203
+205        Towson              0-1        CAA        FCS        -0.350     -          -          196
+206        Jackson State       1-0        SWAC       FCS        -0.362     -          -          194
+207        North Alabama       1-0        UAC        FCS        -0.362     -          -          211
+208        UT Martin           0-1        OVC        FCS        -0.367     -          -          193
+209        Duquesne            0-0        NEC        FCS        -0.368     -          -          209
+210        Charleston Southern 0-1        OVC        FCS        -0.371     -          -          205
+211        SE Missouri State   1-0        OVC        FCS        -0.372     -          -          215
+212        Northern Iowa       0-0        MVC        FCS        -0.377     -          -          212
+213        CCSU                0-1        NEC        FCS        -0.380     -          -          206
+214        Dayton              1-0        PFL        FCS        -0.389     -          -          221
+215        Portland State      0-1        BSky       FCS        -0.390     -          -          222
+216        Holy Cross          0-1        PL         FCS        -0.392     -          -          201
+217        Western Illinois    1-0        OVC        FCS        -0.401     -          -          220
+218        The Citadel         0-1        SoCon      FCS        -0.404     -          -          200
+219        LIU                 0-1        NEC        FCS        -0.405     -          -          207
+220        Albany              1-0        CAA        FCS        -0.420     -          -          231
+221        Cornell             0-0        Ivy        FCS        -0.423     -          -          216
+222        Sacred Heart        0-0        CAA        FCS        -0.426     -          -          218
+223        Presbyterian        1-0        PFL        FCS        -0.432     -          -          208
+224        Eastern Illinois    1-0        OVC        FCS        -0.439     -          -          227
+225        McNeese             0-1        SL         FCS        -0.447     -          -          214
+226        Utah Tech           0-1        BSky       FCS        -0.464     -          -          224
+227        East Texas A&M      0-1        SL         FCS        -0.473     -          -          228
+228        Merrimack           0-1        -          FCS        -0.484     -          -          223
+229        Mercyhurst          0-1        NEC        FCS        -0.492     -          -          225
+230        Bryant              1-0        CAA        FCS        -0.495     -          -          233
+231        Columbia            0-0        Ivy        FCS        -0.498     -          -          229
+232        Butler              1-0        PFL        FCS        -0.509     -          -          226
+233        UMass               0-0        MAC        FBS        -0.525     -          -          232
+234        Robert Morris       1-0        NEC        FCS        -0.539     -          -          245
+235        Georgetown          0-0        PL         FCS        -0.540     -          -          234
+236        Texas Southern      1-0        SWAC       FCS        -0.541     -          -          241
+237        Murray State        0-1        MVC        FCS        -0.548     -          -          230
+238        Grambling           1-0        SWAC       FCS        -0.560     -          -          239
+239        Bethune-Cookman     0-0        SWAC       FCS        -0.577     -          -          236
+240        Alcorn State        1-0        SWAC       FCS        -0.593     -          -          243
+241        Morgan State        1-0        MEAC       FCS        -0.596     -          -          237
+242        Houston Christian   1-0        SL         FCS        -0.596     -          -          254
+243        New Haven           1-0        NEC        FCS        -0.612     -          -          242
+244        Howard              1-0        MEAC       FCS        -0.627     -          -          244
+245        Norfolk State       1-0        MEAC       FCS        -0.629     -          -          249
+246        Marist              0-1        PFL        FCS        -0.644     -          -          246
+247        Stonehill           0-1        NEC        FCS        -0.652     -          -          240
+248        Florida A&M         1-0        SWAC       FCS        -0.654     -          -          251
+249        Wagner              0-1        NEC        FCS        -0.662     -          -          235
+250        Samford             0-1        SoCon      FCS        -0.679     -          -          247
+251        Fordham             0-1        PL         FCS        -0.681     -          -          248
+252        Bucknell            0-1        PL         FCS        -0.686     -          -          238
+253        Tennessee State     0-1        OVC        FCS        -0.696     -          -          252
+254        VMI                 0-1        SoCon      FCS        -0.697     -          -          250
+255        Pine Bluff          1-0        SWAC       FCS        -0.738     -          -          255
+256        Morehead State      0-1        PFL        FCS        -0.752     -          -          256
+257        Alabama A&M         0-1        SWAC       FCS        -0.757     -          -          253
+258        Southern            0-1        SWAC       FCS        -0.785     -          -          260
+259        NC A&T              0-1        CAA        FCS        -0.797     -          -          257
+260        Hampton             1-0        CAA        FCS        -0.825     -          -          259
+261        Northwestern State  0-1        SL         FCS        -0.868     -          -          258
+262        Valparaiso          1-0        PFL        FCS        -0.942     -          -          263
+263        Mississippi Valley  0-1        SWAC       FCS        -0.979     -          -          262
+264        Davidson            0-1        PFL        FCS        -0.990     -          -          264
+265        Stetson             0-1        PFL        FCS        -1.045     -          -          265
+266        Chicago State       0-1        -          FCS        -1.699     -          -          -
