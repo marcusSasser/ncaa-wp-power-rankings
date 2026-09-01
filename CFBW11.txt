@@ -78,3 +78,56 @@ West Virginia State  Robert Morris        -10.94       74.5%
 Delaware State       William & Mary       -5.24        62.5%
 Wyoming              Colorado State       0.45         49.2%
 Lane                 Alabama State        -41.40       99.3%
+Charleston Southern  Georgia Southern     -22.44       91.0%
+FIU                  USF                  -25.89       93.9%
+Miles                Alabama A&M          -10.80       74.2%
+Central State        Grambling            -27.41       94.9%
+Edward Waters        Jackson State        -24.44       92.8%
+Eastern Kentucky     Jax State            -18.18       86.2%
+Nicholls             Kansas State         -40.62       99.2%
+Texas Wesleyan       McNeese              -31.32       96.9%
+Arkansas State       Memphis              -14.11       80.1%
+Murray State         Middle Tennessee     -15.95       83.0%
+Houston Christian    Rice                 -24.98       93.2%
+SE Louisiana         South Alabama        -7.31        67.1%
+Kentucky State       Southern             -1.17        53.1%
+Missouri State       Texas A&M            -35.11       98.2%
+Abilene Christian    Texas Tech           -42.95       99.5%
+Sam Houston          Troy                 -18.62       86.7%
+Austin Peay          Vanderbilt           -27.16       94.8%
+Illinois State       Western Illinois     22.73        9.0%
+Idaho State          Utah State           -10.50       73.6%
+Northern Iowa        Eastern Washington   -9.64        71.9%
+West Florida         Central Arkansas     -0.24        50.9%
+Chicago State        UT Martin            -59.20       100.0%
+Western Michigan     Michigan             -18.96       87.2%
+VMI                  Virginia Tech        -41.16       99.3%
+Clemson              LSU                  -3.94        59.6%
+Northwestern State   Louisiana Tech       -48.13       99.8%
+Louisiana-Monroe     Mississippi State    -27.54       95.0%
+FAU                  Florida              -17.86       85.8%
+Hampton              Maryland             -54.54       99.9%
+Lamar                Louisiana            -9.28        71.2%
+South Dakota State   Northwestern         -20.02       88.4%
+East Texas A&M       SF Austin            -27.84       95.2%
+Utah Tech            BYU                  -52.35       99.9%
+South Dakota         Northern Colorado    16.02        17.3%
+Weber State          Southern Utah        -14.28       80.4%
+Central Washington   Cal Poly             -11.09       74.8%
+Butler               Montana State        -45.52       99.7%
+Mercyhurst           New Mexico State     -18.73       86.9%
+Northern Arizona     Arizona              -27.39       94.9%
+Portland State       San Diego State      -36.79       98.6%
+Central Michigan     New Mexico           -7.69        67.9%
+Morgan State         Arizona State        -47.76       99.8%
+Mississippi Valley   Sac State            -40.30       99.2%
+UC Davis             San Diego            14.07        20.4%
+UNLV                 Hawai'i              -0.45        51.4%
+UCLA                 Cal                  -5.89        64.0%
+Western Kentucky     Nevada               2.81         43.7%
+Texas Southern       Prairie View         -11.30       75.2%
+SC State             Florida A&M          22.53        9.2%
+Washington State     Washington           -12.58       77.5%
+Wisconsin            Notre Dame           -29.25       96.0%
+Louisville           Mississippi          -9.65        72.0%
+SMU                  Florida State        5.97         36.5%
