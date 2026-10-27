@@ -1,267 +1,267 @@
 Ranking    Team                Record     Conf       SubDiv     Rating     MoV        SoS        Last Year
-1          Notre Dame          6-1        -          FBS        0.999      3          25         3
-2          Ohio State          6-1        B10        FBS        0.961      7          19         4
-3          Alabama             5-2        SEC        FBS        0.937      45         2          13
-4          Georgia             6-1        SEC        FBS        0.933      6          39         7
-5          LSU                 5-2        SEC        FBS        0.892      15         14         38
-6          Miami FL            6-0        ACC        FBS        0.885      1          81         6
-7          Texas               4-2        SEC        FBS        0.883      53         1          21
-8          Utah                6-0        B12        FBS        0.851      5          67         9
-9          Kentucky            6-1        SEC        FBS        0.831      64         3          55
-10         Indiana             6-1        B10        FBS        0.815      11         38         1
-11         Mississippi         5-1        SEC        FBS        0.811      39         13         8
-12         Houston             6-1        B12        FBS        0.810      17         27         43
-13         Tennessee           6-1        SEC        FBS        0.806      23         22         14
-14         Texas Tech          6-0        B12        FBS        0.804      19         36         5
-15         Florida             5-2        SEC        FBS        0.785      50         6          47
-16         BYU                 6-0        B12        FBS        0.768      12         49         16
-17         Oregon State        5-2        P12        FBS        0.734      8          87         143
-18         Nebraska            5-2        B10        FBS        0.720      30         35         52
-19         Oregon              4-2        B10        FBS        0.715      77         10         2
-20         Iowa                5-1        B10        FBS        0.692      29         46         15
-21         USC                 6-1        B10        FBS        0.689      25         50         12
-22         Boise State         5-1        P12        FBS        0.689      20         47         61
-23         Northwestern        5-1        B10        FBS        0.680      34         29         49
-24         Wake Forest         6-1        ACC        FBS        0.668      37         41         44
-25         UCLA                6-0        B10        FBS        0.624      40         32         90
-26         Auburn              4-2        SEC        FBS        0.616      105        5          34
-27         James Madison       7-0        SB         FBS        0.609      4          132        40
-28         Missouri            5-2        SEC        FBS        0.607      61         26         37
-29         Florida State       3-4        ACC        FBS        0.598      81         17         51
-30         Oklahoma            3-3        SEC        FBS        0.584      139        4          11
-31         Arizona             5-1        B12        FBS        0.574      31         78         32
-32         Texas A&M           4-3        SEC        FBS        0.571      69         30         10
-33         Baylor              4-2        B12        FBS        0.570      41         55         70
-34         Pitt                5-2        ACC        FBS        0.557      32         79         20
-35         Mississippi State   4-2        SEC        FBS        0.545      122        8          60
-36         Louisville          4-3        ACC        FBS        0.544      101        16         28
-37         South Carolina      3-3        SEC        FBS        0.539      96         18         53
-38         SMU                 5-1        ACC        FBS        0.539      57         65         19
-39         North Carolina      4-2        ACC        FBS        0.525      103        11         103
-40         TCU                 3-3        B12        FBS        0.516      87         40         23
-41         Virginia Tech       5-2        ACC        FBS        0.513      16         116        89
-42         Wisconsin           4-2        B10        FBS        0.502      78         34         75
-43         Penn State          3-4        B10        FBS        0.500      82         42         22
-44         Iowa State          3-3        B12        FBS        0.498      123        20         25
-45         Michigan            4-2        B10        FBS        0.492      111        33         18
-46         North Dakota State  6-1        MW         FBS        0.476      9          140        45
-47         Purdue              3-4        B10        FBS        0.475      127        15         84
-48         Virginia            4-3        ACC        FBS        0.459      60         75         26
-49         South Alabama       4-2        SB         FBS        0.453      38         84         136
-50         UCF                 3-3        B12        FBS        0.447      86         44         86
-51         Colorado            2-4        B12        FBS        0.447      156        9          76
-52         Duke                4-2        ACC        FBS        0.439      54         91         58
-53         Illinois            3-3        B10        FBS        0.431      118        45         27
-54         West Virginia       4-3        B12        FBS        0.430      88         57         106
-55         Oklahoma State      4-2        B12        FBS        0.426      93         37         135
-56         Louisiana           5-2        SB         FBS        0.423      48         99         138
-57         North Texas         4-2        Amer       FBS        0.420      74         83         29
-58         Texas State         3-3        P12        FBS        0.417      72         70         87
-59         Clemson             4-2        ACC        FBS        0.409      148        24         46
-60         NC State            3-3        ACC        FBS        0.404      116        53         33
-61         Kansas State        4-2        B12        FBS        0.399      83         80         35
-62         Cincinnati          4-2        B12        FBS        0.390      104        60         54
-63         Army                4-2        Amer       FBS        0.382      56         103        69
-64         New Mexico          5-1        MW         FBS        0.375      13         147        77
-65         Memphis             5-2        Amer       FBS        0.368      50         111        68
-66         Western Michigan    5-2        MAC        FBS        0.366      65         97         71
-67         Kansas              2-4        B12        FBS        0.351      117        64         63
-68         Arkansas            3-4        SEC        FBS        0.333      188        12         67
-69         Michigan State      2-5        B10        FBS        0.331      197        7          66
-70         UTSA                6-1        Amer       FBS        0.329      91         88         56
-71         Georgia Tech        2-4        ACC        FBS        0.316      177        28         41
-72         Georgia Southern    3-4        SB         FBS        0.314      113        76         109
-73         Ohio                5-2        MAC        FBS        0.310      59         118        81
-74         Liberty             5-1        CUSA       FBS        0.309      33         136        113
-75         Minnesota           4-2        B10        FBS        0.305      99         89         72
-76         Louisiana Tech      4-2        SB         FBS        0.300      98         86         91
-77         Arizona State       3-3        B12        FBS        0.285      159        54         50
-78         SF Austin           7-0        SL         FCS        0.283      2          231        110
-79         Tulane              3-3        Amer       FBS        0.272      175        51         30
-80         UConn               3-3        -          FBS        0.271      55         134        82
-81         Syracuse            2-4        ACC        FBS        0.266      131        72         97
-82         Youngstown State    6-2        MVC        FCS        0.259      47         141        117
-83         Washington          4-3        B10        FBS        0.257      150        61         17
-84         South Dakota        6-2        MVC        FCS        0.253      28         155        105
-85         Georgia State       4-2        SB         FBS        0.251      49         124        159
-86         Jax State           5-2        CUSA       FBS        0.244      100        100        119
-87         Boston College      3-3        ACC        FBS        0.240      143        68         99
-88         Toledo              5-2        MAC        FBS        0.234      68         126        65
-89         UNLV                4-3        MW         FBS        0.229      132        85         78
-90         USF                 5-2        Amer       FBS        0.227      80         122        31
-91         Vanderbilt          3-4        SEC        FBS        0.223      200        21         24
-92         South Dakota State  5-2        MVC        FCS        0.210      36         157        112
-93         North Dakota        6-2        MVC        FCS        0.208      35         158        74
-94         Tulsa               4-3        Amer       FBS        0.204      109        107        101
-95         Montana State       6-1        BSky       FCS        0.197      14         196        42
-96         FAU                 4-2        Amer       FBS        0.194      92         120        104
-97         Air Force           5-1        MW         FBS        0.193      73         129        118
-98         Miami OH            4-3        MAC        FBS        0.192      107        112        100
-99         Maryland            2-5        B10        FBS        0.186      189        43         62
-100        FIU                 3-3        CUSA       FBS        0.184      75         128        125
-101        Cal                 3-4        ACC        FBS        0.177      182        56         79
-102        Fresno State        4-3        P12        FBS        0.159      138        98         98
-103        East Carolina       3-3        Amer       FBS        0.145      142        119        39
-104        Lehigh              6-1        PL         FCS        0.132      10         225        95
-105        Arkansas State      3-4        SB         FBS        0.131      158        90         108
-106        Harvard             5-0        Ivy        FCS        0.129      26         187        122
-107        App State           4-2        SB         FBS        0.128      66         146        139
-108        San Diego State     3-4        P12        FBS        0.113      220        31         59
-109        Nevada              2-4        MW         FBS        0.104      130        110        157
-110        Colgate             4-3        PL         FCS        0.094      44         181        197
-111        Troy                3-3        SB         FBS        0.089      120        125        128
-112        Rutgers             2-4        B10        FBS        0.085      208        69         64
-113        UMass               4-3        MAC        FBS        0.081      58         162        232
-114        Western Kentucky    3-4        CUSA       FBS        0.079      173        94         131
-115        Temple              2-5        Amer       FBS        0.066      180        92         115
-116        Tennessee Tech      6-1        SoCon      FCS        0.066      43         195        114
-117        Navy                2-4        Amer       FBS        0.065      164        123        57
-118        Kennesaw State      1-5        CUSA       FBS        0.047      190        93         92
-119        Stanford            3-4        ACC        FBS        0.044      248        23         94
-120        Rice                1-6        Amer       FBS        0.023      221        59         148
-121        Utah State          2-4        P12        FBS        0.022      230        58         88
-122        Coastal Carolina    2-5        SB         FBS        0.014      167        114        133
-123        Illinois State      5-2        MVC        FCS        0.012      24         230        80
-124        Lamar               5-2        SL         FCS        0.010      63         178        179
-125        Tarleton State      7-0        UAC        FCS        0.008      21         235        83
-126        Eastern Michigan    4-4        MAC        FBS        0.004      144        131        166
-127        Kent State          2-5        MAC        FBS        0.002      232        48         162
-128        Buffalo             4-3        MAC        FBS        0.001      178        109        147
-129        San Jose State      4-3        MW         FBS        -0.001     146        130        144
-130        Montana             5-3        BSky       FCS        -0.003     70         173        73
-131        Northern Arizona    6-2        BSky       FCS        -0.021     115        153        129
-132        Missouri State      2-4        CUSA       FBS        -0.026     193        105        124
-133        Washington State    1-6        P12        FBS        -0.027     225        73         48
-134        UAB                 4-3        Amer       FBS        -0.028     183        113        156
-135        Mercer              6-2        SoCon      FCS        -0.029     42         223        120
-136        Central Michigan    3-4        MAC        FBS        -0.033     229        71         96
-137        Abilene Christian   4-4        UAC        FCS        -0.039     165        127        116
-138        Northern Iowa       3-3        MVC        FCS        -0.041     163        121        212
-139        Colorado State      2-4        P12        FBS        -0.044     241        52         158
-140        ETSU                5-2        SoCon      FCS        -0.047     84         174        145
-141        Princeton           4-1        Ivy        FCS        -0.048     18         233        188
-142        Middle Tennessee    3-3        CUSA       FBS        -0.062     162        133        173
-143        New Mexico State    2-4        CUSA       FBS        -0.064     194        108        160
-144        Chattanooga         4-3        SoCon      FCS        -0.072     76         198        217
-145        Campbell            6-1        CAA        FCS        -0.075     71         203        219
-146        Cornell             3-2        Ivy        FCS        -0.077     97         148        216
-147        Bowling Green       2-5        MAC        FBS        -0.085     216        95         146
-148        Hawai'i             1-6        MW         FBS        -0.094     203        106        85
-149        Ball State          2-5        MAC        FBS        -0.094     245        66         182
-150        Marshall            3-3        SB         FBS        -0.094     223        104        107
-151        Delaware            2-4        CUSA       FBS        -0.108     202        115        142
-152        SE Louisiana        4-3        SL         FCS        -0.111     110        172        126
-153        Austin Peay         6-2        UAC        FCS        -0.114     62         222        130
-154        Sam Houston         1-5        CUSA       FBS        -0.115     214        96         203
-155        Wyoming             4-3        MW         FBS        -0.118     169        143        140
-156        Wofford             5-3        SoCon      FCS        -0.129     90         202        177
-157        Old Dominion        2-5        SB         FBS        -0.136     240        82         36
-158        Monmouth            5-2        CAA        FCS        -0.138     108        189        164
-159        Idaho               2-5        BSky       FCS        -0.158     211        117        174
-160        Albany              4-3        CAA        FCS        -0.169     95         211        231
-161        SE Missouri State   4-3        OVC        FCS        -0.180     141        168        215
-162        Alabama A&M         6-2        SWAC       FCS        -0.191     22         253        253
-163        Akron               1-6        MAC        FBS        -0.192     235        101        155
-164        Idaho State         4-3        BSky       FCS        -0.198     94         219        121
-165        West Florida        4-2        UAC        FCS        -0.209     124        194        -
-166        Charlotte           1-6        Amer       FBS        -0.216     259        63         189
-167        Southern Miss       1-5        SB         FBS        -0.218     253        102        123
-168        Weber State         5-3        BSky       FCS        -0.219     134        192        186
-169        Western Carolina    3-4        SoCon      FCS        -0.219     179        156        141
-170        SC State            5-2        MEAC       FCS        -0.220     27         254        161
-171        Incarnate Word      3-4        SL         FCS        -0.222     152        171        181
-172        Dartmouth           2-3        Ivy        FCS        -0.226     172        175        153
-173        Southern Illinois   3-5        MVC        FCS        -0.238     198        144        93
-174        Yale                3-2        Ivy        FCS        -0.241     181        206        111
-175        CCSU                3-3        NEC        FCS        -0.242     125        205        206
-176        Brown               2-3        Ivy        FCS        -0.245     140        185        195
-177        Portland State      2-5        BSky       FCS        -0.245     209        139        222
-178        Rhode Island        4-3        CAA        FCS        -0.245     119        214        132
-179        Richmond            5-2        PL         FCS        -0.252     102        228        213
-180        North Alabama       4-3        UAC        FCS        -0.254     149        191        211
-181        UTRGV               3-4        SL         FCS        -0.257     147        193        190
-182        Jackson State       6-1        SWAC       FCS        -0.260     46         250        194
-183        Indiana State       2-5        MVC        FCS        -0.263     218        138        183
-184        Northern Illinois   0-6        MW         FBS        -0.270     264        62         150
-185        Louisiana-Monroe    0-6        SB         FBS        -0.272     261        74         167
-186        Villanova           3-4        PL         FCS        -0.275     135        213        127
-187        UC Davis            4-3        BSky       FCS        -0.276     145        200        102
-188        Eastern Washington  2-6        BSky       FCS        -0.277     217        142        175
-189        Houston Christian   4-3        SL         FCS        -0.287     106        232        254
-190        Furman              2-5        SoCon      FCS        -0.289     212        145        199
-191        Cal Poly            4-4        BSky       FCS        -0.299     153        204        154
-192        UTEP                1-6        MW         FBS        -0.314     263        77         171
-193        Gardner-Webb        2-6        OVC        FCS        -0.318     174        186        152
-194        Central Arkansas    2-5        UAC        FCS        -0.321     213        151        204
-195        Penn                2-3        Ivy        FCS        -0.322     161        227        165
-196        Western Illinois    3-4        OVC        FCS        -0.327     155        210        220
-197        Southern Utah       3-4        BSky       FCS        -0.330     166        199        134
-198        Stony Brook         4-3        CAA        FCS        -0.333     137        224        176
-199        Bryant              5-2        CAA        FCS        -0.341     151        218        233
-200        Northern Colorado   3-5        BSky       FCS        -0.366     186        188        185
-201        The Citadel         2-5        SoCon      FCS        -0.368     231        149        200
-202        Eastern Kentucky    2-5        UAC        FCS        -0.370     205        161        191
-203        McNeese             3-4        SL         FCS        -0.382     192        183        214
-204        Holy Cross          2-5        PL         FCS        -0.383     228        154        201
-205        Tennessee State     2-5        OVC        FCS        -0.389     206        164        252
-206        East Texas A&M      2-5        SL         FCS        -0.409     210        166        228
-207        Stonehill           2-5        NEC        FCS        -0.411     176        217        240
-208        Charleston Southern 3-4        OVC        FCS        -0.414     170        221        205
-209        Grambling           4-3        SWAC       FCS        -0.421     121        241        239
-210        UT Martin           3-4        OVC        FCS        -0.421     215        167        193
-211        West Georgia        1-6        UAC        FCS        -0.421     204        179        149
-212        Fordham             2-6        PL         FCS        -0.421     238        152        248
-213        St. Thomas          5-2        PFL        FCS        -0.429     85         251        184
-214        Elon                4-4        CAA        FCS        -0.430     112        245        172
-215        Columbia            4-1        Ivy        FCS        -0.444     171        226        229
-216        Lindenwood          2-4        OVC        FCS        -0.453     222        190        178
-217        Marist              4-3        PFL        FCS        -0.460     67         258        246
-218        Dayton              5-1        PFL        FCS        -0.462     52         265        221
-219        Prairie View        3-5        SWAC       FCS        -0.478     195        215        202
-220        Florida A&M         2-5        SWAC       FCS        -0.478     224        182        251
-221        Sac State           1-6        MAC        FBS        -0.480     258        137        137
-222        Eastern Illinois    2-5        OVC        FCS        -0.484     243        160        227
-223        Georgetown          2-4        PL         FCS        -0.487     227        176        234
-224        Murray State        1-6        MVC        FCS        -0.491     255        150        230
-225        Morgan State        5-2        MEAC       FCS        -0.492     133        246        237
-226        Lafayette           2-4        PL         FCS        -0.492     207        220        168
-227        Merrimack           2-5        -          FCS        -0.492     201        209        223
-228        Delaware State      4-3        MEAC       FCS        -0.500     157        239        192
-229        Robert Morris       3-4        NEC        FCS        -0.507     129        248        245
-230        NC Central          2-5        MEAC       FCS        -0.510     160        240        163
-231        LIU                 3-5        NEC        FCS        -0.511     237        165        207
-232        Southern            3-4        SWAC       FCS        -0.519     184        234        260
-233        Butler              5-2        PFL        FCS        -0.519     79         259        226
-234        NC A&T              3-5        CAA        FCS        -0.520     191        229        257
-235        Mercyhurst          1-6        NEC        FCS        -0.522     247        163        225
-236        Duquesne            2-4        NEC        FCS        -0.525     187        236        209
-237        Howard              3-4        MEAC       FCS        -0.532     226        201        244
-238        Pine Bluff          3-3        SWAC       FCS        -0.538     128        249        255
-239        Samford             1-6        SoCon      FCS        -0.538     244        170        247
-240        Sacred Heart        3-4        CAA        FCS        -0.542     185        237        218
-241        New Hampshire       2-6        CAA        FCS        -0.559     239        184        151
-242        Alabama State       4-3        SWAC       FCS        -0.559     114        257        170
-243        Norfolk State       4-3        MEAC       FCS        -0.560     89         263        249
-244        Drake               2-5        PFL        FCS        -0.563     168        242        187
-245        Nicholls            2-5        SL         FCS        -0.578     256        159        210
-246        William & Mary      3-4        PL         FCS        -0.587     251        177        180
-247        Towson              0-8        CAA        FCS        -0.589     254        169        196
-248        Maine               1-6        CAA        FCS        -0.604     234        208        169
-249        Bethune-Cookman     4-3        SWAC       FCS        -0.611     154        252        236
-250        Alcorn State        4-4        SWAC       FCS        -0.654     126        261        243
-251        New Haven           2-5        NEC        FCS        -0.656     250        207        242
-252        San Diego           3-4        PFL        FCS        -0.668     196        243        198
-253        Valparaiso          3-4        PFL        FCS        -0.683     136        262        263
-254        Utah Tech           0-7        BSky       FCS        -0.687     266        135        224
-255        Wagner              1-6        NEC        FCS        -0.743     262        180        235
-256        Bucknell            1-6        PL         FCS        -0.744     257        212        238
-257        Texas Southern      1-5        SWAC       FCS        -0.779     246        238        241
-258        Presbyterian        4-3        PFL        FCS        -0.787     199        255        208
-259        VMI                 0-7        SoCon      FCS        -0.822     260        216        250
-260        Northwestern State  0-7        SL         FCS        -0.841     265        197        258
-261        Hampton             1-6        CAA        FCS        -0.862     249        244        259
-262        Stetson             1-6        PFL        FCS        -0.917     252        247        265
-263        Chicago State       1-6        -          FCS        -0.969     242        256        -
-264        Morehead State      1-6        PFL        FCS        -0.977     219        264        256
-265        Mississippi Valley  3-5        SWAC       FCS        -1.009     233        260        262
-266        Davidson            3-5        PFL        FCS        -1.086     236        266        264
+1          Notre Dame          6-1        -          FBS        1.068      3          21         3
+2          Miami FL            7-0        ACC        FBS        0.982      1          64         6
+3          Ohio State          6-1        B10        FBS        0.966      5          28         4
+4          LSU                 6-2        SEC        FBS        0.951      9          16         38
+5          Texas               5-2        SEC        FBS        0.945      49         1          21
+6          Georgia             6-1        SEC        FBS        0.923      4          49         7
+7          Alabama             6-2        SEC        FBS        0.907      40         2          13
+8          Utah                7-0        B12        FBS        0.846      8          53         9
+9          Mississippi         5-2        SEC        FBS        0.819      48         6          8
+10         Houston             6-2        B12        FBS        0.819      26         24         43
+11         Kentucky            7-1        SEC        FBS        0.805      61         5          55
+12         Florida             5-2        SEC        FBS        0.800      43         9          47
+13         Indiana             7-1        B10        FBS        0.785      14         41         1
+14         BYU                 6-1        B12        FBS        0.783      22         34         16
+15         Oregon State        5-2        P12        FBS        0.745      6          82         143
+16         Tennessee           6-2        SEC        FBS        0.742      30         30         14
+17         Northwestern        6-1        B10        FBS        0.732      19         50         49
+18         UCLA                7-0        B10        FBS        0.728      31         35         90
+19         Nebraska            5-2        B10        FBS        0.711      27         45         52
+20         Wake Forest         6-1        ACC        FBS        0.708      33         37         44
+21         Arizona             6-1        B12        FBS        0.695      12         75         32
+22         Texas Tech          6-1        B12        FBS        0.691      35         38         5
+23         Boise State         6-1        P12        FBS        0.679      15         72         61
+24         Wisconsin           5-2        B10        FBS        0.641      71         20         75
+25         Oklahoma            4-3        SEC        FBS        0.634      114        7          11
+26         Oregon              4-3        B10        FBS        0.631      89         10         2
+27         Missouri            5-2        SEC        FBS        0.626      59         31         37
+28         USC                 6-2        B10        FBS        0.616      37         52         12
+29         Florida State       3-4        ACC        FBS        0.613      81         22         51
+30         Texas A&M           4-4        SEC        FBS        0.591      84         25         10
+31         Iowa                5-2        B10        FBS        0.590      39         61         15
+32         Baylor              4-3        B12        FBS        0.581      42         57         70
+33         James Madison       7-1        SB         FBS        0.574      7          126        40
+34         South Carolina      4-3        SEC        FBS        0.569      98         18         53
+35         North Carolina      4-3        ACC        FBS        0.563      111        14         103
+36         Auburn              4-3        SEC        FBS        0.560      154        4          34
+37         Louisville          4-3        ACC        FBS        0.555      99         23         28
+38         UCF                 4-3        B12        FBS        0.545      91         29         86
+39         Oklahoma State      5-2        B12        FBS        0.537      83         36         135
+40         Pitt                5-3        ACC        FBS        0.535      69         47         20
+41         Penn State          3-4        B10        FBS        0.526      82         39         22
+42         SMU                 6-1        ACC        FBS        0.525      51         66         19
+43         Purdue              3-4        B10        FBS        0.525      130        12         84
+44         Virginia Tech       6-2        ACC        FBS        0.519      21         104        89
+45         Mississippi State   4-3        SEC        FBS        0.517      158        8          60
+46         TCU                 3-4        B12        FBS        0.508      95         33         23
+47         Michigan            4-3        B10        FBS        0.497      118        26         18
+48         Cincinnati          5-2        B12        FBS        0.493      88         42         54
+49         New Mexico          6-1        MW         FBS        0.480      11         127        77
+50         West Virginia       5-3        B12        FBS        0.464      90         48         106
+51         Illinois            4-3        B10        FBS        0.457      117        32         27
+52         Virginia            4-4        ACC        FBS        0.451      76         69         26
+53         Duke                5-2        ACC        FBS        0.447      55         83         58
+54         North Dakota State  6-2        MW         FBS        0.441      17         130        45
+55         Clemson             4-3        ACC        FBS        0.440      157        15         46
+56         Texas State         4-3        P12        FBS        0.428      77         76         87
+57         Liberty             6-1        CUSA       FBS        0.417      18         136        113
+58         Colorado            2-5        B12        FBS        0.412      169        11         76
+59         South Alabama       4-3        SB         FBS        0.401      44         97         136
+60         North Texas         5-2        Amer       FBS        0.394      56         93         29
+61         Kansas              3-4        B12        FBS        0.383      121        51         63
+62         UTSA                7-1        Amer       FBS        0.381      72         85         56
+63         Michigan State      2-6        B10        FBS        0.371      209        3          66
+64         Minnesota           5-2        B10        FBS        0.365      101        74         72
+65         Iowa State          3-4        B12        FBS        0.365      170        19         25
+66         Louisiana Tech      5-2        SB         FBS        0.352      63         95         91
+67         Army                5-2        Amer       FBS        0.348      57         107        69
+68         Western Michigan    5-3        MAC        FBS        0.346      79         90         71
+69         Louisiana           5-3        SB         FBS        0.329      54         116        138
+70         Syracuse            3-4        ACC        FBS        0.328      133        59         97
+71         Kansas State        4-3        B12        FBS        0.327      102        81         35
+72         Arkansas            3-4        SEC        FBS        0.327      190        13         67
+73         Georgia Southern    3-4        SB         FBS        0.327      108        78         109
+74         UConn               4-3        -          FBS        0.310      38         131        82
+75         SF Austin           8-0        SL         FCS        0.304      2          222        110
+76         Memphis             6-2        Amer       FBS        0.303      58         119        68
+77         NC State            3-4        ACC        FBS        0.301      145        58         33
+78         Arizona State       4-3        B12        FBS        0.292      148        60         50
+79         South Dakota        7-2        MVC        FCS        0.291      29         150        105
+80         Boston College      4-3        ACC        FBS        0.290      128        77         99
+81         Toledo              6-2        MAC        FBS        0.282      70         115        65
+82         Ohio                6-2        MAC        FBS        0.275      64         120        81
+83         Youngstown State    6-2        MVC        FCS        0.268      36         147        117
+84         Washington          4-3        B10        FBS        0.258      151        65         17
+85         Vanderbilt          3-5        SEC        FBS        0.250      202        17         24
+86         Jax State           5-2        CUSA       FBS        0.241      99         99         119
+87         Georgia Tech        2-5        ACC        FBS        0.225      188        40         41
+88         UNLV                4-3        MW         FBS        0.221      132        86         78
+89         Georgia State       4-3        SB         FBS        0.221      65         132        159
+90         South Dakota State  6-2        MVC        FCS        0.220      25         161        112
+91         USF                 5-2        Amer       FBS        0.219      78         124        31
+92         Cal                 3-5        ACC        FBS        0.216      183        43         79
+93         North Dakota        6-3        MVC        FCS        0.210      41         151        74
+94         Montana State       7-1        BSky       FCS        0.208      16         172        42
+95         Miami OH            5-3        MAC        FBS        0.193      105        109        100
+96         App State           5-2        SB         FBS        0.193      73         137        139
+97         Tulsa               4-4        Amer       FBS        0.193      119        103        101
+98         Maryland            2-5        B10        FBS        0.187      191        44         62
+99         Harvard             6-0        Ivy        FCS        0.186      13         178        122
+100        Nevada              3-4        MW         FBS        0.182      106        114        157
+101        FAU                 5-2        Amer       FBS        0.168      94         123        104
+102        Stanford            4-4        ACC        FBS        0.157      221        27         94
+103        FIU                 3-4        CUSA       FBS        0.156      93         129        125
+104        Fresno State        4-3        P12        FBS        0.141      142        98         98
+105        Tulane              3-4        Amer       FBS        0.126      197        63         30
+106        Arkansas State      4-4        SB         FBS        0.118      153        96         108
+107        East Carolina       3-4        Amer       FBS        0.108      144        106        39
+108        Tennessee Tech      7-1        SoCon      FCS        0.087      32         188        114
+109        Air Force           5-2        MW         FBS        0.073      103        145        118
+110        Western Kentucky    3-4        CUSA       FBS        0.072      171        92         131
+111        San Diego State     3-5        P12        FBS        0.070      224        46         59
+112        Middle Tennessee    4-3        CUSA       FBS        0.065      146        118        173
+113        Colorado State      3-4        P12        FBS        0.060      217        55         158
+114        Temple              2-5        Amer       FBS        0.056      178        91         115
+115        Coastal Carolina    2-5        SB         FBS        0.050      167        101        133
+116        Eastern Michigan    4-5        MAC        FBS        0.047      150        121        166
+117        Tarleton State      8-0        UAC        FCS        0.041      10         235        83
+118        Utah State          2-5        P12        FBS        0.038      225        54         88
+119        Montana             5-3        BSky       FCS        0.034      68         162        73
+120        UMass               4-4        MAC        FBS        0.034      86         154        232
+121        Colgate             4-4        PL         FCS        0.031      53         177        197
+122        Northern Arizona    6-2        BSky       FCS        0.031      112        149        129
+123        Troy                3-4        SB         FBS        0.030      127        140        128
+124        Rice                1-7        Amer       FBS        0.028      215        68         148
+125        Lehigh              6-2        PL         FCS        0.023      23         227        95
+126        Buffalo             5-3        MAC        FBS        0.015      163        113        147
+127        Lamar               6-2        SL         FCS        0.013      50         186        179
+128        Illinois State      6-2        MVC        FCS        0.003      28         224        80
+129        Central Michigan    3-5        MAC        FBS        0.003      223        67         96
+130        Washington State    1-7        P12        FBS        0.000      234        62         48
+131        Rutgers             2-5        B10        FBS        -0.004     238        56         64
+132        Hawai'i             2-6        MW         FBS        -0.005     174        112        85
+133        Kent State          3-5        MAC        FBS        -0.016     227        71         162
+134        New Mexico State    3-4        CUSA       FBS        -0.020     181        108        160
+135        Chattanooga         5-3        SoCon      FCS        -0.024     66         184        217
+136        San Jose State      4-4        MW         FBS        -0.025     162        125        144
+137        Marshall            4-3        SB         FBS        -0.028     205        88         107
+138        Wyoming             5-3        MW         FBS        -0.034     147        144        140
+139        ETSU                6-2        SoCon      FCS        -0.037     60         193        145
+140        Delaware            3-4        CUSA       FBS        -0.044     186        110        142
+141        Northern Iowa       3-4        MVC        FCS        -0.048     160        133        212
+142        Mercer              6-2        SoCon      FCS        -0.052     34         226        120
+143        Campbell            7-1        CAA        FCS        -0.058     46         212        219
+144        Navy                2-5        Amer       FBS        -0.058     185        117        57
+145        Abilene Christian   4-4        UAC        FCS        -0.058     161        138        116
+146        UAB                 4-3        Amer       FBS        -0.068     182        122        156
+147        Kennesaw State      1-6        CUSA       FBS        -0.074     218        89         92
+148        Princeton           4-2        Ivy        FCS        -0.081     45         206        188
+149        Ball State          3-5        MAC        FBS        -0.084     227        84         182
+150        Cornell             3-3        Ivy        FCS        -0.100     104        158        216
+151        Missouri State      2-5        CUSA       FBS        -0.101     201        111        124
+152        Austin Peay         7-2        UAC        FCS        -0.107     62         218        130
+153        Bowling Green       2-6        MAC        FBS        -0.109     212        102        146
+154        Idaho State         5-3        BSky       FCS        -0.115     75         203        121
+155        Wofford             5-3        SoCon      FCS        -0.116     85         194        177
+156        Albany              5-3        CAA        FCS        -0.118     74         207        231
+157        Sam Houston         1-6        CUSA       FBS        -0.136     219        105        203
+158        SE Louisiana        4-4        SL         FCS        -0.138     141        159        126
+159        Akron               1-7        MAC        FBS        -0.160     236        94         155
+160        SE Missouri State   5-3        OVC        FCS        -0.168     124        180        215
+161        Incarnate Word      4-4        SL         FCS        -0.169     126        179        181
+162        Idaho               3-5        BSky       FCS        -0.171     203        128        174
+163        Monmouth            6-2        CAA        FCS        -0.171     87         211        164
+164        UC Davis            5-3        BSky       FCS        -0.176     107        197        102
+165        SC State            6-2        MEAC       FCS        -0.178     24         253        161
+166        Weber State         5-4        BSky       FCS        -0.184     139        168        186
+167        Old Dominion        2-6        SB         FBS        -0.192     253        80         36
+168        Southern Illinois   4-5        MVC        FCS        -0.196     194        148        93
+169        Alabama A&M         6-2        SWAC       FCS        -0.198     20         254        253
+170        CCSU                4-3        NEC        FCS        -0.205     97         215        206
+171        Southern Miss       2-5        SB         FBS        -0.217     245        100        123
+172        Western Carolina    3-5        SoCon      FCS        -0.224     187        152        141
+173        Villanova           4-4        PL         FCS        -0.231     125        200        127
+174        Indiana State       2-6        MVC        FCS        -0.232     216        134        183
+175        Richmond            6-2        PL         FCS        -0.233     92         225        213
+176        Charlotte           1-6        Amer       FBS        -0.238     261        73         189
+177        West Florida        4-3        UAC        FCS        -0.240     140        190        -
+178        Brown               3-3        Ivy        FCS        -0.244     143        183        195
+179        North Alabama       4-4        UAC        FCS        -0.244     159        170        211
+180        Southern Utah       3-5        BSky       FCS        -0.256     166        165        134
+181        Western Illinois    4-4        OVC        FCS        -0.269     131        205        220
+182        Louisiana-Monroe    1-6        SB         FBS        -0.273     257        87         167
+183        Dartmouth           3-3        Ivy        FCS        -0.275     138        214        153
+184        Eastern Washington  2-6        BSky       FCS        -0.276     220        141        175
+185        Portland State      2-6        BSky       FCS        -0.281     226        139        222
+186        UTEP                1-6        MW         FBS        -0.285     263        70         171
+187        Gardner-Webb        2-6        OVC        FCS        -0.289     175        166        152
+188        UTRGV               4-4        SL         FCS        -0.290     152        198        190
+189        Stony Brook         5-3        CAA        FCS        -0.301     115        229        176
+190        Jackson State       6-2        SWAC       FCS        -0.312     52         252        194
+191        Charleston Southern 4-4        OVC        FCS        -0.313     135        219        205
+192        Houston Christian   4-4        SL         FCS        -0.321     134        221        254
+193        Eastern Kentucky    3-5        UAC        FCS        -0.322     198        160        191
+194        Rhode Island        4-4        CAA        FCS        -0.325     155        202        132
+195        Central Arkansas    2-6        UAC        FCS        -0.334     207        155        204
+196        Furman              2-6        SoCon      FCS        -0.349     214        153        199
+197        The Citadel         2-6        SoCon      FCS        -0.349     240        142        200
+198        St. Thomas          6-2        PFL        FCS        -0.357     67         250        184
+199        Yale                3-3        Ivy        FCS        -0.357     176        217        111
+200        Cal Poly            4-5        BSky       FCS        -0.373     165        201        154
+201        Holy Cross          3-5        PL         FCS        -0.391     196        182        201
+202        Northern Illinois   0-7        MW         FBS        -0.394     266        79         150
+203        Penn                3-3        Ivy        FCS        -0.400     156        233        165
+204        Grambling           4-3        SWAC       FCS        -0.402     123        239        239
+205        Northern Colorado   3-6        BSky       FCS        -0.413     208        167        185
+206        Bryant              5-3        CAA        FCS        -0.414     164        220        233
+207        Prairie View        4-5        SWAC       FCS        -0.418     177        209        202
+208        McNeese             3-5        SL         FCS        -0.429     210        175        214
+209        Elon                4-4        CAA        FCS        -0.432     109        245        172
+210        Lindenwood          3-4        OVC        FCS        -0.443     179        216        178
+211        Pine Bluff          4-3        SWAC       FCS        -0.448     113        246        255
+212        Dayton              6-1        PFL        FCS        -0.449     47         264        221
+213        Murray State        1-7        MVC        FCS        -0.452     256        135        230
+214        West Georgia        1-7        UAC        FCS        -0.454     230        163        149
+215        Stonehill           3-5        NEC        FCS        -0.457     168        228        240
+216        NC Central          3-5        MEAC       FCS        -0.460     137        242        163
+217        Robert Morris       4-4        NEC        FCS        -0.461     116        248        245
+218        Fordham             2-7        PL         FCS        -0.481     243        157        248
+219        Eastern Illinois    2-6        OVC        FCS        -0.482     247        156        227
+220        East Texas A&M      2-6        SL         FCS        -0.486     222        181        228
+221        Butler              6-2        PFL        FCS        -0.488     79         260        226
+222        UT Martin           3-5        OVC        FCS        -0.495     231        176        193
+223        Samford             2-6        SoCon      FCS        -0.495     235        169        247
+224        Tennessee State     2-6        OVC        FCS        -0.496     233        171        252
+225        Sac State           1-7        MAC        FBS        -0.497     258        143        137
+226        Morgan State        5-3        MEAC       FCS        -0.509     136        247        237
+227        LIU                 3-6        NEC        FCS        -0.516     237        174        207
+228        Merrimack           3-5        -          FCS        -0.521     199        223        223
+229        Florida A&M         2-6        SWAC       FCS        -0.528     229        189        251
+230        Lafayette           3-4        PL         FCS        -0.535     192        230        168
+231        Marist              4-4        PFL        FCS        -0.539     96         259        246
+232        Mercyhurst          1-7        NEC        FCS        -0.542     246        164        225
+233        Howard              4-4        MEAC       FCS        -0.542     211        210        244
+234        Columbia            4-2        Ivy        FCS        -0.543     193        232        229
+235        Bethune-Cookman     5-3        SWAC       FCS        -0.544     149        249        236
+236        NC A&T              3-5        CAA        FCS        -0.548     195        231        257
+237        Georgetown          3-4        PL         FCS        -0.549     213        208        234
+238        Delaware State      4-4        MEAC       FCS        -0.551     172        240        192
+239        Alabama State       4-3        SWAC       FCS        -0.554     110        258        170
+240        Southern            3-5        SWAC       FCS        -0.558     189        234        260
+241        Sacred Heart        3-4        CAA        FCS        -0.565     184        236        218
+242        New Hampshire       2-7        CAA        FCS        -0.566     239        187        151
+243        Norfolk State       4-4        MEAC       FCS        -0.576     120        257        249
+244        Drake               2-6        PFL        FCS        -0.588     173        244        187
+245        Utah Tech           1-7        BSky       FCS        -0.591     265        146        224
+246        Duquesne            3-4        NEC        FCS        -0.592     180        243        209
+247        William & Mary      3-5        PL         FCS        -0.607     244        195        180
+248        Alcorn State        4-4        SWAC       FCS        -0.625     129        261        243
+249        Nicholls            3-5        SL         FCS        -0.626     250        185        210
+250        Maine               1-7        CAA        FCS        -0.627     248        192        169
+251        Towson              0-8        CAA        FCS        -0.628     255        173        196
+252        San Diego           3-5        PFL        FCS        -0.630     200        238        198
+253        Valparaiso          4-4        PFL        FCS        -0.636     122        263        263
+254        New Haven           2-6        NEC        FCS        -0.690     252        199        242
+255        Texas Southern      2-5        SWAC       FCS        -0.733     232        237        241
+256        Wagner              1-7        NEC        FCS        -0.740     259        191        235
+257        Bucknell            1-7        PL         FCS        -0.811     260        213        238
+258        VMI                 0-8        SoCon      FCS        -0.816     264        196        250
+259        Presbyterian        4-4        PFL        FCS        -0.822     206        255        208
+260        Northwestern State  0-8        SL         FCS        -0.834     262        204        258
+261        Hampton             1-7        CAA        FCS        -0.863     251        241        259
+262        Stetson             1-7        PFL        FCS        -0.931     248        251        265
+263        Morehead State      2-6        PFL        FCS        -0.939     204        265        256
+264        Mississippi Valley  3-5        SWAC       FCS        -1.003     241        262        262
+265        Chicago State       1-7        -          FCS        -1.026     254        256        -
+266        Davidson            3-5        PFL        FCS        -1.087     242        266        264
