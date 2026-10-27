@@ -1,116 +1,116 @@
-Road Team            Home Team            Predicted    Close        Game Dif     W/L          ABS Error    Win%         499-470
-Delaware             Western Kentucky     -7.68        0.0          0            WIN          7.68         67.9%
-Sam Houston          Missouri State       -4.23        0.0          0            WIN          4.23         60.2%
-Kennesaw State       Middle Tennessee     -8.62        0.0          0            WIN          8.62         69.8%
-Jax State            New Mexico State     8.36         0.0          0            LOSS         8.36         31.3%
-SC State             Morgan State         11.28        0.0          0            LOSS         11.28        25.4%
-Troy                 James Madison        -25.80       0.0          0            WIN          25.80        93.8%
-FAU                  North Texas          -12.33       0.0          0            WIN          12.33        77.1%
-Tulane               Charlotte            12.72        0.0          0            LOSS         12.72        22.7%
-Harvard              Dartmouth            16.82        0.0          0            LOSS         16.82        16.1%
-Baylor               UCF                  -1.21        0.0          0            WIN          1.21         53.2%
-Kent State           Sac State            17.66        0.0          0            LOSS         17.66        14.9%
-Campbell             Albany               -0.21        0.0          0            WIN          0.21         50.8%
-Penn                 Brown                -9.36        0.0          0            WIN          9.36         71.4%
-Robert Morris        CCSU                 -13.59       0.0          0            WIN          13.59        79.3%
-Yale                 Columbia             5.14         0.0          0            LOSS         5.14         38.3%
-Boston College       Duke                 -9.38        0.0          0            WIN          9.38         71.4%
-Bucknell             Lehigh               -38.10       0.0          0            WIN          38.10        98.8%
-Illinois             Maryland             8.72         0.0          0            LOSS         8.72         30.5%
-Wagner               Merrimack            -12.04       0.0          0            WIN          12.04        76.5%
-Duquesne             New Haven            1.41         0.0          0            LOSS         1.41         47.0%
-Cal                  NC State             -6.33        0.0          0            WIN          6.33         65.0%
-Notre Dame           Navy                 47.87        0.0          0            LOSS         47.87        0.2%
-Cornell              Princeton            -3.55        0.0          0            WIN          3.55         58.7%
-Maine                Rhode Island         -15.55       0.0          0            WIN          15.55        82.4%
-UAB                  USF                  -14.92       0.0          0            WIN          14.92        81.4%
-Mercyhurst           Stonehill            -6.33        0.0          0            WIN          6.33         65.0%
-Sacred Heart         Stony Brook          -13.93       0.0          0            WIN          13.93        79.8%
-SMU                  Syracuse             5.63         0.0          0            LOSS         5.63         37.2%
-Bowling Green        Western Michigan     -22.01       0.0          0            WIN          22.01        90.6%
-North Dakota         Youngstown State     -5.23        0.0          0            WIN          5.23         62.5%
-Wisconsin            Iowa                 -0.57        0.0          0            WIN          0.57         51.7%
-Arizona              Texas Tech           -2.56        0.0          0            WIN          2.56         56.4%
-Villanova            Lafayette            10.17        0.0          0            LOSS         10.17        27.5%
-Michigan             Rutgers              18.52        0.0          0            LOSS         18.52        13.7%
-Auburn               Mississippi          -13.72       0.0          0            WIN          13.72        79.5%
-VMI                  Chattanooga          -36.32       0.0          0            WIN          36.32        98.5%
-William & Mary       Colgate              -29.78       0.0          0            WIN          29.78        96.2%
-Richmond             Holy Cross           3.97         0.0          0            LOSS         3.97         41.0%
-Drake                Morehead State       12.16        0.0          0            LOSS         12.16        23.7%
-Marshall             Old Dominion         4.18         0.0          0            LOSS         4.18         40.5%
-Butler               Presbyterian         11.41        0.0          0            LOSS         11.41        25.2%
-Dayton               Stetson              17.71        0.0          0            LOSS         17.71        14.8%
-Bryant               Monmouth             -13.05       0.0          0            WIN          13.05        78.3%
-Elon                 NC A&T               2.17         0.0          0            LOSS         2.17         45.2%
-Hampton              Towson               -12.74       0.0          0            WIN          12.74        77.8%
-Western Carolina     Furman               2.53         0.0          0            LOSS         2.53         44.3%
-Coastal Carolina     Georgia State        -9.99        0.0          0            WIN          9.99         72.6%
-Howard               NC Central           -6.23        0.0          0            WIN          6.23         64.7%
-Murray State         Illinois State       -22.03       0.0          0            WIN          22.03        90.6%
-Tennessee State      Lindenwood           -4.98        0.0          0            WIN          4.98         61.9%
-Gardner-Webb         SE Missouri State    -7.90        0.0          0            WIN          7.90         68.3%
-Davidson             St. Thomas           -33.71       0.0          0            WIN          33.71        97.8%
-Northwestern State   Incarnate Word       -30.92       0.0          0            WIN          30.92        96.7%
-Indiana State        Northern Iowa        -10.54       0.0          0            WIN          10.54        73.7%
-Western Illinois     Charleston Southern  -0.84        0.0          0            WIN          0.84         52.3%
-Kansas State         Colorado             -6.32        0.0          0            WIN          6.32         64.9%
-Temple               East Carolina        -4.92        0.0          0            WIN          4.92         61.8%
-Southern             Florida A&M          -4.01        0.0          0            WIN          4.01         59.7%
-The Citadel          Mercer               -15.34       0.0          0            WIN          15.34        82.1%
-Delaware State       Norfolk State        1.18         0.0          0            LOSS         1.18         47.5%
-Bethune-Cookman      Pine Bluff           -6.81        0.0          0            WIN          6.81         66.0%
-Nicholls             McNeese              -11.10       0.0          0            WIN          11.10        74.8%
-Alcorn State         Mississippi Valley   13.28        0.0          0            LOSS         13.28        21.7%
-Louisiana Tech       South Alabama        -4.82        0.0          0            WIN          4.82         61.6%
-Houston Christian    SF Austin            -29.25       0.0          0            WIN          29.25        96.0%
-UConn                Air Force            7.31         0.0          0            LOSS         7.31         33.5%
-Cal Poly             Montana State        -27.36       0.0          0            WIN          27.36        94.9%
-Northern Arizona     Southern Utah        9.42         0.0          0            LOSS         9.42         29.1%
-Idaho State          Utah Tech            17.44        0.0          0            LOSS         17.44        15.2%
-UC Davis             Weber State          -2.43        0.0          0            WIN          2.43         56.1%
-Eastern Illinois     UT Martin            -2.22        0.0          0            WIN          2.22         55.6%
-Fort Lauderdale      Chicago State        -37.45       0.0          0            WIN          37.45        98.7%
-Stanford             Louisville           -19.60       0.0          0            WIN          19.60        88.0%
-Tennessee Tech       ETSU                 2.53         0.0          0            LOSS         2.53         44.3%
-Florida              Georgia              -5.09        0.0          0            WIN          5.09         62.2%
-Minnesota            Indiana              -20.54       0.0          0            WIN          20.54        89.0%
-FIU                  Liberty              -13.82       0.0          0            WIN          13.82        79.7%
-Alabama State        Alabama A&M          -14.94       0.0          0            WIN          14.94        81.5%
-Southern Miss        Louisiana-Monroe     -0.37        0.0          0            WIN          0.37         51.2%
-UTEP                 North Dakota State   -33.53       0.0          0            WIN          33.53        97.7%
-Kansas               TCU                  -8.02        0.0          0            WIN          8.02         68.6%
-Arizona State        BYU                  -23.57       0.0          0            WIN          23.57        92.0%
-Colorado State       Utah State           -1.81        0.0          0            WIN          1.81         54.6%
-Northwestern         Oregon               1.55         0.0          0            LOSS         1.55         46.7%
-Utah                 Cincinnati           12.24        0.0          0            LOSS         12.24        23.6%
-Virginia             Wake Forest          -13.63       0.0          0            WIN          13.63        79.3%
-South Dakota         South Dakota State   0.25         0.0          0            LOSS         0.25         49.7%
-Montana              Eastern Washington   10.42        0.0          0            LOSS         10.42        27.1%
-Idaho                Portland State       1.96         0.0          0            LOSS         1.96         45.7%
-Marist               San Diego            1.13         0.0          0            LOSS         1.13         47.7%
-New Mexico           San Jose State       18.64        0.0          0            LOSS         18.64        13.6%
-West Georgia         Abilene Christian    -19.51       0.0          0            WIN          19.51        87.8%
-SE Louisiana         East Texas A&M       12.01        0.0          0            LOSS         12.01        24.0%
-Purdue               Penn State           -2.80        0.0          0            WIN          2.80         56.9%
-South Carolina       Oklahoma             -5.47        0.0          0            WIN          5.47         63.0%
-Nevada               UCLA                 -25.89       0.0          0            WIN          25.89        93.9%
-North Alabama        Central Arkansas     1.07         0.0          0            LOSS         1.07         47.8%
-App State            Georgia Southern     -8.42        0.0          0            WIN          8.42         69.4%
-Clemson              Florida State        -10.04       0.0          0            WIN          10.04        72.7%
-Oklahoma State       Iowa State           4.58         0.0          0            LOSS         4.58         39.6%
-Wofford              Samford              13.31        0.0          0            LOSS         13.31        21.7%
-Eastern Kentucky     Tarleton State       -18.13       0.0          0            WIN          18.13        86.1%
-Washington State     San Diego State      -5.72        0.0          0            WIN          5.72         63.6%
-Miami FL             North Carolina       15.01        0.0          0            LOSS         15.01        18.8%
-Georgia Tech         Pitt                 -15.90       0.0          0            WIN          15.90        83.0%
-Mississippi State    Texas                -20.89       0.0          0            WIN          20.89        89.4%
-Ohio State           USC                  12.10        0.0          0            LOSS         12.10        23.9%
-Missouri             Arkansas             9.92         0.0          0            LOSS         9.92         28.0%
-Army                 Memphis              -0.85        0.0          0            WIN          0.85         52.3%
-Washington           Nebraska             -21.96       0.0          0            WIN          21.96        90.5%
-Lamar                UTRGV                10.11        0.0          0            LOSS         10.11        27.7%
-Grambling            Texas Southern       11.32        0.0          0            LOSS         11.32        25.3%
-Texas State          Boise State          -13.38       0.0          0            WIN          13.38        78.9%
-Northern Illinois    UNLV                 -28.81       0.0          0            WIN          28.81        95.7%
-Oregon State         Fresno State         22.88        0.0          0            LOSS         22.88        8.8%
+Road Team            Home Team            Predicted    Win%         499-470
+Delaware             Western Kentucky     -7.68        67.9%
+Sam Houston          Missouri State       -4.23        60.2%
+Kennesaw State       Middle Tennessee     -8.62        69.8%
+Jax State            New Mexico State     8.36         31.3%
+SC State             Morgan State         11.28        25.4%
+Troy                 James Madison        -25.80       93.8%
+FAU                  North Texas          -12.33       77.1%
+Tulane               Charlotte            12.72        22.7%
+Harvard              Dartmouth            16.82        16.1%
+Baylor               UCF                  -1.21        53.2%
+Kent State           Sac State            17.66        14.9%
+Campbell             Albany               -0.21        50.8%
+Penn                 Brown                -9.36        71.4%
+Robert Morris        CCSU                 -13.59       79.3%
+Yale                 Columbia             5.14         38.3%
+Boston College       Duke                 -9.38        71.4%
+Bucknell             Lehigh               -38.10       98.8%
+Illinois             Maryland             8.72         30.5%
+Wagner               Merrimack            -12.04       76.5%
+Duquesne             New Haven            1.41         47.0%
+Cal                  NC State             -6.33        65.0%
+Notre Dame           Navy                 47.87        0.2%
+Cornell              Princeton            -3.55        58.7%
+Maine                Rhode Island         -15.55       82.4%
+UAB                  USF                  -14.92       81.4%
+Mercyhurst           Stonehill            -6.33        65.0%
+Sacred Heart         Stony Brook          -13.93       79.8%
+SMU                  Syracuse             5.63         37.2%
+Bowling Green        Western Michigan     -22.01       90.6%
+North Dakota         Youngstown State     -5.23        62.5%
+Wisconsin            Iowa                 -0.57        51.7%
+Arizona              Texas Tech           -2.56        56.4%
+Villanova            Lafayette            10.17        27.5%
+Michigan             Rutgers              18.52        13.7%
+Auburn               Mississippi          -13.72       79.5%
+VMI                  Chattanooga          -36.32       98.5%
+William & Mary       Colgate              -29.78       96.2%
+Richmond             Holy Cross           3.97         41.0%
+Drake                Morehead State       12.16        23.7%
+Marshall             Old Dominion         4.18         40.5%
+Butler               Presbyterian         11.41        25.2%
+Dayton               Stetson              17.71        14.8%
+Bryant               Monmouth             -13.05       78.3%
+Elon                 NC A&T               2.17         45.2%
+Hampton              Towson               -12.74       77.8%
+Western Carolina     Furman               2.53         44.3%
+Coastal Carolina     Georgia State        -9.99        72.6%
+Howard               NC Central           -6.23        64.7%
+Murray State         Illinois State       -22.03       90.6%
+Tennessee State      Lindenwood           -4.98        61.9%
+Gardner-Webb         SE Missouri State    -7.90        68.3%
+Davidson             St. Thomas           -33.71       97.8%
+Northwestern State   Incarnate Word       -30.92       96.7%
+Indiana State        Northern Iowa        -10.54       73.7%
+Western Illinois     Charleston Southern  -0.84        52.3%
+Kansas State         Colorado             -6.32        64.9%
+Temple               East Carolina        -4.92        61.8%
+Southern             Florida A&M          -4.01        59.7%
+The Citadel          Mercer               -15.34       82.1%
+Delaware State       Norfolk State        1.18         47.5%
+Bethune-Cookman      Pine Bluff           -6.81        66.0%
+Nicholls             McNeese              -11.10       74.8%
+Alcorn State         Mississippi Valley   13.28        21.7%
+Louisiana Tech       South Alabama        -4.82        61.6%
+Houston Christian    SF Austin            -29.25       96.0%
+UConn                Air Force            7.31         33.5%
+Cal Poly             Montana State        -27.36       94.9%
+Northern Arizona     Southern Utah        9.42         29.1%
+Idaho State          Utah Tech            17.44        15.2%
+UC Davis             Weber State          -2.43        56.1%
+Eastern Illinois     UT Martin            -2.22        55.6%
+Fort Lauderdale      Chicago State        -37.45       98.7%
+Stanford             Louisville           -19.60       88.0%
+Tennessee Tech       ETSU                 2.53         44.3%
+Florida              Georgia              -5.09        62.2%
+Minnesota            Indiana              -20.54       89.0%
+FIU                  Liberty              -13.82       79.7%
+Alabama State        Alabama A&M          -14.94       81.5%
+Southern Miss        Louisiana-Monroe     -0.37        51.2%
+UTEP                 North Dakota State   -33.53       97.7%
+Kansas               TCU                  -8.02        68.6%
+Arizona State        BYU                  -23.57       92.0%
+Colorado State       Utah State           -1.81        54.6%
+Northwestern         Oregon               1.55         46.7%
+Utah                 Cincinnati           12.24        23.6%
+Virginia             Wake Forest          -13.63       79.3%
+South Dakota         South Dakota State   0.25         49.7%
+Montana              Eastern Washington   10.42        27.1%
+Idaho                Portland State       1.96         45.7%
+Marist               San Diego            1.13         47.7%
+New Mexico           San Jose State       18.64        13.6%
+West Georgia         Abilene Christian    -19.51       87.8%
+SE Louisiana         East Texas A&M       12.01        24.0%
+Purdue               Penn State           -2.80        56.9%
+South Carolina       Oklahoma             -5.47        63.0%
+Nevada               UCLA                 -25.89       93.9%
+North Alabama        Central Arkansas     1.07         47.8%
+App State            Georgia Southern     -8.42        69.4%
+Clemson              Florida State        -10.04       72.7%
+Oklahoma State       Iowa State           4.58         39.6%
+Wofford              Samford              13.31        21.7%
+Eastern Kentucky     Tarleton State       -18.13       86.1%
+Washington State     San Diego State      -5.72        63.6%
+Miami FL             North Carolina       15.01        18.8%
+Georgia Tech         Pitt                 -15.90       83.0%
+Mississippi State    Texas                -20.89       89.4%
+Ohio State           USC                  12.10        23.9%
+Missouri             Arkansas             9.92         28.0%
+Army                 Memphis              -0.85        52.3%
+Washington           Nebraska             -21.96       90.5%
+Lamar                UTRGV                10.11        27.7%
+Grambling            Texas Southern       11.32        25.3%
+Texas State          Boise State          -13.38       78.9%
+Northern Illinois    UNLV                 -28.81       95.7%
+Oregon State         Fresno State         22.88        8.8%
