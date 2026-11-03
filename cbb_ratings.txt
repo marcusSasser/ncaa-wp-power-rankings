@@ -27,9 +27,9 @@ Ranking    Team                Record     Conf       Rating     MoV        SoS  
 26         North Carolina      0-0        ACC        0.523      -          -          26
 27         Utah State          0-0        P12        0.513      -          -          27
 28         Santa Clara         0-0        WCC        0.508      -          -          28
-29         Villanova           0-0        BE         0.498      -          -          29
-30         Clemson             0-0        ACC        0.497      -          -          30
-31         Saint Mary's        0-0        WCC        0.481      -          -          31
+29         Clemson             0-0        ACC        0.497      -          -          30
+30         Saint Mary's        0-0        WCC        0.481      -          -          31
+31         Villanova           0-1        BE         0.479      -          -          29
 32         Indiana             0-0        B10        0.455      -          -          32
 33         Miami FL            0-0        ACC        0.455      -          -          33
 34         Auburn              0-0        SEC        0.453      -          -          34
@@ -90,10 +90,10 @@ Ranking    Team                Record     Conf       Rating     MoV        SoS  
 89         Wyoming             0-0        MW         0.218      -          -          89
 90         Marquette           0-0        BE         0.218      -          -          90
 91         Yale                0-0        Ivy        0.204      -          -          91
-92         George Washington   0-0        A10        0.193      -          -          92
-93         South Carolina      0-0        SEC        0.186      -          -          93
-94         Illinois State      0-0        MVC        0.185      -          -          94
-95         Notre Dame          0-0        ACC        0.183      -          -          95
+92         Notre Dame          1-0        ACC        0.201      -          -          95
+93         George Washington   0-0        A10        0.193      -          -          92
+94         South Carolina      0-0        SEC        0.186      -          -          93
+95         Illinois State      0-0        MVC        0.185      -          -          94
 96         Hofstra             0-0        CAA        0.178      -          -          96
 97         Davidson            0-0        A10        0.176      -          -          97
 98         Cal Baptist         0-0        BW         0.173      -          -          98
