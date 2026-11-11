@@ -54,7 +54,7 @@ UAB                  Temple               0.05         50.2%
 Bucknell             William & Mary       -11.21       75.0%
 NC A&T               Hampton              14.07        20.4%
 Stony Brook          New Hampshire        7.58         32.9%
-Virginia Lynchburg   Chicago State        #N/A         #N/A
+Virginia Lynchburg   Chicago State        -30.58       96.6%
 ETSU                 Wofford              2.29         44.9%
 NC Central           SC State             -11.55       75.6%
 Central Arkansas     Eastern Kentucky     -3.99        59.7%
