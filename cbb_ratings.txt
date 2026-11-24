@@ -1,366 +1,366 @@
 Ranking    Team                Record     Conf       Rating     MoV        SoS        Last Year
-1          Michigan            3-1        B10        0.814      -          -          1
-2          Arizona             3-1        B12        0.790      -          -          2
-3          Florida             4-0        SEC        0.777      -          -          4
-4          Houston             3-0        B12        0.777      -          -          5
-5          UConn               4-0        BE         0.757      -          -          7
-6          Michigan State      4-0        B10        0.750      -          -          12
-7          Duke                3-1        ACC        0.741      -          -          3
-8          St. John's          4-0        BE         0.712      -          -          9
-9          Alabama             4-0        SEC        0.702      -          -          10
-10         Illinois            3-1        B10        0.697      -          -          6
-11         Vanderbilt          4-0        SEC        0.677      -          -          11
-12         Kansas              3-0        B12        0.662      -          -          17
-13         Purdue              2-2        B10        0.657      -          -          8
-14         Virginia            5-0        ACC        0.636      -          -          14
-15         Gonzaga             2-1        P12        0.626      -          -          15
-16         Texas Tech          4-0        B12        0.618      -          -          18
-17         Nebraska            4-0        B10        0.610      -          -          22
-18         Iowa State          3-1        B12        0.602      -          -          13
-19         UCLA                3-0        B10        0.588      -          -          24
-20         Tennessee           3-0        SEC        0.577      -          -          16
-21         Arkansas            3-1        SEC        0.559      -          -          19
-22         Louisville          2-1        ACC        0.552      -          -          20
-23         Utah State          4-0        P12        0.546      -          -          27
-24         Wisconsin           4-0        B10        0.519      -          -          21
-25         Iowa                2-2        B10        0.512      -          -          23
-26         North Carolina      3-1        ACC        0.510      -          -          26
-27         BYU                 4-0        B12        0.504      -          -          39
-28         Ohio State          2-2        B10        0.493      -          -          25
-29         Saint Mary's        3-1        WCC        0.493      -          -          31
-30         Texas A&M           4-0        SEC        0.485      -          -          38
-31         Santa Clara         5-0        WCC        0.484      -          -          28
-32         NC State            4-0        ACC        0.466      -          -          35
-33         Auburn              2-1        SEC        0.464      -          -          34
-34         Cincinnati          3-1        B12        0.462      -          -          36
-35         Miami FL            3-1        ACC        0.459      -          -          33
-36         Villanova           3-1        BE         0.457      -          -          29
-37         Indiana             4-0        B10        0.444      -          -          32
-38         Saint Louis         3-1        A10        0.443      -          -          37
-39         Texas               4-0        SEC        0.435      -          -          43
-40         Clemson             3-1        ACC        0.428      -          -          30
-41         San Diego State     4-0        P12        0.426      -          -          44
-42         Missouri            3-1        SEC        0.416      -          -          42
-43         Georgia             4-0        SEC        0.415      -          -          40
-44         New Mexico          3-1        MW         0.412      -          -          47
-45         Florida State       3-1        ACC        0.397      -          -          54
-46         Arizona State       4-0        B12        0.388      -          -          59
-47         VCU                 2-1        A10        0.386      -          -          45
-48         Baylor              3-1        B12        0.380      -          -          60
-49         SMU                 4-0        ACC        0.380      -          -          49
-50         USC                 4-0        B10        0.378      -          -          64
-51         Virginia Tech       4-0        ACC        0.375      -          -          55
-52         LSU                 4-0        SEC        0.372      -          -          75
-53         Minnesota           4-0        B10        0.368      -          -          70
-54         Kentucky            3-1        SEC        0.356      -          -          41
-55         Grand Canyon        4-0        MW         0.355      -          -          53
-56         Mississippi         3-0        SEC        0.354      -          -          67
-57         Xavier              4-0        BE         0.341      -          -          88
-58         Akron               3-0        MAC        0.331      -          -          52
-59         High Point          5-0        BSth       0.328      -          -          76
-60         TCU                 4-0        B12        0.321      -          -          50
-61         Seton Hall          3-1        BE         0.319      -          -          58
-62         Syracuse            2-2        ACC        0.318      -          -          77
-63         USF                 2-2        Amer       0.315      -          -          46
-64         Boise State         3-1        P12        0.314      -          -          51
-65         West Virginia       3-0        B12        0.313      -          -          66
-66         Georgetown          4-0        BE         0.313      -          -          71
-67         Tulsa               3-0        Amer       0.303      -          -          57
-68         Oklahoma            3-1        SEC        0.302      -          -          48
-69         UCF                 4-0        B12        0.302      -          -          56
-70         Stanford            3-1        ACC        0.301      -          -          61
-71         Marquette           2-2        BE         0.298      -          -          90
-72         Oklahoma State      2-1        B12        0.298      -          -          82
-73         Washington          2-0        B10        0.286      -          -          63
-74         Wake Forest         3-1        ACC        0.286      -          -          73
-75         Providence          3-1        BE         0.274      -          -          81
-76         Northwestern        3-1        B10        0.269      -          -          65
-77         Butler              2-2        BE         0.266      -          -          62
-78         Notre Dame          4-0        ACC        0.256      -          -          95
-79         Creighton           3-1        BE         0.256      -          -          84
-80         Wyoming             3-1        MW         0.254      -          -          89
-81         Miami OH            3-0        MAC        0.254      -          -          72
-82         George Washington   4-0        A10        0.250      -          -          92
-83         Wright State        4-0        Horz       0.238      -          -          118
-84         DePaul              4-0        BE         0.237      -          -          104
-85         Wichita State       3-1        Amer       0.237      -          -          86
-86         Nevada              2-2        MW         0.233      -          -          74
-87         Cal                 3-2        ACC        0.228      -          -          69
-88         Memphis             3-1        Amer       0.226      -          -          114
-89         South Carolina      4-0        SEC        0.220      -          -          93
-90         Oregon              3-0        B10        0.212      -          -          101
-91         McNeese             2-1        Slnd       0.206      -          -          80
-92         Davidson            3-1        A10        0.202      -          -          97
-93         Kansas State        2-1        B12        0.200      -          -          105
-94         Utah Valley         3-0        BW         0.199      -          -          103
-95         Illinois State      1-3        MVC        0.193      -          -          94
-96         Colorado State      3-1        P12        0.191      -          -          87
-97         Mississippi State   3-1        SEC        0.188      -          -          102
-98         Dayton              1-3        A10        0.187      -          -          78
-99         Belmont             3-1        MVC        0.181      -          -          68
-100        Colorado            2-2        B12        0.174      -          -          85
-101        Pitt                4-0        ACC        0.171      -          -          111
-102        Saint Joseph's      4-0        A10        0.171      -          -          100
-103        George Mason        3-1        A10        0.158      -          -          113
-104        Yale                2-3        Ivy        0.156      -          -          91
-105        SF Austin           3-1        Slnd       0.141      -          -          83
-106        Maryland            1-2        B10        0.137      -          -          115
-107        Murray State        4-0        MVC        0.137      -          -          126
-108        UNLV                3-0        MW         0.136      -          -          119
-109        UC Santa Barbara    4-0        BW         0.135      -          -          139
-110        Northern Iowa       2-3        MVC        0.127      -          -          79
-111        Sam Houston         2-2        CUSA       0.126      -          -          112
-112        North Texas         3-1        Amer       0.112      -          -          130
-113        Pacific             3-1        WCC        0.111      -          -          116
-114        Liberty             2-1        CUSA       0.110      -          -          99
-115        UC Irvine           3-0        BW         0.109      -          -          117
-116        Boston College      4-0        ACC        0.105      -          -          141
-117        Rutgers             3-0        B10        0.102      -          -          137
-118        St. Bonaventure     3-1        A10        0.097      -          -          147
-119        UNC Wilmington      4-0        CAA        0.096      -          -          120
-120        Utah                3-0        B12        0.096      -          -          129
-121        Hofstra             2-2        CAA        0.094      -          -          96
-122        Oregon State        4-0        P12        0.093      -          -          170
-123        Penn State          4-1        B10        0.089      -          -          150
-124        Montana State       2-2        BSky       0.085      -          -          140
-125        FAU                 3-1        Amer       0.084      -          -          107
-126        Toledo              2-3        MAC        0.076      -          -          122
-127        UIC                 3-1        MVC        0.071      -          -          124
-128        Southern Illinois   2-1        MVC        0.069      -          -          127
-129        UAB                 2-2        Amer       0.068      -          -          128
-130        Seattle             2-2        WCC        0.067      -          -          110
-131        San Francisco       3-1        WCC        0.066      -          -          121
-132        Richmond            3-1        A10        0.062      -          -          169
-133        Hawai'i             3-1        MW         0.062      -          -          109
-134        Duquesne            4-0        A10        0.061      -          -          125
-135        ETSU                1-2        SoCon      0.059      -          -          151
-136        Furman              4-1        SoCon      0.056      -          -          160
-137        Fresno State        3-1        P12        0.051      -          -          131
-138        Temple              2-2        Amer       0.050      -          -          132
-139        Texas State         5-0        P12        0.048      -          -          203
-140        Middle Tennessee    3-1        CUSA       0.046      -          -          143
-141        Austin Peay         2-2        UAC        0.044      -          -          133
-142        William & Mary      2-2        CAA        0.043      -          -          145
-143        Western Kentucky    3-1        CUSA       0.037      -          -          152
-144        Siena               3-1        MAAC       0.036      -          -          154
-145        Kennesaw State      4-0        CUSA       0.036      -          -          135
-146        UC San Diego        2-1        BW         0.035      -          -          123
-147        St. Thomas          2-3        Sum        0.031      -          -          106
-148        Rhode Island        5-0        A10        0.028      -          -          177
-149        South Alabama       2-3        SB         0.027      -          -          159
-150        Towson              3-2        CAA        0.027      -          -          189
-151        Bowling Green       3-0        MAC        0.025      -          -          167
-152        Howard              3-2        MEAC       0.022      -          -          174
-153        UMass               2-1        MAC        0.022      -          -          162
-154        South Dakota State  4-0        Sum        0.018      -          -          218
-155        Washington State    1-3        P12        0.015      -          -          144
-156        Penn                1-3        Ivy        0.015      -          -          158
-157        Georgia Tech        4-0        ACC        0.012      -          -          184
-158        Valparaiso          2-1        MVC        0.010      -          -          171
-159        Cal Baptist         1-3        BW         0.009      -          -          98
-160        Arkansas State      2-2        SB         0.008      -          -          134
-161        Charleston          4-0        CAA        0.008      -          -          179
-162        North Dakota State  2-4        Sum        0.006      -          -          108
-163        Missouri State      3-0        CUSA       0.006      -          -          164
-164        UTRGV               2-2        Slnd       0.003      -          -          136
-165        New Mexico State    1-3        CUSA       0.003      -          -          156
-166        UC Davis            3-1        MW         0.000      -          -          161
-167        Marshall            1-3        SB         -0.005     -          -          200
-168        LMU                 2-3        WCC        -0.008     -          -          165
-169        Troy                1-3        SB         -0.009     -          -          146
-170        Fordham             3-1        A10        -0.010     -          -          212
-171        Queens              3-2        ASun       -0.013     -          -          172
-172        Oakland             1-5        Horz       -0.014     -          -          176
-173        Central Arkansas    2-2        UAC        -0.015     -          -          148
-174        Kent State          1-2        MAC        -0.016     -          -          138
-175        Tulane              2-2        Amer       -0.016     -          -          181
-176        James Madison       2-2        SB         -0.020     -          -          206
-177        Monmouth            1-2        CAA        -0.021     -          -          163
-178        App State           3-1        SB         -0.022     -          -          204
-179        FIU                 3-0        CUSA       -0.028     -          -          183
-180        Jax State           2-2        CUSA       -0.033     -          -          197
-181        Charlotte           2-2        Amer       -0.035     -          -          168
-182        Robert Morris       1-3        Horz       -0.035     -          -          175
-183        Louisiana Tech      2-2        SB         -0.041     -          -          202
-184        Eastern Washington  1-3        BSky       -0.044     -          -          180
-185        Ohio                2-1        MAC        -0.044     -          -          215
-186        Northern Kentucky   2-3        Horz       -0.045     -          -          166
-187        Winthrop            0-4        BSth       -0.046     -          -          157
-188        Northern Colorado   2-2        BSky       -0.047     -          -          149
-189        Idaho               2-2        BSky       -0.050     -          -          153
-190        Portland State      2-2        BSky       -0.053     -          -          209
-191        Bradley             3-2        MVC        -0.055     -          -          142
-192        Iona                2-3        MAAC       -0.061     -          -          205
-193        Drake               3-0        MVC        -0.062     -          -          222
-194        UT Arlington        4-1        UAC        -0.067     -          -          178
-195        Merrimack           1-3        MAAC       -0.070     -          -          155
-196        San Diego           3-1        WCC        -0.070     -          -          244
-197        Harvard             2-3        Ivy        -0.071     -          -          190
-198        Tarleton State      3-1        UAC        -0.072     -          -          192
-199        Lipscomb            3-2        ASun       -0.073     -          -          226
-200        Quinnipiac          2-3        MAAC       -0.075     -          -          186
-201        Portland            3-2        WCC        -0.076     -          -          182
-202        Bethune-Cookman     1-4        SWAC       -0.078     -          -          199
-203        Southern Miss       2-2        SB         -0.079     -          -          198
-204        Cal Poly            2-3        BW         -0.084     -          -          229
-205        Drexel              2-2        CAA        -0.084     -          -          207
-206        Youngstown State    2-2        Horz       -0.084     -          -          228
-207        Marist              1-3        MAAC       -0.084     -          -          185
-208        Texas A&M-CC        2-2        Slnd       -0.088     -          -          188
-209        Mercer              2-3        SoCon      -0.089     -          -          187
-210        Utah Tech           1-3        BSky       -0.091     -          -          216
-211        Georgia Southern    1-3        SB         -0.093     -          -          236
-212        UTEP                2-1        MW         -0.094     -          -          242
-213        Denver              0-3        WCC        -0.095     -          -          213
-214        La Salle            1-3        A10        -0.098     -          -          225
-215        CSUN                1-2        BW         -0.099     -          -          191
-216        Wofford             2-3        SoCon      -0.103     -          -          223
-217        New Orleans         2-1        Slnd       -0.106     -          -          195
-218        Campbell            1-3        CAA        -0.106     -          -          224
-219        Cornell             2-2        Ivy        -0.109     -          -          173
-220        Detroit             0-3        Horz       -0.117     -          -          193
-221        Rice                2-2        Amer       -0.119     -          -          211
-222        East Carolina       3-1        Amer       -0.120     -          -          268
-223        Green Bay           3-2        Horz       -0.120     -          -          208
-224        Coastal Carolina    2-3        SB         -0.122     -          -          217
-225        North Dakota        1-3        Sum        -0.123     -          -          240
-226        San Jose State      2-2        MW         -0.123     -          -          230
-227        Samford             1-2        SoCon      -0.124     -          -          234
-228        Eastern Michigan    2-1        MAC        -0.128     -          -          239
-229        Columbia            3-1        Ivy        -0.129     -          -          201
-230        Fullerton           2-1        BW         -0.131     -          -          219
-231        Radford             1-3        BSth       -0.131     -          -          237
-232        Loyola Chicago      3-1        A10        -0.135     -          -          288
-233        Elon                2-2        CAA        -0.135     -          -          255
-234        Vermont             2-2        AE         -0.135     -          -          248
-235        Old Dominion        5-0        SB         -0.135     -          -          249
-236        Buffalo             2-2        MAC        -0.137     -          -          214
-237        Colgate             0-4        PL         -0.138     -          -          245
-238        UMBC                2-3        AE         -0.138     -          -          194
-239        American            2-2        PL         -0.146     -          -          270
-240        Navy                4-1        PL         -0.147     -          -          196
-241        Princeton           3-2        Ivy        -0.152     -          -          264
-242        Weber State         1-3        BSky       -0.154     -          -          221
-243        Tennessee State     2-2        OVC        -0.156     -          -          220
-244        Western Michigan    4-1        MAC        -0.158     -          -          283
-245        Western Carolina    2-2        SoCon      -0.159     -          -          247
-246        Montana             2-2        BSky       -0.161     -          -          210
-247        SE Missouri State   2-2        OVC        -0.163     -          -          232
-248        Central Michigan    4-0        MAC        -0.164     -          -          258
-249        Charleston Southern 2-2        BSth       -0.170     -          -          243
-250        Abilene Christian   1-2        UAC        -0.171     -          -          256
-251        Florida Gulf Coast  2-3        ASun       -0.171     -          -          231
-252        UT Martin           3-2        OVC        -0.178     -          -          252
-253        LIU                 0-5        NEC        -0.184     -          -          235
-254        Long Beach State    1-2        BW         -0.185     -          -          273
-255        East Texas A&M      3-1        Slnd       -0.186     -          -          294
-256        Indiana State       2-2        MVC        -0.191     -          -          233
-257        UNC Asheville       2-3        BSth       -0.195     -          -          246
-258        PFW                 2-2        Horz       -0.197     -          -          272
-259        Longwood            3-2        BSth       -0.201     -          -          251
-260        Sac State           1-2        BW         -0.206     -          -          274
-261        Saint Peter's       0-4        MAAC       -0.206     -          -          227
-262        Southern            0-5        SWAC       -0.207     -          -          254
-263        Presbyterian        0-3        BSth       -0.208     -          -          262
-264        Northern Arizona    0-4        BSky       -0.208     -          -          297
-265        Chattanooga         2-2        SoCon      -0.212     -          -          281
-266        Lamar               2-1        Slnd       -0.213     -          -          257
-267        Fairfield           2-2        MAAC       -0.217     -          -          253
-268        Mount St. Mary's    1-2        MAAC       -0.217     -          -          260
-269        Stony Brook         1-2        CAA        -0.217     -          -          241
-270        UC Riverside        3-1        BW         -0.218     -          -          266
-271        Idaho State         0-4        BSky       -0.220     -          -          263
-272        Delaware            2-2        CUSA       -0.222     -          -          278
-273        Milwaukee           2-3        Horz       -0.222     -          -          285
-274        UMass Lowell        3-1        AE         -0.223     -          -          308
-275        South Dakota        2-4        Sum        -0.226     -          -          259
-276        Omaha               3-2        Sum        -0.228     -          -          238
-277        Nicholls            2-2        Slnd       -0.232     -          -          276
-278        Northeastern        2-2        CAA        -0.232     -          -          313
-279        Georgia State       2-3        SB         -0.237     -          -          298
-280        Pepperdine          2-2        WCC        -0.243     -          -          269
-281        Lehigh              2-2        PL         -0.245     -          -          305
-282        Jacksonville        2-1        ASun       -0.248     -          -          307
-283        Oral Roberts        2-2        Sum        -0.252     -          -          309
-284        Louisiana           1-2        SB         -0.256     -          -          277
-285        SE Louisiana        1-2        Slnd       -0.258     -          -          295
-286        Boston University   4-1        PL         -0.258     -          -          287
-287        Eastern Kentucky    3-1        UAC        -0.259     -          -          290
-288        West Georgia        0-4        UAC        -0.261     -          -          265
-289        Morehead State      2-2        OVC        -0.262     -          -          267
-290        Lindenwood          2-3        OVC        -0.266     -          -          250
-291        Grambling           1-1        SWAC       -0.267     -          -          292
-292        Jackson State       2-3        SWAC       -0.268     -          -          321
-293        Dartmouth           3-2        Ivy        -0.273     -          -          289
-294        SIUE                2-3        OVC        -0.275     -          -          261
-295        Bellarmine          1-4        ASun       -0.275     -          -          301
-296        Prairie View        2-3        SWAC       -0.286     -          -          291
-297        Stetson             0-4        ASun       -0.294     -          -          296
-298        UNCG                2-2        SoCon      -0.295     -          -          282
-299        Sacred Heart        2-2        MAAC       -0.296     -          -          293
-300        Houston Christian   4-0        Slnd       -0.296     -          -          312
-301        Pine Bluff          0-5        SWAC       -0.298     -          -          286
-302        Evansville          2-2        MVC        -0.298     -          -          300
-303        Alabama A&M         3-2        SWAC       -0.300     -          -          284
-304        Brown               1-4        Ivy        -0.300     -          -          304
-305        Tennessee Tech      3-2        SoCon      -0.303     -          -          323
-306        Le Moyne            2-2        NEC        -0.306     -          -          306
-307        North Florida       1-3        ASun       -0.306     -          -          324
-308        Mercyhurst          1-4        NEC        -0.314     -          -          279
-309        CCSU                3-2        NEC        -0.316     -          -          303
-310        Bakersfield         4-0        BW         -0.326     -          -          337
-311        Little Rock         1-3        UAC        -0.336     -          -          326
-312        Northern Illinois   3-2        Horz       -0.336     -          -          330
-313        Hampton             1-3        CAA        -0.337     -          -          302
-314        North Alabama       2-2        UAC        -0.338     -          -          328
-315        Ball State          1-3        MAC        -0.340     -          -          299
-316        SC Upstate          1-4        BSth       -0.341     -          -          280
-317        Texas Southern      1-3        SWAC       -0.342     -          -          310
-318        Northwestern State  1-4        Slnd       -0.343     -          -          318
-319        Wagner              1-3        NEC        -0.345     -          -          315
-320        NJIT                1-5        AE         -0.346     -          -          311
-321        Incarnate Word      0-4        Slnd       -0.349     -          -          275
-322        IUI                 3-1        Horz       -0.350     -          -          320
-323        Florida A&M         0-4        SWAC       -0.358     -          -          271
-324        Eastern Illinois    1-4        OVC        -0.364     -          -          317
-325        UTSA                2-2        Amer       -0.366     -          -          341
-326        Alabama State       1-3        SWAC       -0.374     -          -          314
-327        Southern Utah       3-2        BSky       -0.377     -          -          316
-328        Niagara             0-4        MAAC       -0.381     -          -          338
-329        Louisiana-Monroe    1-5        SB         -0.385     -          -          351
-330        New Haven           1-3        NEC        -0.389     -          -          327
-331        Air Force           3-2        MW         -0.391     -          -          340
-332        Lafayette           2-3        PL         -0.399     -          -          332
-333        UMKC                2-3        Sum        -0.406     -          -          358
-334        Albany              3-2        AE         -0.407     -          -          325
-335        Alcorn State        0-4        SWAC       -0.408     -          -          334
-336        NC A&T              2-2        CAA        -0.410     -          -          319
-337        SC State            3-2        MEAC       -0.411     -          -          353
-338        Cleveland State     3-2        Horz       -0.413     -          -          329
-339        FDU                 2-3        NEC        -0.414     -          -          339
-340        New Hampshire       3-2        AE         -0.414     -          -          347
-341        Bucknell            0-4        PL         -0.415     -          -          331
-342        Bryant              1-4        AE         -0.416     -          -          350
-343        Chicago State       2-4        NEC        -0.420     -          -          342
-344        The Citadel         3-1        SoCon      -0.422     -          -          335
-345        Manhattan           1-3        MAAC       -0.422     -          -          333
-346        Stonehill           1-3        NEC        -0.422     -          -          344
-347        Southern Indiana    1-4        OVC        -0.427     -          -          346
-348        NC Central          0-4        MEAC       -0.433     -          -          343
-349        Canisius            2-3        MAAC       -0.450     -          -          336
-350        Maine               1-4        AE         -0.462     -          -          357
-351        Loyola MD           1-4        PL         -0.462     -          -          345
-352        UMES                1-4        MEAC       -0.463     -          -          348
-353        West Florida        2-3        ASun       -0.482     -          -          -
-354        Norfolk State       2-3        MEAC       -0.487     -          -          322
-355        Army                2-2        PL         -0.488     -          -          354
-356        Morgan State        4-1        MEAC       -0.498     -          -          355
-357        Holy Cross          0-4        PL         -0.505     -          -          349
-358        Binghamton          3-2        AE         -0.515     -          -          361
-359        VMI                 3-2        SoCon      -0.517     -          -          359
-360        Delaware State      1-3        MEAC       -0.521     -          -          360
-361        Rider               1-4        MAAC       -0.564     -          -          356
-362        Gardner-Webb        1-3        BSth       -0.566     -          -          363
-363        Western Illinois    1-3        OVC        -0.576     -          -          362
-364        Coppin State        1-4        MEAC       -0.578     -          -          364
-365        Mississippi Valley  0-4        SWAC       -0.620     -          -          365
+1          Houston             6-0        B12        0.835      4          7          5
+2          Arizona             4-1        B12        0.822      55         6          2
+3          Michigan            3-2        B10        0.772      191        4          1
+4          Florida             6-1        SEC        0.756      61         8          4
+5          Illinois            5-1        B10        0.733      29         33         6
+6          UConn               4-1        BE         0.724      56         12         7
+7          St. John's          5-0        BE         0.717      3          79         9
+8          Alabama             5-0        SEC        0.712      14         38         10
+9          Michigan State      5-1        B10        0.701      32         18         12
+10         Duke                4-2        ACC        0.677      95         49         3
+11         Vanderbilt          6-0        SEC        0.673      9          95         11
+12         Kansas              5-1        B12        0.646      70         9          17
+13         Purdue              4-2        B10        0.641      77         52         8
+14         Texas Tech          5-0        B12        0.638      5          109        18
+15         Virginia            7-0        ACC        0.619      10         135        14
+16         Gonzaga             3-1        P12        0.619      119        11         15
+17         Iowa State          3-1        B12        0.607      39         165        13
+18         Nebraska            6-0        B10        0.592      15         86         22
+19         Tennessee           5-0        SEC        0.585      64         63         16
+20         UCLA                6-0        B10        0.564      12         123        24
+21         Utah State          5-0        P12        0.556      2          194        27
+22         Iowa                3-2        B10        0.534      77         46         23
+23         Louisville          3-1        ACC        0.532      51         178        20
+24         Arkansas            4-2        SEC        0.526      98         70         19
+25         BYU                 5-0        B12        0.518      16         64         39
+26         North Carolina      4-1        ACC        0.514      83         48         26
+27         NC State            5-1        ACC        0.491      42         60         35
+28         Ohio State          4-2        B10        0.490      123        37         25
+29         Santa Clara         5-1        WCC        0.471      115        54         28
+30         Indiana             6-0        B10        0.470      68         57         32
+31         Texas A&M           6-0        SEC        0.470      30         128        38
+32         Cincinnati          5-1        B12        0.469      47         80         36
+33         Villanova           4-2        BE         0.464      91         69         29
+34         Saint Mary's        6-1        WCC        0.450      80         76         31
+35         Miami FL            5-1        ACC        0.442      22         222        33
+36         San Diego State     5-0        P12        0.439      23         149        44
+37         Auburn              3-3        SEC        0.433      164        14         34
+38         Missouri            5-1        SEC        0.430      27         177        42
+39         Wisconsin           4-2        B10        0.427      159        108        21
+40         Saint Louis         3-2        A10        0.423      175        20         37
+41         USC                 6-0        B10        0.423      7          134        64
+42         Georgia             6-0        SEC        0.418      45         161        40
+43         Virginia Tech       6-1        ACC        0.411      46         67         55
+44         Clemson             4-1        ACC        0.410      122        171        30
+45         Minnesota           7-0        B10        0.403      26         83         70
+46         Baylor              4-1        B12        0.402      11         145        60
+47         Texas               6-0        SEC        0.400      13         270        43
+48         VCU                 3-1        A10        0.394      103        88         45
+49         New Mexico          3-2        MW         0.387      107        73         47
+50         Mississippi         4-0        SEC        0.378      1          247        67
+51         Florida State       5-1        ACC        0.377      49         121        54
+52         Arizona State       5-0        B12        0.369      35         139        59
+53         SMU                 6-0        ACC        0.366      24         254        49
+54         West Virginia       4-2        B12        0.360      121        22         66
+55         Grand Canyon        4-0        MW         0.359      21         237        53
+56         Seton Hall          5-1        BE         0.357      151        15         58
+57         LSU                 6-0        SEC        0.356      31         118        75
+58         Kentucky            4-2        SEC        0.339      177        65         41
+59         High Point          6-0        BSth       0.335      50         103        76
+60         TCU                 4-1        B12        0.331      92         172        50
+61         Oklahoma State      4-2        B12        0.328      113        28         82
+62         Georgetown          6-0        BE         0.319      25         219        71
+63         Marquette           4-2        BE         0.314      52         81         90
+64         Xavier              5-1        BE         0.303      54         107        88
+65         Washington          4-0        B10        0.299      20         312        63
+66         Wake Forest         5-1        ACC        0.294      67         155        73
+67         Syracuse            4-2        ACC        0.293      101        84         77
+68         Oklahoma            4-1        SEC        0.287      97         284        48
+69         Notre Dame          6-1        ACC        0.285      112        45         95
+70         Wyoming             5-1        MW         0.283      57         130        89
+71         Tulsa               4-1        Amer       0.278      89         238        57
+72         UCF                 4-2        B12        0.275      230        35         56
+73         USF                 3-3        Amer       0.272      207        124        46
+74         Creighton           4-1        BE         0.272      96         101        84
+75         Stanford            5-1        ACC        0.272      149        110        61
+76         Boise State         3-2        P12        0.270      153        196        51
+77         Providence          4-1        BE         0.270      86         140        81
+78         Wichita State       5-1        Amer       0.267      88         122        86
+79         Butler              4-3        BE         0.262      154        91         62
+80         Cal                 4-2        ACC        0.260      172        62         69
+81         DePaul              5-0        BE         0.244      34         167        104
+82         Wright State        5-0        Horz       0.243      6          216        118
+83         South Carolina      5-0        SEC        0.241      17         275        93
+84         Nevada              3-2        MW         0.237      232        34         74
+85         Miami OH            5-0        MAC        0.236      68         280        72
+86         Memphis             4-1        Amer       0.236      212        2          114
+87         Mississippi State   5-1        SEC        0.231      106        77         102
+88         Akron               4-1        MAC        0.223      62         350        52
+89         Pitt                6-0        ACC        0.223      93         93         111
+90         Northwestern        4-3        B10        0.218      184        104        65
+91         George Mason        5-1        A10        0.213      28         242        113
+92         Oregon              3-1        B10        0.207      59         200        101
+93         Murray State        6-1        MVC        0.207      72         119        126
+94         Dayton              3-4        A10        0.191      197        97         78
+95         Kansas State        3-2        B12        0.187      132        106        105
+96         Utah Valley         5-0        BW         0.187      85         193        103
+97         Colorado State      4-1        P12        0.182      203        116        87
+98         George Washington   5-2        A10        0.181      105        207        92
+99         Sam Houston         3-3        CUSA       0.173      200        39         112
+100        Rutgers             4-2        B10        0.168      94         89         137
+101        McNeese             2-2        Slnd       0.166      206        252        80
+102        Maryland            3-2        B10        0.164      131        115        115
+103        Seattle             4-2        WCC        0.158      130        158        110
+104        Saint Joseph's      5-1        A10        0.157      146        160        100
+105        Davidson            3-2        A10        0.149      210        99         97
+106        Illinois State      3-3        MVC        0.142      99         279        94
+107        Texas State         7-0        P12        0.141      8          249        203
+108        Belmont             4-1        MVC        0.140      81         354        68
+109        Yale                3-3        Ivy        0.139      179        183        91
+110        Liberty             4-2        CUSA       0.139      116        260        99
+111        Oregon State        6-0        P12        0.135      33         189        170
+112        Colorado            2-3        B12        0.134      313        51         85
+113        UC Santa Barbara    5-0        BW         0.131      19         290        139
+114        Western Kentucky    5-2        CUSA       0.129      60         205        152
+115        Boston College      6-0        ACC        0.124      37         273        141
+116        SF Austin           5-1        Slnd       0.124      71         348        83
+117        St. Bonaventure     4-1        A10        0.121      38         243        147
+118        Northern Iowa       3-3        MVC        0.108      247        208        79
+119        FAU                 4-1        Amer       0.106      167        230        107
+120        Toledo              3-3        MAC        0.105      260        31         122
+121        Montana State       2-4        BSky       0.103      268        13         140
+122        UC Irvine           3-3        BW         0.098      84         298        117
+123        North Texas         3-2        Amer       0.088      155        170        130
+124        San Francisco       4-1        WCC        0.087      170        186        121
+125        Penn State          5-1        B10        0.080      74         251        150
+126        UNC Wilmington      5-1        CAA        0.078      36         347        120
+127        Hofstra             2-3        CAA        0.072      253        225        96
+128        Temple              3-3        Amer       0.070      201        120        132
+129        Pacific             5-1        WCC        0.070      18         360        116
+130        UAB                 4-3        Amer       0.063      205        125        128
+131        Kennesaw State      5-1        CUSA       0.059      82         307        135
+132        UNLV                3-3        MW         0.058      323        17         119
+133        Washington State    2-4        P12        0.057      241        59         144
+134        St. Thomas          5-3        Sum        0.052      145        278        106
+135        William & Mary      5-2        CAA        0.051      114        266        145
+136        Duquesne            5-1        A10        0.051      165        226        125
+137        Rhode Island        6-1        A10        0.051      100        218        177
+138        Fresno State        4-2        P12        0.042      142        263        131
+139        Hawai'i             3-2        MW         0.042      202        293        109
+140        Richmond            4-3        A10        0.041      152        153        169
+141        Utah                3-3        B12        0.039      272        66         129
+142        Furman              6-1        SoCon      0.039      43         330        160
+143        Austin Peay         3-3        UAC        0.036      110        316        133
+144        Marshall            2-4        SB         0.036      217        29         200
+145        ETSU                2-3        SoCon      0.033      286        36         151
+146        Charlotte           3-2        Amer       0.030      209        74         168
+147        UIC                 4-2        MVC        0.030      196        233        124
+148        Siena               4-2        MAAC       0.028      219        117        154
+149        Arkansas State      3-2        SB         0.028      227        191        134
+150        UMass               3-2        MAC        0.026      139        206        162
+151        South Alabama       4-4        SB         0.025      186        151        159
+152        Penn                3-3        Ivy        0.025      199        141        158
+153        Missouri State      5-0        CUSA       0.025      48         329        164
+154        Southern Illinois   3-3        MVC        0.023      189        244        127
+155        San Diego           6-1        WCC        0.021      75         180        244
+156        Middle Tennessee    5-2        CUSA       0.020      176        199        143
+157        Howard              3-3        MEAC       0.018      192        126        174
+158        Fordham             5-2        A10        0.018      137        143        212
+159        App State           4-1        SB         0.016      58         259        204
+160        LMU                 4-3        WCC        0.013      125        255        165
+161        North Dakota State  2-5        Sum        0.011      292        142        108
+162        UTRGV               4-2        Slnd       -0.002     163        283        136
+163        Troy                3-4        SB         -0.003     294        56         146
+164        Central Arkansas    3-3        UAC        -0.008     214        209        148
+165        Georgia Tech        5-1        ACC        -0.009     156        201        184
+166        Oakland             1-7        Horz       -0.009     351        1          176
+167        Queens              3-3        ASun       -0.012     306        24         172
+168        Charleston          4-1        CAA        -0.013     53         338        179
+169        UC San Diego        3-2        BW         -0.020     311        175        123
+170        Louisiana Tech      4-2        SB         -0.022     171        168        202
+171        Eastern Washington  2-3        BSky       -0.028     236        136        180
+172        Tulane              2-3        Amer       -0.029     231        152        181
+173        South Dakota State  5-1        Sum        -0.030     66         304        218
+174        Bowling Green       3-2        MAC        -0.030     187        253        167
+175        Jax State           3-3        CUSA       -0.036     211        148        197
+176        Monmouth            1-4        CAA        -0.037     334        26         163
+177        Ohio                3-1        MAC        -0.037     193        92         215
+178        Robert Morris       2-4        Horz       -0.038     281        82         175
+179        Campbell            2-4        CAA        -0.039     254        53         224
+180        FIU                 3-1        CUSA       -0.039     90         337        183
+181        James Madison       4-2        SB         -0.040     109        287        206
+182        UTEP                4-1        MW         -0.040     76         217        242
+183        New Mexico State    1-5        CUSA       -0.041     324        50         156
+184        Drake               4-2        MVC        -0.041     124        241        222
+185        Towson              3-4        CAA        -0.043     233        129        189
+186        UT Arlington        6-1        UAC        -0.044     73         343        178
+187        Drexel              3-2        CAA        -0.045     258        72         207
+188        UC Davis            3-2        MW         -0.045     161        314        161
+189        Valparaiso          4-2        MVC        -0.056     208        240        171
+190        Idaho               3-3        BSky       -0.060     160        324        153
+191        Kent State          2-3        MAC        -0.063     265        295        138
+192        Columbia            5-1        Ivy        -0.063     102        322        201
+193        Fullerton           3-2        BW         -0.063     180        184        219
+194        Northern Kentucky   3-3        Horz       -0.064     266        185        166
+195        Harvard             3-4        Ivy        -0.065     133        302        190
+196        Cal Baptist         2-5        BW         -0.072     335        169        98
+197        Wofford             4-3        SoCon      -0.074     174        221        223
+198        Denver              1-4        WCC        -0.075     261        113        213
+199        Eastern Michigan    4-1        MAC        -0.080     108        276        239
+200        Cal Poly            3-3        BW         -0.081     278        55         229
+201        Southern Miss       5-3        SB         -0.081     224        192        198
+202        Bethune-Cookman     1-5        SWAC       -0.081     319        43         199
+203        Tarleton State      4-2        UAC        -0.082     194        265        192
+204        Portland            4-4        WCC        -0.082     136        318        182
+205        Marist              2-3        MAAC       -0.088     226        269        185
+206        Bradley             3-4        MVC        -0.088     283        214        142
+207        Georgia Southern    2-4        SB         -0.089     223        138        236
+208        Rice                4-2        Amer       -0.090     188        248        211
+209        Mercer              3-4        SoCon      -0.090     275        147        187
+210        New Orleans         3-2        Slnd       -0.094     245        239        195
+211        La Salle            2-4        A10        -0.094     305        42         225
+212        Northern Colorado   3-3        BSky       -0.094     213        326        149
+213        Loyola Chicago      4-2        A10        -0.095     118        182        288
+214        Iona                3-4        MAAC       -0.095     282        114        205
+215        Merrimack           1-4        MAAC       -0.096     349        90         155
+216        Cornell             3-3        Ivy        -0.097     204        303        173
+217        Texas A&M-CC        2-4        Slnd       -0.106     244        245        188
+218        Samford             3-2        SoCon      -0.108     169        257        234
+219        Radford             2-4        BSth       -0.111     251        133        237
+220        Youngstown State    2-4        Horz       -0.111     328        25         228
+221        Old Dominion        5-1        SB         -0.114     120        291        249
+222        Princeton           4-2        Ivy        -0.114     158        190        264
+223        Elon                3-3        CAA        -0.115     222        132        255
+224        Utah Tech           1-5        BSky       -0.116     302        85         216
+225        San Jose State      3-3        MW         -0.116     243        179        230
+226        Western Michigan    5-1        MAC        -0.116     44         320        283
+227        Coastal Carolina    2-4        SB         -0.120     271        166        217
+228        Vermont             3-3        AE         -0.121     127        294        248
+229        UT Martin           4-3        OVC        -0.123     79         333        252
+230        American            4-2        PL         -0.126     190        156        270
+231        Winthrop            0-6        BSth       -0.128     336        157        157
+232        Portland State      3-4        BSky       -0.129     178        300        209
+233        East Carolina       3-3        Amer       -0.131     162        204        268
+234        North Dakota        3-3        Sum        -0.133     240        187        240
+235        Quinnipiac          2-4        MAAC       -0.138     317        159        186
+236        Detroit             0-5        Horz       -0.140     361        10         193
+237        CSUN                1-4        BW         -0.140     299        236        191
+238        Colgate             2-4        PL         -0.144     195        258        245
+239        UMBC                4-4        AE         -0.144     228        277        194
+240        Buffalo             2-3        MAC        -0.154     229        315        214
+241        Green Bay           3-4        Horz       -0.155     252        264        208
+242        Lipscomb            4-4        ASun       -0.156     273        174        226
+243        Tennessee State     2-3        OVC        -0.158     234        297        220
+244        Chattanooga         3-3        SoCon      -0.164     181        203        281
+245        Weber State         1-4        BSky       -0.164     325        150        221
+246        Idaho State         1-4        BSky       -0.171     316        41         263
+247        Montana             2-3        BSky       -0.174     255        323        210
+248        UMass Lowell        4-2        AE         -0.174     128        235        308
+249        Lamar               3-2        Slnd       -0.175     65         353        257
+250        Central Michigan    4-2        MAC        -0.180     216        234        258
+251        Tennessee Tech      5-2        SoCon      -0.181     63         311        323
+252        LIU                 1-7        NEC        -0.182     326        68         235
+253        PFW                 4-2        Horz       -0.183     110        336        272
+254        Sac State           1-3        BW         -0.187     285        78         274
+255        Lehigh              4-2        PL         -0.187     126        267        305
+256        Long Beach State    1-3        BW         -0.190     338        19         273
+257        Florida Gulf Coast  2-4        ASun       -0.191     249        289        231
+258        Oral Roberts        3-3        Sum        -0.194     168        195        309
+259        Northern Arizona    1-5        BSky       -0.198     303        44         297
+260        Western Carolina    2-4        SoCon      -0.200     274        228        247
+261        Charleston Southern 2-4        BSth       -0.203     296        202        243
+262        East Texas A&M      3-3        Slnd       -0.203     287        71         294
+263        Indiana State       2-4        MVC        -0.204     259        292        233
+264        South Dakota        3-5        Sum        -0.207     256        223        259
+265        Longwood            4-3        BSth       -0.208     138        346        251
+266        Southern            1-5        SWAC       -0.209     340        58         254
+267        UC Riverside        3-2        BW         -0.210     238        256        266
+268        SE Missouri State   3-3        OVC        -0.212     247        319        232
+269        Stony Brook         3-2        CAA        -0.212     135        356        241
+270        Presbyterian        1-4        BSth       -0.214     347        32         262
+271        Navy                4-3        PL         -0.218     263        325        196
+272        Northeastern        2-4        CAA        -0.218     280        61         313
+273        Georgia State       2-4        SB         -0.221     157        288        298
+274        Abilene Christian   3-3        UAC        -0.223     185        331        256
+275        Milwaukee           2-4        Horz       -0.231     307        102        285
+276        Boston University   5-2        PL         -0.233     182        299        287
+277        Eastern Kentucky    5-2        UAC        -0.242     41         363        290
+278        Alabama A&M         4-2        SWAC       -0.245     117        352        284
+279        Nicholls            2-5        Slnd       -0.245     298        173        276
+280        Delaware            4-3        CUSA       -0.248     215        301        278
+281        Saint Peter's       0-6        MAAC       -0.251     348        164        227
+282        Grambling           1-3        SWAC       -0.252     343        47         292
+283        UNCG                4-2        SoCon      -0.255     141        349        282
+284        Stetson             1-5        ASun       -0.257     344        40         296
+285        Pepperdine          3-3        WCC        -0.260     87         364        269
+286        UNC Asheville       2-5        BSth       -0.262     297        272        246
+287        Prairie View        2-4        SWAC       -0.263     295        188        291
+288        UTSA                4-2        Amer       -0.263     148        220        341
+289        SE Louisiana        1-4        Slnd       -0.264     358        16         295
+290        Fairfield           4-2        MAAC       -0.265     269        321        253
+291        Lindenwood          2-4        OVC        -0.269     250        340        250
+292        Evansville          3-3        MVC        -0.269     270        229        300
+293        Houston Christian   4-1        Slnd       -0.272     40         361        312
+294        Omaha               3-3        Sum        -0.272     327        261        238
+295        Sacred Heart        2-3        MAAC       -0.273     183        334        293
+296        Northern Illinois   4-3        Horz       -0.274     239        176        330
+297        Bellarmine          2-5        ASun       -0.275     321        100        301
+298        Jacksonville        2-4        ASun       -0.277     267        215        307
+299        Jackson State       2-4        SWAC       -0.279     339        23         321
+300        Brown               2-5        Ivy        -0.282     242        271        304
+301        Mount St. Mary's    1-4        MAAC       -0.292     359        94         260
+302        Louisiana           1-4        SB         -0.294     352        137        277
+303        Dartmouth           4-2        Ivy        -0.295     104        362        289
+304        North Florida       3-3        ASun       -0.297     237        213        324
+305        IUI                 4-2        Horz       -0.299     134        341        320
+306        SIUE                3-4        OVC        -0.306     235        339        261
+307        Pine Bluff          0-6        SWAC       -0.315     365        3          286
+308        Bakersfield         4-1        BW         -0.316     143        296        337
+309        West Georgia        2-4        UAC        -0.318     262        344        265
+310        Morehead State      3-4        OVC        -0.318     263        332        267
+311        Northwestern State  1-5        Slnd       -0.322     312        154        318
+312        Bucknell            1-5        PL         -0.322     342        30         331
+313        Little Rock         2-4        UAC        -0.326     304        131        326
+314        Eastern Illinois    1-6        OVC        -0.326     356        27         317
+315        Ball State          1-4        MAC        -0.331     331        212        299
+316        North Alabama       4-2        UAC        -0.333     257        250        328
+317        Alabama State       2-4        SWAC       -0.335     290        246        314
+318        Lafayette           3-4        PL         -0.336     166        328        332
+319        Le Moyne            2-4        NEC        -0.339     320        211        306
+320        Hampton             1-3        CAA        -0.340     310        285        302
+321        Southern Utah       3-3        BSky       -0.342     129        357        316
+322        CCSU                4-2        NEC        -0.344     277        306        303
+323        Louisiana-Monroe    2-6        SB         -0.348     276        163        351
+324        Wagner              1-5        NEC        -0.354     353        75         315
+325        Mercyhurst          3-5        NEC        -0.359     315        274        279
+326        Texas Southern      1-6        SWAC       -0.367     354        87         310
+327        Incarnate Word      1-5        Slnd       -0.374     355        231        275
+328        FDU                 3-3        NEC        -0.378     309        162        339
+329        UMKC                3-4        Sum        -0.379     246        181        358
+330        New Hampshire       4-3        AE         -0.379     147        345        347
+331        NC A&T              3-2        CAA        -0.381     140        365        319
+332        The Citadel         4-2        SoCon      -0.383     150        351        335
+333        Niagara             1-4        MAAC       -0.383     337        105        338
+334        NJIT                1-7        AE         -0.393     357        98         311
+335        Cleveland State     3-4        Horz       -0.394     314        227        329
+336        Albany              4-4        AE         -0.400     218        342        325
+337        SC Upstate          1-6        BSth       -0.401     329        310        280
+338        Maine               2-5        AE         -0.401     293        144        357
+339        New Haven           3-3        NEC        -0.406     288        305        327
+340        Stonehill           2-4        NEC        -0.406     279        268        344
+341        Chicago State       2-6        NEC        -0.411     346        96         342
+342        Bryant              3-4        AE         -0.413     301        198        350
+343        Manhattan           1-5        MAAC       -0.417     350        127        333
+344        Air Force           3-3        MW         -0.420     300        262        340
+345        SC State            3-3        MEAC       -0.425     221        313        353
+346        Alcorn State        0-6        SWAC       -0.427     362        21         334
+347        Southern Indiana    2-5        OVC        -0.429     284        282        346
+348        Florida A&M         0-6        SWAC       -0.432     363        197        271
+349        Canisius            4-4        MAAC       -0.450     289        317        336
+350        Loyola MD           1-5        PL         -0.452     330        232        345
+351        West Florida        3-4        ASun       -0.461     173        359        -
+352        NC Central          1-5        MEAC       -0.472     322        281        343
+353        Binghamton          4-3        AE         -0.474     225        309        361
+354        Norfolk State       2-5        MEAC       -0.478     318        327        322
+355        UMES                2-6        MEAC       -0.479     332        210        348
+356        VMI                 4-3        SoCon      -0.496     144        355        359
+357        Delaware State      2-4        MEAC       -0.512     220        335        360
+358        Holy Cross          0-6        PL         -0.517     360        112        349
+359        Rider               2-5        MAAC       -0.522     333        224        356
+360        Army                2-4        PL         -0.523     308        308        354
+361        Morgan State        4-3        MEAC       -0.530     198        358        355
+362        Western Illinois    2-6        OVC        -0.538     290        286        362
+363        Coppin State        1-6        MEAC       -0.556     345        111        364
+364        Gardner-Webb        1-5        BSth       -0.561     341        146        363
+365        Mississippi Valley  0-5        SWAC       -0.588     364        5          365
